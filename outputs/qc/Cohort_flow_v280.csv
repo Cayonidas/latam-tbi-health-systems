@@ -1,0 +1,13 @@
+﻿country,stage,records
+brasil,Validated adult S06 records available,784956
+brasil,"Primary harmonized cohort, age >=20 years",754674
+brasil,Hospital-volume cohort,754674
+mexico,Validated adult S06 records available,198384
+mexico,"Primary harmonized cohort, age >=20 years",187744
+mexico,Hospital-volume cohort,187744
+chile,Validated adult S06 records available,52259
+chile,"Primary harmonized cohort, age >=20 years",52259
+chile,Hospital-volume cohort,0
+equador,Validated adult S06 records available,48892
+equador,"Primary harmonized cohort, age >=20 years",46753
+equador,Hospital-volume cohort,0

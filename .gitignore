@@ -1,0 +1,32 @@
+# Raw and person-level data: never commit
+00_raw/
+01_intermediate/
+analysis_*/
+*.dbc
+*.dbf
+*.parquet
+*.sav
+*.rds
+*.rdata
+*.dta
+
+# Local environments / secrets
+.env
+.venv/
+venv/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# OS/editor artifacts
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local archives
+*.zip
+*.tar
+*.tar.gz

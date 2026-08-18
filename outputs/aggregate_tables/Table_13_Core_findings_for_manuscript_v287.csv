@@ -1,0 +1,18 @@
+domain,country,measure,estimate,confidence_interval,interpretation
+Primary volume,Brazil + Mexico,Adjusted OR per 1-SD prior-year log volume,1.241,1.179–1.307,Between-center association; not causal
+Between-within,Brasil,Between-hospital OR,1.255,1.187–1.327,Persistent between-center differences
+Between-within,Brasil,Within-hospital OR,0.961,0.936–0.986,Change within the same hospital
+Absolute contrast,Brasil,P90 vs P10 adjusted mortality difference,4.45 pp,3.01–5.89 pp,Model-based contrast
+Centralization,Brasil,Top 10% hospital admission share in 2023,68.7%,,Descriptive concentration
+Heterogeneity,Brasil,Median rate ratio,1.40,,Residual between-hospital heterogeneity
+Validation,Brasil,Temporal holdout AUC,0.638,,Moderate discrimination; no hospital ranking
+Between-within,Mexico,Between-hospital OR,1.413,1.282–1.558,Persistent between-center differences
+Between-within,Mexico,Within-hospital OR,1.030,0.962–1.102,Change within the same hospital
+Absolute contrast,Mexico,P90 vs P10 adjusted mortality difference,7.04 pp,2.91–11.17 pp,Model-based contrast
+Centralization,Mexico,Top 10% hospital admission share in 2023,56.0%,,Descriptive concentration
+Heterogeneity,Mexico,Median rate ratio,1.52,,Residual between-hospital heterogeneity
+Validation,Mexico,Temporal holdout AUC,0.625,,Moderate discrimination; no hospital ranking
+Pandemic,Brazil,2021 standardized mortality difference vs 2019,0.71 pp,0.20–1.21 pp,Country-specific 2019 standard population
+Pandemic,Mexico,2021 standardized mortality difference vs 2019,2.25 pp,1.20–3.30 pp,Country-specific 2019 standard population
+Pandemic,Chile,2021 standardized mortality difference vs 2019,2.32 pp,1.25–3.39 pp,Country-specific 2019 standard population
+Pandemic,Ecuador,2021 standardized mortality difference vs 2019,1.39 pp,0.33–2.45 pp,Country-specific 2019 standard population

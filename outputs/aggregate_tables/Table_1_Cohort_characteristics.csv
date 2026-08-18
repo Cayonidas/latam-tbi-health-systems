@@ -1,0 +1,5 @@
+﻿Country,Admissions,Years,Unique hospitals,"Female, %","Age, median","In-hospital mortality, %","Length of stay, median","Length of stay, Q1","Length of stay, Q3",Age data type
+Brazil,754674,2015-2023,3209,22.16,47.0,11.06,4.0,2.0,8.0,Exact age
+Mexico,187744,2015-2023,1178,23.02,46.0,11.09,4.0,2.0,8.0,Exact age
+Chile,52259,2015-2023,0,28.57,54.5,8.12,5.0,2.0,11.0,Grouped age midpoint
+Ecuador,46753,2015-2023,0,22.86,43.0,7.44,4.0,2.0,9.0,Exact age

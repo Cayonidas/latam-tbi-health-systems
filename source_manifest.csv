@@ -1,0 +1,5 @@
+country,source,study_years,portal_url,source_access_date,analytic_role,redistribution
+Brazil,SIH/SUS - Sistema de Informações Hospitalares,2015-2023,https://datasus.saude.gov.br/acesso-a-informacao/producao-hospitalar-sih-sus/,2026-07-31,Admission-level source; validated longitudinal hospital identifiers,Raw data not redistributed
+Mexico,Secretaría de Salud / DGIS hospital discharge data,2015-2023,https://www.dgis.salud.gob.mx/,2026-07-31,Admission-level source; validated longitudinal hospital identifiers; 2015-17 recovered from consolidated release,Raw data not redistributed
+Chile,DEIS Egresos Hospitalarios,2015-2023,https://deis.minsal.cl/sistemas/,2026-07-31,Admission-level source; no validated longitudinal hospital identifier,Raw data not redistributed
+Ecuador,INEC Registro Estadístico de Camas y Egresos Hospitalarios,2015-2023,https://www.ecuadorencifras.gob.ec/camas-y-egresos-hospitalarios/,2026-07-31,Admission-level source; no validated longitudinal hospital identifier,Raw data not redistributed

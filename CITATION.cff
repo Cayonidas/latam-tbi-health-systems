@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this reproducibility bundle, please cite the associated manuscript and the versioned software release."
+title: "LATAM TBI health-systems analysis: reproducibility bundle"
+version: "1.0.0"
+date-released: "2026-08-18"
+license: MIT
+authors:
+  - family-names: "Maciel"
+    given-names: "Caio Arruda"
+    orcid: "https://orcid.org/0009-0007-4514-4891"
+  - family-names: "Carlotti Junior"
+    given-names: "Carlos Gilberto"
+  - family-names: "Godoy"
+    given-names: "Daniel Agustín"
+  - family-names: "Rubiano"
+    given-names: "Andrés Mariano"
+  - family-names: "Paiva"
+    given-names: "Wellingson Silva"
+keywords:
+  - traumatic brain injury
+  - Latin America
+  - health systems
+  - hospital volume
+  - administrative data
+  - neurotrauma
+  - reproducible research

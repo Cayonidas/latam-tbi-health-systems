@@ -1,0 +1,78 @@
+﻿country,predictor,display_variable,eligible_years,level,admissions,deaths,mortality_pct,los_median,level_english
+chile,insurance_type,insurance_type,"2015,2016,2017,2018,2019,2020,2021,2022,2023",CAPREDENA,615,39,6.341463414634147,6.0,CAPREDENA
+chile,insurance_type,insurance_type,"2015,2016,2017,2018,2019,2020,2021,2022,2023",DIPRECA,757,62,8.190224570673713,7.0,DIPRECA
+chile,insurance_type,insurance_type,"2015,2016,2017,2018,2019,2020,2021,2022,2023",FONASA,39669,3540,8.923844815851169,5.0,FONASA
+chile,insurance_type,insurance_type,"2015,2016,2017,2018,2019,2020,2021,2022,2023",ISAPRE,6200,259,4.177419354838709,3.0,ISAPRE
+chile,insurance_type,insurance_type,"2015,2016,2017,2018,2019,2020,2021,2022,2023",NINGUNA,2295,184,8.017429193899781,3.0,NINGUNA
+chile,insurance_type,insurance_type,"2015,2016,2017,2018,2019,2020,2021,2022,2023",Other/rare,2428,134,5.518945634266887,4.0,Other/rare
+chile,insurance_type,insurance_type,"2015,2016,2017,2018,2019,2020,2021,2022,2023",SISA,295,24,8.135593220338983,5.0,SISA
+chile,facility_sector,facility_sector,"2015,2016,2017,2018,2019,2020,2021,2022,2023","No Pertenecientes al Sistema Nacional de Servicios de Salud, SNSS",15157,565,3.727650590486244,4.0,"No Pertenecientes al Sistema Nacional de Servicios de Salud, SNSS"
+chile,facility_sector,facility_sector,"2015,2016,2017,2018,2019,2020,2021,2022,2023","Pertenecientes al Sistema Nacional de Servicios de Salud, SNSS",37102,3677,9.910516953263974,5.0,"Pertenecientes al Sistema Nacional de Servicios de Salud, SNSS"
+chile,ethnicity,ethnicity,"2015,2016,2017,2018,2019,2020,2022,2023",No se identifica con alguna etnia,45264,3591,7.933457051961825,5.0,Does not identify with an ethnic group
+chile,ethnicity,ethnicity,"2015,2016,2017,2018,2019,2020,2022,2023",Si se identifica con alguna etnia,2013,141,7.004470938897168,3.0,Identifies with an ethnic group
+chile,any_surgical_intervention,any_surgical_intervention,"2015,2016,2017,2018,2019,2020",0,28322,1939,6.846267918932279,4.0,0
+chile,any_surgical_intervention,any_surgical_intervention,"2015,2016,2017,2018,2019,2020",1,7548,789,10.453100158982512,9.0,1
+chile,residence_region,residence_region,"2015,2016,2017,2018,2019,2020,2021,2022,2023",De La Araucanía,4513,229,5.074230002215821,4.0,De La Araucanía
+chile,residence_region,residence_region,"2015,2016,2017,2018,2019,2020,2021,2022,2023",De Los Lagos,2746,234,8.52148579752367,4.0,De Los Lagos
+chile,residence_region,residence_region,"2015,2016,2017,2018,2019,2020,2021,2022,2023",De Los Ríos,1656,122,7.367149758454106,3.0,De Los Ríos
+chile,residence_region,residence_region,"2015,2016,2017,2018,2019,2020,2021,2022,2023",De Valparaíso,4413,410,9.290731928393384,5.0,De Valparaíso
+chile,residence_region,residence_region,"2015,2016,2017,2018,2019,2020,2021,2022,2023",De Ñuble,1591,144,9.050911376492772,5.0,De Ñuble
+chile,residence_region,residence_region,"2015,2016,2017,2018,2019,2020,2021,2022,2023",Del Bíobío,4537,334,7.361692748512233,5.0,Del Bíobío
+chile,residence_region,residence_region,"2015,2016,2017,2018,2019,2020,2021,2022,2023",Del Libertador B. O'Higgins,2449,179,7.309105757452021,5.0,Del Libertador B. O'Higgins
+chile,residence_region,residence_region,"2015,2016,2017,2018,2019,2020,2021,2022,2023",Del Maule,2746,234,8.52148579752367,5.0,Del Maule
+chile,residence_region,residence_region,"2015,2016,2017,2018,2019,2020,2021,2022,2023",Metropolitana de Santiago,21737,1881,8.653448037907715,5.0,Metropolitana de Santiago
+chile,residence_region,residence_region,"2015,2016,2017,2018,2019,2020,2021,2022,2023",Other/rare,5871,475,8.090614886731391,5.0,Other/rare
+equador,facility_sector,facility_sector_label,"2015,2016,2017,2018,2019,2020,2021,2022,2023",Privado con fines de lucro,16371,1092,6.670331684075499,3.0,Privado con fines de lucro
+equador,facility_sector,facility_sector_label,"2015,2016,2017,2018,2019,2020,2021,2022,2023",Privado sin fines de lucro,1618,184,11.372064276885045,6.0,Privado sin fines de lucro
+equador,facility_sector,facility_sector_label,"2015,2016,2017,2018,2019,2020,2021,2022,2023",Público,28764,2204,7.662355722430816,5.0,Public
+equador,facility_class,facility_class_label,"2015,2016,2017,2018,2019,2020,2021,2022,2023",Clínica general (sin especialidad),7186,532,7.403284163651545,3.0,Clínica general (sin especialidad)
+equador,facility_class,facility_class_label,"2015,2016,2017,2018,2019,2020,2021,2022,2023",Hospital básico,6203,134,2.160245042721264,2.0,Basic hospital
+equador,facility_class,facility_class_label,"2015,2016,2017,2018,2019,2020,2021,2022,2023",Hospital de especialidades,10855,924,8.512206356517733,6.0,Specialties hospital
+equador,facility_class,facility_class_label,"2015,2016,2017,2018,2019,2020,2021,2022,2023",Hospital general,22147,1836,8.290061859394049,5.0,General hospital
+equador,facility_class,facility_class_label,"2015,2016,2017,2018,2019,2020,2021,2022,2023",Other/rare,362,54,14.917127071823206,4.0,Other/rare
+equador,facility_type,facility_type_label,"2015,2016,2017,2018,2019,2020,2021,2022,2023",Agudo,33155,2770,8.354697632332982,5.0,Agudo
+equador,facility_type,facility_type_label,"2015,2016,2017,2018,2019,2020,2021,2022,2023",Clínicas generales sin especialidad,7185,532,7.404314544189283,3.0,Clínicas generales sin especialidad
+equador,facility_type,facility_type_label,"2015,2016,2017,2018,2019,2020,2021,2022,2023",Crónico,209,44,21.052631578947366,7.0,Crónico
+equador,facility_type,facility_type_label,"2015,2016,2017,2018,2019,2020,2021,2022,2023",Other/rare,1,0,0.0,62.0,Other/rare
+equador,facility_type,facility_type_label,"2015,2016,2017,2018,2019,2020,2021,2022,2023",Sin tipo hospitales básicos,6203,134,2.160245042721264,2.0,Sin tipo hospitales básicos
+equador,facility_entity,facility_entity_label,"2015,2016,2017,2018,2019,2020,2021,2022,2023",Instituto Ecuatoriano de Seguridad Social,7702,473,6.141262009867567,5.0,Ecuadorian Social Security Institute
+equador,facility_entity,facility_entity_label,"2015,2016,2017,2018,2019,2020,2021,2022,2023",Junta Beneficencia de Guayaquil,839,138,16.448152562574496,9.0,Junta Beneficencia de Guayaquil
+equador,facility_entity,facility_entity_label,"2015,2016,2017,2018,2019,2020,2021,2022,2023",Ministerio de Defensa Nacional,643,32,4.976671850699844,3.0,Ministerio de Defensa Nacional
+equador,facility_entity,facility_entity_label,"2015,2016,2017,2018,2019,2020,2021,2022,2023",Ministerio de Salud Pública,19944,1660,8.323305254713196,4.0,Ministry of Public Health
+equador,facility_entity,facility_entity_label,"2015,2016,2017,2018,2019,2020,2021,2022,2023",Other/rare,254,22,8.661417322834646,5.0,Other/rare
+equador,facility_entity,facility_entity_label,"2015,2016,2017,2018,2019,2020,2021,2022,2023",Otros públicos,271,20,7.380073800738007,5.0,Otros públicos
+equador,facility_entity,facility_entity_label,"2015,2016,2017,2018,2019,2020,2021,2022,2023",Privados con fines de lucro,16368,1092,6.671554252199413,3.0,Privados con fines de lucro
+equador,facility_entity,facility_entity_label,"2015,2016,2017,2018,2019,2020,2021,2022,2023",Privados sin fines de lucro,732,43,5.874316939890711,3.0,Privados sin fines de lucro
+equador,ethnicity,ethnicity_label,"2015,2016,2017,2018,2019,2020,2021,2022,2023",Blanco/a,218,12,5.504587155963304,2.0,Blanco/a
+equador,ethnicity,ethnicity_label,"2015,2016,2017,2018,2019,2020,2021,2022,2023",Ignorado/a,3819,223,5.839224927991621,6.0,Ignorado/a
+equador,ethnicity,ethnicity_label,"2015,2016,2017,2018,2019,2020,2021,2022,2023",Indígena,1072,81,7.555970149253731,3.0,Indígena
+equador,ethnicity,ethnicity_label,"2015,2016,2017,2018,2019,2020,2021,2022,2023",Mestizo/a,38590,2901,7.517491578129048,4.0,Mestizo/a
+equador,ethnicity,ethnicity_label,"2015,2016,2017,2018,2019,2020,2021,2022,2023",Other/rare,325,32,9.846153846153848,4.0,Other/rare
+equador,ethnicity,ethnicity_label,"2015,2016,2017,2018,2019,2020,2021,2022,2023",Otro/a,2129,201,9.441052137153594,6.0,Otro/a
+equador,ethnicity,ethnicity_label,"2015,2016,2017,2018,2019,2020,2021,2022,2023",Sin información,600,30,5.0,5.0,Sin información
+equador,hospital_region,hospital_region,"2015,2016,2017,2018,2019,2020,2021,2022,2023",01,2673,253,9.465020576131687,3.0,01
+equador,hospital_region,hospital_region,"2015,2016,2017,2018,2019,2020,2021,2022,2023",07,2083,138,6.625060009601537,3.0,07
+equador,hospital_region,hospital_region,"2015,2016,2017,2018,2019,2020,2021,2022,2023",09,6419,781,12.167004206262655,6.0,09
+equador,hospital_region,hospital_region,"2015,2016,2017,2018,2019,2020,2021,2022,2023",13,1748,130,7.437070938215102,5.0,13
+equador,hospital_region,hospital_region,"2015,2016,2017,2018,2019,2020,2021,2022,2023",17,10251,600,5.85308750365818,5.0,17
+equador,hospital_region,hospital_region,"2015,2016,2017,2018,2019,2020,2021,2022,2023",18,1600,165,10.3125,4.0,18
+equador,hospital_region,hospital_region,"2015,2016,2017,2018,2019,2020,2021,2022,2023",23,2078,89,4.282964388835419,4.0,23
+equador,hospital_region,hospital_region,"2015,2016,2017,2018,2019,2020,2021,2022,2023",Guayas,1822,255,13.995609220636664,5.0,Guayas
+equador,hospital_region,hospital_region,"2015,2016,2017,2018,2019,2020,2021,2022,2023",Other/rare,15205,917,6.030910884577442,3.0,Other/rare
+equador,hospital_region,hospital_region,"2015,2016,2017,2018,2019,2020,2021,2022,2023",Pichincha,2874,152,5.288796102992345,5.0,Pichincha
+equador,residence_region,residence_region,"2015,2016,2017,2018,2019,2020,2021,2022,2023",01,2332,205,8.79073756432247,3.0,01
+equador,residence_region,residence_region,"2015,2016,2017,2018,2019,2020,2021,2022,2023",07,2063,136,6.592341250605914,3.0,07
+equador,residence_region,residence_region,"2015,2016,2017,2018,2019,2020,2021,2022,2023",09,5787,678,11.715914981855883,5.0,09
+equador,residence_region,residence_region,"2015,2016,2017,2018,2019,2020,2021,2022,2023",12,1724,120,6.960556844547564,4.0,12
+equador,residence_region,residence_region,"2015,2016,2017,2018,2019,2020,2021,2022,2023",13,2255,175,7.760532150776053,6.0,13
+equador,residence_region,residence_region,"2015,2016,2017,2018,2019,2020,2021,2022,2023",17,8490,432,5.088339222614842,4.0,17
+equador,residence_region,residence_region,"2015,2016,2017,2018,2019,2020,2021,2022,2023",18,1540,152,9.87012987012987,5.0,18
+equador,residence_region,residence_region,"2015,2016,2017,2018,2019,2020,2021,2022,2023",Guayas,1624,215,13.238916256157635,4.0,Guayas
+equador,residence_region,residence_region,"2015,2016,2017,2018,2019,2020,2021,2022,2023",Other/rare,18534,1253,6.760548181720082,4.0,Other/rare
+equador,residence_region,residence_region,"2015,2016,2017,2018,2019,2020,2021,2022,2023",Pichincha,2404,114,4.742096505823628,5.0,Pichincha
+equador,residence_area,residence_area_label,"2015,2016,2017,2018,2019,2020,2021,2022,2023",1,12363,938,7.587155221224622,4.0,1
+equador,residence_area,residence_area_label,"2015,2016,2017,2018,2019,2020,2021,2022,2023",1.0,9328,664,7.11835334476844,4.0,1.0
+equador,residence_area,residence_area_label,"2015,2016,2017,2018,2019,2020,2021,2022,2023",2,2591,178,6.869934388267078,4.0,2
+equador,residence_area,residence_area_label,"2015,2016,2017,2018,2019,2020,2021,2022,2023",2.0,1650,112,6.787878787878789,4.0,2.0
+equador,residence_area,residence_area_label,"2015,2016,2017,2018,2019,2020,2021,2022,2023",Rural,3728,270,7.242489270386267,4.0,Rural
+equador,residence_area,residence_area_label,"2015,2016,2017,2018,2019,2020,2021,2022,2023",Urbana,17093,1318,7.710758790148013,4.0,Urbana

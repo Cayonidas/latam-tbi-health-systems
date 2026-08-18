@@ -1,0 +1,3 @@
+﻿country,hospitals,overall_mortality,tau_squared_log_smr,median_rate_ratio_approx,outside_95pct,outside_998pct,method
+brasil,3209,0.1106239250325306,0.12218755823760949,1.395746454256979,646,361,Empirical-Bayes random-effects shrinkage of log observed/expected mortality
+mexico,1178,0.11088675304748104,0.19001856813358575,1.515588363197596,316,144,Empirical-Bayes random-effects shrinkage of log observed/expected mortality

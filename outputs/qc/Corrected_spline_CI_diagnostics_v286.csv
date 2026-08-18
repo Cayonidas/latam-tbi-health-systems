@@ -1,0 +1,3 @@
+﻿country,n,hospitals,nonlinearity_lr,nonlinearity_df,nonlinearity_p,zero_width_intervals,minimum_ci_width,minimum_eigenvalue_before,minimum_eigenvalue_after,negative_eigenvalues,eigenvalue_floor
+brasil,665466,2443,1236.6361775395926,2,2.9367432979922504e-269,0,1.0,-33786469349.91734,29.308145045217366,2,29.308145045217366
+mexico,163318,951,179.75649262219667,2,9.254939496912737e-40,0,1.0,-8980936580725.236,28.43008491168807,4,28.43008491168807

@@ -1,0 +1,16 @@
+﻿component,passed,detail
+v2.8.3 preflight root,True,/content/drive/MyDrive/Projeto_TCE_Multinacional/analysis_v283_preflight_repair
+Mexico 2015 repaired source,True,status=PASS_STRICT; path=/content/drive/MyDrive/Projeto_TCE_Multinacional/analysis_v283_preflight_repair/01_mexico/recovered/mexico_s06_recovered_2015_v283.parquet
+Mexico 2016 repaired source,True,status=PASS_STRICT; path=/content/drive/MyDrive/Projeto_TCE_Multinacional/analysis_v283_preflight_repair/01_mexico/recovered/mexico_s06_recovered_2016_v283.parquet
+Mexico 2017 repaired source,True,status=PASS_STRICT; path=/content/drive/MyDrive/Projeto_TCE_Multinacional/analysis_v283_preflight_repair/01_mexico/recovered/mexico_s06_recovered_2017_v283.parquet
+Ecuador 2015 repaired source,True,status=PASS_INDIVIDUAL_OUTCOMES; path=/content/drive/MyDrive/Projeto_TCE_Multinacional/analysis_v283_preflight_repair/03_ecuador/recovered/ecuador_s06_recovered_2015_v283.parquet
+Ecuador 2016 repaired source,True,status=PASS_INDIVIDUAL_OUTCOMES; path=/content/drive/MyDrive/Projeto_TCE_Multinacional/analysis_v283_preflight_repair/03_ecuador/recovered/ecuador_s06_recovered_2016_v283.parquet
+Ecuador 2017 repaired source,True,status=PASS_INDIVIDUAL_OUTCOMES; path=/content/drive/MyDrive/Projeto_TCE_Multinacional/analysis_v283_preflight_repair/03_ecuador/recovered/ecuador_s06_recovered_2017_v283.parquet
+Ecuador 2018 repaired source,True,status=PASS_INDIVIDUAL_OUTCOMES; path=/content/drive/MyDrive/Projeto_TCE_Multinacional/analysis_v283_preflight_repair/03_ecuador/recovered/ecuador_s06_recovered_2018_v283.parquet
+Ecuador 2019 repaired source,True,status=PASS_INDIVIDUAL_OUTCOMES; path=/content/drive/MyDrive/Projeto_TCE_Multinacional/analysis_v283_preflight_repair/03_ecuador/recovered/ecuador_s06_recovered_2019_v283.parquet
+Ecuador 2020 repaired source,True,status=PASS_INDIVIDUAL_OUTCOMES; path=/content/drive/MyDrive/Projeto_TCE_Multinacional/analysis_v283_preflight_repair/03_ecuador/recovered/ecuador_s06_recovered_2020_v283.parquet
+Ecuador 2021 repaired source,True,status=PASS_INDIVIDUAL_OUTCOMES; path=/content/drive/MyDrive/Projeto_TCE_Multinacional/analysis_v283_preflight_repair/03_ecuador/recovered/ecuador_s06_recovered_2021_v283.parquet
+Ecuador 2022 repaired source,True,status=PASS_INDIVIDUAL_OUTCOMES; path=/content/drive/MyDrive/Projeto_TCE_Multinacional/analysis_v283_preflight_repair/03_ecuador/recovered/ecuador_s06_recovered_2022_v283.parquet
+Ecuador 2023 repaired source,True,status=PASS_INDIVIDUAL_OUTCOMES; path=/content/drive/MyDrive/Projeto_TCE_Multinacional/analysis_v283_preflight_repair/03_ecuador/recovered/ecuador_s06_recovered_2023_v283.parquet
+Ecuador 2024 extension preserved,True,not included in common 2015-2023 primary window; path=/content/drive/MyDrive/Projeto_TCE_Multinacional/analysis_v283_preflight_repair/03_ecuador/recovered/ecuador_s06_recovered_2024_v283.parquet
+Chile hospital-volume exclusion,True,No exact establishment identifier; individual-outcome analyses only
