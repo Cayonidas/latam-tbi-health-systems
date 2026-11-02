@@ -1,0 +1,82 @@
+[
+  {
+    "country": "mexico",
+    "analysis": "spline",
+    "original_columns": 27,
+    "original_rank": 26,
+    "corrected_columns": 26,
+    "corrected_rank": 26,
+    "removed_redundant_column": "cr(log_lag_volume, df=4)[3]",
+    "minimum_cov_eigenvalue": 0.00016902632294123847,
+    "max_interval_width": 0.07857804073048302,
+    "converged": true,
+    "llf": -54650.62693980056,
+    "note": "Same natural spline space and original knots; one redundant basis column omitted. No PSD repair. Pointwise CIs conditional on standardization sample."
+  },
+  {
+    "country": "mexico",
+    "analysis": "individual_FE",
+    "iterations": 12,
+    "matrix_rank": 16,
+    "columns": 16,
+    "hospital_effects": 842,
+    "covariates": [
+      "C(sex)[T.Male]",
+      "C(sex)[T.Other/unknown]",
+      "C(trauma_subtype)[T.DIFFUSE_BRAIN_INJURY]",
+      "C(trauma_subtype)[T.EPIDURAL_HEMORRHAGE]",
+      "C(trauma_subtype)[T.FOCAL_BRAIN_INJURY]",
+      "C(trauma_subtype)[T.INTRACRANIAL_INJURY_WITH_PROLONGED_COMA]",
+      "C(trauma_subtype)[T.OTHER_INTRACRANIAL_INJURY]",
+      "C(trauma_subtype)[T.SUBDURAL_HEMORRHAGE]",
+      "C(trauma_subtype)[T.TRAUMATIC_CEREBRAL_EDEMA]",
+      "C(trauma_subtype)[T.TRAUMATIC_SUBARACHNOID_HEMORRHAGE]",
+      "C(trauma_subtype)[T.UNSPECIFIED_INTRACRANIAL_INJURY]",
+      "log_lag_volume",
+      "bs(age, df=4, degree=3, include_intercept=False)[0]",
+      "bs(age, df=4, degree=3, include_intercept=False)[1]",
+      "bs(age, df=4, degree=3, include_intercept=False)[2]",
+      "bs(age, df=4, degree=3, include_intercept=False)[3]"
+    ]
+  },
+  {
+    "country": "brasil",
+    "analysis": "spline",
+    "original_columns": 27,
+    "original_rank": 26,
+    "corrected_columns": 26,
+    "corrected_rank": 26,
+    "removed_redundant_column": "cr(log_lag_volume, df=4)[3]",
+    "minimum_cov_eigenvalue": 7.321422438899204e-05,
+    "max_interval_width": 0.03434417198717743,
+    "converged": true,
+    "llf": -218473.57169645326,
+    "note": "Same natural spline space and original knots; one redundant basis column omitted. No PSD repair. Pointwise CIs conditional on standardization sample."
+  },
+  {
+    "country": "brasil",
+    "analysis": "individual_FE",
+    "iterations": 10,
+    "matrix_rank": 16,
+    "columns": 16,
+    "hospital_effects": 2078,
+    "covariates": [
+      "C(sex)[T.Male]",
+      "C(trauma_subtype)[T.DIFFUSE_BRAIN_INJURY]",
+      "C(trauma_subtype)[T.EPIDURAL_HEMORRHAGE]",
+      "C(trauma_subtype)[T.FOCAL_BRAIN_INJURY]",
+      "C(trauma_subtype)[T.INTRACRANIAL_INJURY_WITH_PROLONGED_COMA]",
+      "C(trauma_subtype)[T.OTHER_INTRACRANIAL_INJURY]",
+      "C(trauma_subtype)[T.OTHER_OR_UNSPECIFIED]",
+      "C(trauma_subtype)[T.SUBDURAL_HEMORRHAGE]",
+      "C(trauma_subtype)[T.TRAUMATIC_CEREBRAL_EDEMA]",
+      "C(trauma_subtype)[T.TRAUMATIC_SUBARACHNOID_HEMORRHAGE]",
+      "C(trauma_subtype)[T.UNSPECIFIED_INTRACRANIAL_INJURY]",
+      "log_lag_volume",
+      "bs(age, df=4, degree=3, include_intercept=False)[0]",
+      "bs(age, df=4, degree=3, include_intercept=False)[1]",
+      "bs(age, df=4, degree=3, include_intercept=False)[2]",
+      "bs(age, df=4, degree=3, include_intercept=False)[3]"
+    ]
+  }
+]

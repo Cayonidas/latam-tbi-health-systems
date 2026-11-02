@@ -1,0 +1,34 @@
+{
+  "validation": {
+    "dummy_glm_beta_agreement": true,
+    "dummy_glm_cluster_covariance_agreement": true
+  },
+  "fits": [
+    {
+      "iterations": 6,
+      "log_likelihood": -51149.72315587032,
+      "hospital_score_max_abs": 1.8433865545119943e-13,
+      "min_predicted": 0.0006386261624670225,
+      "max_predicted": 0.9050728958699074,
+      "columns": 23,
+      "hospitals": 618,
+      "n": 157312,
+      "country": "mexico",
+      "excluded_admissions_no_outcome_variation": 5592,
+      "excluded_hospitals_no_outcome_variation": 224
+    },
+    {
+      "iterations": 6,
+      "log_likelihood": -207940.46899031213,
+      "hospital_score_max_abs": 2.1364299218618044e-12,
+      "min_predicted": 0.00036885858178560684,
+      "max_predicted": 0.9293144435029872,
+      "columns": 23,
+      "hospitals": 1232,
+      "n": 640109,
+      "country": "brasil",
+      "excluded_admissions_no_outcome_variation": 23812,
+      "excluded_hospitals_no_outcome_variation": 846
+    }
+  ]
+}

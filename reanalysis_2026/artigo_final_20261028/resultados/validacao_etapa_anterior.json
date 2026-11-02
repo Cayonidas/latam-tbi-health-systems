@@ -1,0 +1,70 @@
+[
+  {
+    "check": "FE coefficient equals explicit dummy model region_year=False",
+    "passed": true
+  },
+  {
+    "check": "Cluster SE equals explicit dummy model with rank correction region_year=False",
+    "passed": true
+  },
+  {
+    "check": "FE coefficient equals explicit dummy model region_year=True",
+    "passed": true
+  },
+  {
+    "check": "Cluster SE equals explicit dummy model with rank correction region_year=True",
+    "passed": true
+  },
+  {
+    "check": "Input unchanged brasil",
+    "passed": true
+  },
+  {
+    "check": "Annual volume matches cohort admission count brasil",
+    "passed": true
+  },
+  {
+    "check": "Lag requires contiguous observed preceding year brasil",
+    "passed": true
+  },
+  {
+    "check": "Exposure is log1p preceding volume brasil",
+    "passed": true
+  },
+  {
+    "check": "Input unchanged mexico",
+    "passed": true
+  },
+  {
+    "check": "Annual volume matches cohort admission count mexico",
+    "passed": true
+  },
+  {
+    "check": "Lag requires contiguous observed preceding year mexico",
+    "passed": true
+  },
+  {
+    "check": "Exposure is log1p preceding volume mexico",
+    "passed": true
+  },
+  {
+    "check": "No duplicated specifications",
+    "passed": true
+  },
+  {
+    "check": "All estimates and intervals finite and ordered",
+    "passed": true
+  },
+  {
+    "check": "Independent rerun reproduces audited FE result brasil",
+    "passed": true
+  },
+  {
+    "check": "Independent rerun reproduces audited FE result mexico",
+    "passed": true
+  },
+  {
+    "check": "Chile identification intervals bounded",
+    "passed": true
+  }
+]

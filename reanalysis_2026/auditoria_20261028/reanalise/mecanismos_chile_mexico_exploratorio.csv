@@ -1,0 +1,159 @@
+﻿country,year,age_group,mechanism,admissions,deaths,bed_days
+mexico,2015,20-69,Agressões,117,117,742.0
+mexico,2015,20-69,Circunstância ou intenção indeterminada,323,323,3055.0
+mexico,2015,20-69,Lesão autoprovocada,4,4,23.0
+mexico,2015,20-69,Outra causa externa ou circunstância indeterminada,42,42,453.0
+mexico,2015,20-69,Quedas W00 a W19,409,409,2849.0
+mexico,2015,20-69,Sem causa externa reconhecível,15104,178,108970.0
+mexico,2015,20-69,Transporte,536,536,3752.0
+mexico,2015,70+,Agressões,14,14,135.0
+mexico,2015,70+,Circunstância ou intenção indeterminada,110,110,747.0
+mexico,2015,70+,Lesão autoprovocada,1,1,14.0
+mexico,2015,70+,Outra causa externa ou circunstância indeterminada,6,6,16.0
+mexico,2015,70+,Quedas W00 a W19,379,379,2905.0
+mexico,2015,70+,Sem causa externa reconhecível,3867,127,25642.0
+mexico,2015,70+,Transporte,99,99,951.0
+mexico,2016,20-69,Agressões,103,103,788.0
+mexico,2016,20-69,Circunstância ou intenção indeterminada,379,379,2954.0
+mexico,2016,20-69,Lesão autoprovocada,5,5,123.0
+mexico,2016,20-69,Outra causa externa ou circunstância indeterminada,58,58,497.0
+mexico,2016,20-69,Quedas W00 a W19,440,440,3213.0
+mexico,2016,20-69,Sem causa externa reconhecível,15846,220,108271.0
+mexico,2016,20-69,Transporte,566,566,4656.0
+mexico,2016,70+,Agressões,10,10,104.0
+mexico,2016,70+,Circunstância ou intenção indeterminada,150,150,1046.0
+mexico,2016,70+,Outra causa externa ou circunstância indeterminada,3,3,6.0
+mexico,2016,70+,Quedas W00 a W19,316,316,2242.0
+mexico,2016,70+,Sem causa externa reconhecível,4090,129,24496.0
+mexico,2016,70+,Transporte,80,80,700.0
+mexico,2017,20-69,Agressões,110,110,924.0
+mexico,2017,20-69,Circunstância ou intenção indeterminada,369,369,3027.0
+mexico,2017,20-69,Lesão autoprovocada,3,3,13.0
+mexico,2017,20-69,Outra causa externa ou circunstância indeterminada,33,33,308.0
+mexico,2017,20-69,Quedas W00 a W19,366,366,2876.0
+mexico,2017,20-69,Sem causa externa reconhecível,15737,281,112553.0
+mexico,2017,20-69,Transporte,505,505,4188.0
+mexico,2017,70+,Agressões,9,9,89.0
+mexico,2017,70+,Circunstância ou intenção indeterminada,158,158,1342.0
+mexico,2017,70+,Outra causa externa ou circunstância indeterminada,11,11,213.0
+mexico,2017,70+,Quedas W00 a W19,349,349,2654.0
+mexico,2017,70+,Sem causa externa reconhecível,3894,130,25788.0
+mexico,2017,70+,Transporte,72,72,707.0
+mexico,2018,20-69,Sem causa externa reconhecível,17014,1503,121901.0
+mexico,2018,70+,Sem causa externa reconhecível,4452,621,30976.0
+mexico,2019,20-69,Sem causa externa reconhecível,17235,1620,125839.0
+mexico,2019,70+,Sem causa externa reconhecível,4597,590,31105.0
+mexico,2020,20-69,Sem causa externa reconhecível,13138,1406,93508.0
+mexico,2020,70+,Sem causa externa reconhecível,2774,437,18380.0
+mexico,2021,20-69,Sem causa externa reconhecível,15453,1734,104700.0
+mexico,2021,70+,Sem causa externa reconhecível,3379,579,21235.0
+mexico,2022,20-69,Sem causa externa reconhecível,18372,1948,136875.0
+mexico,2022,70+,Sem causa externa reconhecível,4295,681,28172.0
+mexico,2023,20-69,Sem causa externa reconhecível,17940,1857,123415.0
+mexico,2023,70+,Sem causa externa reconhecível,4422,637,40664.0
+chile,2015,20-69,Agressões,391,17,2863.0
+chile,2015,20-69,Circunstância ou intenção indeterminada,1510,91,16824.0
+chile,2015,20-69,Lesão autoprovocada,6,2,75.0
+chile,2015,20-69,Outra causa externa ou circunstância indeterminada,278,10,3607.0
+chile,2015,20-69,Quedas W00 a W19,1551,87,15047.0
+chile,2015,20-69,Transporte,1288,73,15235.0
+chile,2015,70+,Agressões,28,3,280.0
+chile,2015,70+,Circunstância ou intenção indeterminada,570,71,7011.0
+chile,2015,70+,Outra causa externa ou circunstância indeterminada,32,3,350.0
+chile,2015,70+,Quedas W00 a W19,794,93,8310.0
+chile,2015,70+,Transporte,153,22,1804.0
+chile,2016,20-69,Agressões,344,16,2685.0
+chile,2016,20-69,Circunstância ou intenção indeterminada,1394,65,16217.0
+chile,2016,20-69,Lesão autoprovocada,7,2,253.0
+chile,2016,20-69,Outra causa externa ou circunstância indeterminada,321,20,3401.0
+chile,2016,20-69,Quedas W00 a W19,1475,78,14702.0
+chile,2016,20-69,Transporte,1163,78,14550.0
+chile,2016,70+,Agressões,21,3,423.0
+chile,2016,70+,Circunstância ou intenção indeterminada,572,57,6825.0
+chile,2016,70+,Lesão autoprovocada,2,1,9.0
+chile,2016,70+,Outra causa externa ou circunstância indeterminada,38,2,348.0
+chile,2016,70+,Quedas W00 a W19,859,102,8871.0
+chile,2016,70+,Transporte,176,28,2066.0
+chile,2017,20-69,Agressões,337,17,4699.0
+chile,2017,20-69,Circunstância ou intenção indeterminada,1069,59,11623.0
+chile,2017,20-69,Lesão autoprovocada,4,2,76.0
+chile,2017,20-69,Outra causa externa ou circunstância indeterminada,350,15,4702.0
+chile,2017,20-69,Quedas W00 a W19,1505,79,15522.0
+chile,2017,20-69,Transporte,1147,74,14688.0
+chile,2017,70+,Agressões,27,5,524.0
+chile,2017,70+,Circunstância ou intenção indeterminada,496,62,7115.0
+chile,2017,70+,Outra causa externa ou circunstância indeterminada,33,5,550.0
+chile,2017,70+,Quedas W00 a W19,975,119,10403.0
+chile,2017,70+,Transporte,169,17,2575.0
+chile,2018,20-69,Agressões,383,20,3446.0
+chile,2018,20-69,Circunstância ou intenção indeterminada,960,53,11494.0
+chile,2018,20-69,Lesão autoprovocada,7,1,86.0
+chile,2018,20-69,Outra causa externa ou circunstância indeterminada,349,28,3366.0
+chile,2018,20-69,Quedas W00 a W19,1385,69,14560.0
+chile,2018,20-69,Transporte,1032,73,14072.0
+chile,2018,70+,Agressões,31,1,293.0
+chile,2018,70+,Circunstância ou intenção indeterminada,414,33,5199.0
+chile,2018,70+,Lesão autoprovocada,2,2,12.0
+chile,2018,70+,Outra causa externa ou circunstância indeterminada,59,5,1005.0
+chile,2018,70+,Quedas W00 a W19,1113,137,11236.0
+chile,2018,70+,Transporte,128,21,1637.0
+chile,2019,20-69,Agressões,446,23,3831.0
+chile,2019,20-69,Circunstância ou intenção indeterminada,734,48,9266.0
+chile,2019,20-69,Lesão autoprovocada,6,3,29.0
+chile,2019,20-69,Outra causa externa ou circunstância indeterminada,395,13,3557.0
+chile,2019,20-69,Quedas W00 a W19,1491,90,16464.0
+chile,2019,20-69,Transporte,1033,71,18025.0
+chile,2019,70+,Agressões,21,1,328.0
+chile,2019,70+,Circunstância ou intenção indeterminada,338,38,4161.0
+chile,2019,70+,Lesão autoprovocada,1,1,2.0
+chile,2019,70+,Outra causa externa ou circunstância indeterminada,85,3,783.0
+chile,2019,70+,Quedas W00 a W19,1199,147,11894.0
+chile,2019,70+,Transporte,165,25,2356.0
+chile,2020,20-69,Agressões,420,25,4005.0
+chile,2020,20-69,Circunstância ou intenção indeterminada,620,60,7844.0
+chile,2020,20-69,Lesão autoprovocada,4,1,47.0
+chile,2020,20-69,Outra causa externa ou circunstância indeterminada,276,13,3070.0
+chile,2020,20-69,Quedas W00 a W19,1298,91,13310.0
+chile,2020,20-69,Transporte,941,53,11778.0
+chile,2020,70+,Agressões,23,2,201.0
+chile,2020,70+,Circunstância ou intenção indeterminada,250,30,3244.0
+chile,2020,70+,Lesão autoprovocada,1,1,25.0
+chile,2020,70+,Outra causa externa ou circunstância indeterminada,83,3,1503.0
+chile,2020,70+,Quedas W00 a W19,987,149,10328.0
+chile,2020,70+,Transporte,105,16,993.0
+chile,2021,20-69,Agressões,327,15,3435.0
+chile,2021,20-69,Circunstância ou intenção indeterminada,568,60,12500.0
+chile,2021,20-69,Lesão autoprovocada,10,2,189.0
+chile,2021,20-69,Outra causa externa ou circunstância indeterminada,325,19,5372.0
+chile,2021,20-69,Quedas W00 a W19,1310,127,19660.0
+chile,2021,20-69,Transporte,964,82,17493.0
+chile,2021,70+,Agressões,20,1,679.0
+chile,2021,70+,Circunstância ou intenção indeterminada,211,28,2661.0
+chile,2021,70+,Lesão autoprovocada,2,0,37.0
+chile,2021,70+,Outra causa externa ou circunstância indeterminada,50,5,515.0
+chile,2021,70+,Quedas W00 a W19,1064,147,11157.0
+chile,2021,70+,Transporte,131,24,3424.0
+chile,2022,20-69,Agressões,396,40,4293.0
+chile,2022,20-69,Circunstância ou intenção indeterminada,494,51,9326.0
+chile,2022,20-69,Lesão autoprovocada,14,4,389.0
+chile,2022,20-69,Outra causa externa ou circunstância indeterminada,326,21,5032.0
+chile,2022,20-69,Quedas W00 a W19,1356,97,16730.0
+chile,2022,20-69,Transporte,1026,77,18424.0
+chile,2022,70+,Agressões,27,2,509.0
+chile,2022,70+,Circunstância ou intenção indeterminada,254,41,2637.0
+chile,2022,70+,Lesão autoprovocada,1,0,29.0
+chile,2022,70+,Outra causa externa ou circunstância indeterminada,106,7,1212.0
+chile,2022,70+,Quedas W00 a W19,1312,165,14826.0
+chile,2022,70+,Transporte,153,19,2079.0
+chile,2023,20-69,Agressões,469,33,4189.0
+chile,2023,20-69,Circunstância ou intenção indeterminada,547,49,8087.0
+chile,2023,20-69,Lesão autoprovocada,11,4,158.0
+chile,2023,20-69,Outra causa externa ou circunstância indeterminada,340,21,3244.0
+chile,2023,20-69,Quedas W00 a W19,1424,90,19124.0
+chile,2023,20-69,Transporte,1063,77,18766.0
+chile,2023,70+,Agressões,20,4,430.0
+chile,2023,70+,Circunstância ou intenção indeterminada,309,24,4210.0
+chile,2023,70+,Lesão autoprovocada,2,1,17.0
+chile,2023,70+,Outra causa externa ou circunstância indeterminada,90,9,850.0
+chile,2023,70+,Quedas W00 a W19,1496,150,15164.0
+chile,2023,70+,Transporte,171,18,2407.0

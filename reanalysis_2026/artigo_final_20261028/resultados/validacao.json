@@ -1,0 +1,12 @@
+{
+  "paired_difference_matches_explicit_dummies": true,
+  "joint_cluster_covariance_matches_explicit_dummies": true,
+  "dummy_glm_beta_agreement": true,
+  "dummy_glm_cluster_covariance_agreement": true,
+  "prior_17_checks_and_2_logistic_checks_passed": true,
+  "same_samples_coefficients_and_paired_arithmetic": true,
+  "all_targeted_deletions_reported": true,
+  "burden_shares_and_tie_bounds_reconcile": true,
+  "all_four_logistic_sensitivities_converged": true,
+  "processed_inputs_match_analysis_hashes": true
+}

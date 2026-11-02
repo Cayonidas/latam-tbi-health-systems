@@ -1,0 +1,17 @@
+Extensão pós-hoc motivada pelo diagnóstico do modelo linear
+28/10/2026
+
+Após executar as sensibilidades planejadas, 8,5% das previsões lineares no
+Brasil e 7,2% no México ficaram abaixo de zero. Acrescentou-se uma regressão
+logística com interceptos fixos hospitalares e indicadores de ano, idade,
+sexo e subtipo, mantendo a exposição defasada. A estimação usa eliminação
+ponderada dos interceptos no passo de Newton. Coeficientes e covariância
+agrupada são confrontados com uma GLM de indicadores explícitos em dados
+de controle antes de executar as coortes.
+
+Hospitais sem variação do desfecho são excluídos desta estimação logística
+porque seu intercepto finito não é identificável. A contagem excluída será
+reportada. Um modelo linear é reestimado na mesma amostra para separar a
+mudança de amostra da mudança de função de ligação. Não é logística
+condicional e não corrige o problema de parâmetros incidentais. O resultado
+não será usado para substituir silenciosamente o modelo primário.

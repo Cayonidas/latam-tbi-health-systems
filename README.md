@@ -1,155 +1,86 @@
 # LATAM TBI health-systems analysis
 
-[![Version](https://img.shields.io/badge/version-v1.0.0-blue.svg)](#version-and-freeze-status)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+Reproducibility materials for **Hospital volume, mortality and concentration of traumatic brain injury care in Brazil and Mexico: a longitudinal administrative cohort study**.
 
-## Reproducibility repository for the associated manuscript
+The current analysis is in [`reanalysis_2026/`](reanalysis_2026/README.txt). It
+compares conventional and hospital fixed-effect volume–mortality associations
+on identical samples in Brazil and Mexico and describes concentration of recorded
+care. This update contains the code and aggregate evidence accompanying the
+manuscript prepared for BMC Health Services Research; it does not imply journal
+acceptance or publication.
 
-**Referral concentration, hospital volume, and in-hospital mortality after traumatic brain injury in Latin America: a four-country health-systems analysis, 2015–2023**
+## Current study
 
-This repository is the **versioned reproducibility bundle (v1.0.0)** prepared for the associated manuscript. It contains the code lineage used for source ingestion/audit, source repair, the source-locked primary analysis, methodological enhancements, robustness analyses, and the final publication freeze, together with selected non-identifiable aggregate outputs and quality-control artifacts.
+Adults aged at least 20 years with a principal S06 diagnosis were identified in
+the available processed cohorts for 2015–2023. Longitudinal analyses cover
+2016–2023: 663,921 Brazilian admissions in 2,078 hospitals and 162,904 Mexican
+admissions in 842 hospitals. Exposure is log(1 + prior-year eligible volume).
+Linear associations are expressed per doubling of **volume plus one**.
 
-The repository intentionally **does not redistribute patient-level national discharge data**. Raw source files must be obtained from the official national portals listed in [`source_manifest.csv`](source_manifest.csv).
+All analyses are post hoc. The package retains all 19 linear specifications,
+hospital-intercept logistic checks, paired contrasts, every targeted hospital
+exclusion, coding diagnostics and workload summaries. The Brazilian paired
+contrast persisted across the targeted exclusions; the Mexican comparison was
+less precise and sensitive to diagnosis and hospital participation. Missing
+clinical severity, episode identifiers, transfers and uncertain source lineage
+preclude causal performance rankings and volume thresholds.
 
-## What is included
+## Run the checks
 
-- **Analysis code:** seven ordered Python scripts spanning upstream ingestion through the final publication freeze.
-- **Source documentation:** national portals, study years, source-access dates, and analytic roles.
-- **Harmonisation documentation:** cohort definitions, variable harmonisation, country-specific availability, and analysis boundaries.
-- **Frozen analysis documentation:** the prespecified statistical-analysis plan, amendments, version notes, and the final analytic freeze.
-- **Aggregate outputs:** selected manuscript/supplementary tables and QC outputs used to verify the reported results.
-- **Supplementary Data 1:** the hospital-level risk-standardisation output with pseudonymised analytic hospital identifiers and no patient-level records.
-- **Integrity files:** SHA-256 checksums and a repository file inventory.
+From the repository root, using Python 3.12:
 
-## Study scope
-
-The common primary study window is **2015–2023** and includes adults aged 20 years or older with a principal ICD-10 S06 diagnosis in four Latin American national discharge systems:
-
-- Brazil — SIH/SUS
-- Mexico — Secretaría de Salud / DGIS hospital discharge data
-- Chile — DEIS Egresos Hospitalarios
-- Ecuador — INEC Registro Estadístico de Camas y Egresos Hospitalarios
-
-### Important analytic boundary
-
-Brazil and Mexico supplied validated longitudinal hospital identifiers and therefore support hospital-volume, concentration, heterogeneity, and between-/within-hospital analyses. Chile and Ecuador contribute admission-level temporal and outcome analyses but **do not support the primary longitudinal hospital-volume inference**.
-
-The repository must not be used to rank hospitals or countries by quality, infer causal effects of referral concentration, or reinterpret the administrative cohort as clinically adjudicated severe TBI.
-
-## Repository structure
-
-```text
-latam-tbi-health-systems/
-├── README.md
-├── REPRODUCIBILITY.md
-├── CITATION.cff
-├── LICENSE
-├── DATA_NOTICE.md
-├── requirements.txt
-├── source_manifest.csv
-├── FILE_INVENTORY.csv
-├── .gitignore
-│
-├── code/
-│   ├── 00_upstream_ingestion/
-│   │   └── tce_master_v2_5.py
-│   ├── 01_source_validation/
-│   │   └── tce_latam_source_super_audit_v282.py
-│   ├── 02_preflight_repair/
-│   │   └── tce_latam_preflight_repair_v283.py
-│   ├── 03_primary_analysis/
-│   │   └── tce_master_v2_8_4_source_locked_final.py
-│   ├── 04_methodological_enhancements/
-│   │   └── tce_v2_8_5_1_methodological_enhancement_fixed.py
-│   ├── 05_final_robustness/
-│   │   └── tce_v2_8_6_1_final_robustness_paths_fixed.py
-│   └── 06_publication_freeze/
-│       └── tce_v2_8_7_publication_freeze.py
-│
-├── docs/
-│   ├── HARMONISATION_AND_CODEBOOK.md
-│   ├── analysis_plan/
-│   └── version_notes/
-│
-├── outputs/
-│   ├── aggregate_tables/
-│   └── qc/
-│
-├── supplementary/
-│   └── Supplementary_Table_7_Hospital_risk_standardization.xlsx
-│
-└── checksums/
-    └── SHA256SUMS.txt
+```sh
+python verify_repository.py
+python -m pip install -r requirements.txt
+python reanalysis_2026/verify_archive.py
+python reanalysis_2026/verify_archive.py --synthetic
 ```
 
-## Analysis lineage
+The first command uses only the standard library. The remaining commands check
+the frozen bundle and synthetic formula implementations without admission data.
+They do not rerun the patient-data models. See [REPRODUCIBILITY.md](REPRODUCIBILITY.md)
+for reproduction with authorised access to the frozen cohorts.
 
-The publication analysis was frozen sequentially as:
+## Repository contents
 
-```text
-public national source files
-        ↓
-v2.5   upstream ingestion / checkpoint generation
-        ↓
-v2.8.2 source super-audit
-        ↓
-v2.8.3 preflight repair and source recovery
-        ↓
-v2.8.4 source-locked primary analysis
-        ↓
-v2.8.5.1 methodological enhancements
-        ↓
-v2.8.6.1 final robustness analyses
-        ↓
-v2.8.7 publication freeze
-```
+| Location | Role |
+| --- | --- |
+| `reanalysis_2026/` | Current manuscript code, all aggregate results, post hoc plans, input hashes and computational checks |
+| `code/00_*` through `code/06_*` | Preserved historical ingestion and earlier analysis scripts |
+| `docs/HARMONISATION_AND_CODEBOOK.md` | Current definitions and source limitations |
+| `docs/analysis_plan/` | Historical plans; read its README for the boundary with the current post hoc analysis |
+| `outputs/` and `supplementary/` | Earlier outputs, retained as historical evidence; not current hospital-performance estimates |
+| `docs/version_notes/` | Historical documentation plus the November update record |
+| `FILE_INVENTORY.csv`, `checksums/` | Repository integrity records |
 
-The sequence is documented in [`REPRODUCIBILITY.md`](REPRODUCIBILITY.md) and the version notes under [`docs/version_notes/`](docs/version_notes/).
+The archived four-country analysis is preserved for provenance. Chile and Ecuador
+are not part of the current longitudinal comparison. Historical claims that the
+identifiers were validated or plans were prespecified do not establish external
+identifier validity or prospective registration for the current analysis.
 
-## Reproducing the analysis
+## Data availability
 
-Start with [`REPRODUCIBILITY.md`](REPRODUCIBILITY.md). In brief:
+No admission-level records or national raw files are included. Aggregate outputs
+alone cannot refit the models. The corresponding author retains the processed
+cohorts; access is conditional on applicable source terms and institutional
+requirements. Redistribution permission has not been established. Reanalysis
+from frozen processed cohorts is separate from independent reconstruction of
+national source-to-cohort selection, which was not completed. See
+[DATA_NOTICE.md](DATA_NOTICE.md) and [source_manifest.csv](source_manifest.csv).
 
-1. Obtain the raw national files from the official portals in [`source_manifest.csv`](source_manifest.csv).
-2. Recreate the project directory structure described in the reproducibility guide.
-3. Run the scripts in numeric order, respecting the source-lock and validation gates.
-4. Compare generated aggregate outputs with the frozen files in [`outputs/`](outputs/).
-5. Verify repository integrity using [`checksums/SHA256SUMS.txt`](checksums/SHA256SUMS.txt).
+## Version and citation
 
-The scripts were developed in a Python/Google Colab workflow. Several scripts preserve the original project-root convention `/content/drive/MyDrive/Projeto_TCE_Multinacional`; the primary-analysis script also supports `TCE_BASE_DIR`. Local reproduction therefore requires setting or adapting the project root as documented.
+The November 2026 update is the local **2.0.0** reproducibility package. A local
+version label does not imply a published GitHub release, DOI or accepted article.
+Citation metadata in [CITATION.cff](CITATION.cff) identify the five authors.
+Use the specific commit or released version when citing the code.
 
-`requirements.txt` records the analysis environment specification used by the project. Source-specific readers/converters can require additional packages described in the upstream script and version notes; the repository should therefore be treated as a **research reproducibility package rather than a standalone installable Python library**.
+## Integrity and licence
 
-## Data availability and redistribution
-
-Raw person-level national discharge files are **not included** in this repository. The repository contains only code, documentation, quality-control summaries, and non-identifiable aggregate outputs. The original national data remain subject to the access and reuse conditions of their source providers.
-
-See [`DATA_NOTICE.md`](DATA_NOTICE.md) and [`source_manifest.csv`](source_manifest.csv).
-
-## Version and freeze status
-
-**v1.0.0 — manuscript-submission reproducibility freeze**
-
-This release corresponds to the analytic state used for the submitted manuscript. The v2.8.7 stopping rule prohibits additional hypothesis-generating analyses before submission; subsequent changes should be limited to correction of identified errors, reproducibility maintenance, or reviewer-requested analyses and should be released under a new version.
-
-## Citation
-
-Citation metadata are provided in [`CITATION.cff`](CITATION.cff). GitHub will expose a **Cite this repository** control when this file is present in the default branch.
-
-If this repository is archived in Zenodo, cite the **version-specific Zenodo DOI** for the exact release used with the manuscript. After journal publication, the preferred citation should also include the final article citation/DOI.
-
-## License
-
-The analysis code and repository documentation are released under the [MIT License](LICENSE). This licence does **not** grant rights to redistribute the underlying national source datasets, which remain governed by their respective providers.
-
-## Authors
-
-- Caio Arruda Maciel — ORCID: 0009-0007-4514-4891
-- Carlos Gilberto Carlotti Junior
-- Daniel Agustín Godoy
-- Andrés Mariano Rubiano
-- Wellingson Silva Paiva
-
-## Integrity
-
-The repository includes SHA-256 checksums for all versioned files (excluding the checksum file itself). This permits verification that a downloaded or archived release is identical to the frozen repository content.
+The current `reanalysis_2026` files match Additional file 2 byte for byte. Their
+own manifest uses raw SHA-256. Repository-wide fingerprints normalise CRLF to LF
+for other text files so checks remain valid across Windows and Unix checkouts;
+binary files are hashed without conversion. The inventory excludes itself and
+the repository checksum file to avoid circular hashes. `verify_repository.py`
+checks both layers. The [MIT licence](LICENSE) applies to repository code and
+documentation and does not grant rights to redistribute the source datasets.

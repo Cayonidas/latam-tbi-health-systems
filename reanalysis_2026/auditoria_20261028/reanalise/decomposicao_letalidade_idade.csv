@@ -1,0 +1,5 @@
+﻿country,change_2015_2023_pp,age_composition_pp,age_specific_case_fatality_pp,note
+brasil,-0.36899736088379376,0.6711388163135912,-1.0401361771973845,Descriptive decomposition with five common age bands. Not causal; no population denominators.
+mexico,-0.014881677608162558,-0.09387351328441385,0.0789918356762497,Descriptive decomposition with five common age bands. Not causal; no population denominators.
+chile,0.9276564330312959,0.6399943088777935,0.2876621241535023,Descriptive decomposition with five common age bands. Not causal; no population denominators.
+equador,1.0594865976279997,-0.20909171184368938,1.2685783094716887,Descriptive decomposition with five common age bands. Not causal; no population denominators.

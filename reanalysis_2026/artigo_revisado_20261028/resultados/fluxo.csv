@@ -1,0 +1,3 @@
+﻿country,start,missing_lag,missing_death_all,missing_death_with_lag,complete_case_before_repeated_hospital,FE_sample,FE_hospitals
+mexico,187744,24393,44,29,163318,162904,842
+brasil,754674,89208,0,0,665466,663921,2078

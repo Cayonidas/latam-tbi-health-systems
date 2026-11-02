@@ -1,0 +1,49 @@
+Plano da reconstrução analítica - 28 de outubro de 2026
+
+Este plano é pós-hoc, definido após conhecimento dos resultados da auditoria.
+Não constitui pré-registro e não torna confirmatórias as análises anteriores.
+Foi escrito antes de executar as novas sensibilidades listadas abaixo.
+
+Artigo principal: Brasil e México, internações S06, idade >=20, 2015-2023.
+Pergunta: o gradiente de mortalidade associado ao volume na comparação entre
+hospitais também aparece na variação anual dentro de um mesmo hospital?
+Estimando principal: associação com diferença absoluta de probabilidade de
+óbito por duplicação de volume do ano anterior + 1, condicionada ao hospital,
+ano, idade (B-spline cúbica df4), sexo e subtipo administrativo.
+Unidade: internação administrativa; não pessoa. Não há inferência causal.
+Exposição congelada na coorte completa: não recalcular volume apenas de casos
+selecionados nas sensibilidades (isso mudaria a pergunta).
+Intervalos de 95% agrupados por hospital, correção de amostra finita, t G-1.
+Analisar cada país separadamente. Nenhum país será escolhido por significância.
+
+Modelos e verificações previstos:
+1. Modelo linear com efeitos fixos hospital/ano, hospitais com >=2 anos de
+   exposição observada. Comparação de escala com regressão linear convencional
+   na mesma amostra. Esta não substitui a logística reproduzida anteriormente.
+2. Sensibilidades substantivas: S061-S067; exclusão do procedimento de subdural
+   crônico no Brasil; internações em hospitais presentes nos 8 anos 2016-2023;
+   mínimo de 10 internações atuais e 10 anteriores; período 2016-2019;
+   exclusão de 2020-2021; efeitos de região-ano; idade <=110.
+3. No México, examinar ainda 2019-2023, sem alegar harmonização retrospectiva
+   de fontes a partir apenas desta restrição.
+4. Bootstrap selvagem linear de um passo com multiplicadores por hospital,
+   1999 réplicas, semente fixa, diagnóstico adicional do intervalo principal.
+   Não é bootstrap de toda a aquisição, nem validação de dados brutos.
+5. Quantificar suporte temporal da exposição, observações sem exposição prévia,
+   ausência de desfecho, prevalência de códigos inespecíficos, concentração de
+   admissões e participação hospitalar. Não excluir hospitais por mortalidade.
+6. Diagnosticar previsões fora de [0,1] do modelo linear; interpretar seu
+   coeficiente como associação na escala absoluta, não previsão clínica.
+
+Anexo de oportunidades (não integra a hipótese central do artigo):
+- Carga de idosos e dias de internação nos quatro países; comparar sem e com
+  limitação descritiva de LOS a 90 dias, S061-S067 e retirada do grupo crônico BR.
+- Chile: quedas, causas indeterminadas e mecanismos por idade/ano; padronizar
+  por distribuição etária e sexo da própria coorte, sem chamar de incidência.
+- Mostrar limites de identificação: proporção de quedas observadas até soma
+  de quedas e X59/Y10-Y34; cenários de atribuição, não imputações verdadeiras.
+
+Todas as variantes previstas serão publicadas no suplemento, inclusive nulas
+ou divergentes. Não procurar pontos de corte de volume por melhor p-valor.
+Sem GCS, imagem ou transferências validadas, não recomendar limiares de centros,
+provar benefício da centralização ou hierarquizar qualidade dos hospitais.

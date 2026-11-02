@@ -1,0 +1,29 @@
+{
+  "checks": {
+    "brasil_age20plus": true,
+    "brasil_principal_S06": true,
+    "brasil_binary_known_outcome": true,
+    "brasil_annual_volume": true,
+    "brasil_contiguous_lag": true,
+    "brasil_log_lag": true,
+    "brasil_principal_n": true,
+    "brasil_FWL_matches_joint_least_squares": true,
+    "brasil_FWL_residual_orthogonality": true,
+    "mexico_age20plus": true,
+    "mexico_principal_S06": true,
+    "mexico_binary_known_outcome": true,
+    "mexico_annual_volume": true,
+    "mexico_contiguous_lag": true,
+    "mexico_log_lag": true,
+    "mexico_principal_n": true,
+    "mexico_FWL_matches_joint_least_squares": true,
+    "mexico_FWL_residual_orthogonality": true
+  },
+  "all_passed": true,
+  "seconds": 41.33605379983783,
+  "input_hashes": {
+    "brasil": "56d46c4f4c784a4c6d73c4b8af3f1ec4cebde7f308abed411872a1ea5367326c",
+    "mexico": "7f0e301a86592ac4578e53d2dde594986e0b82870728a3b5fef90258aa3aa28b"
+  },
+  "plan_sha256": "a6cebe493494e33625eef59db5922adc07364aa6563e3225c110ecac9c6fa583"
+}

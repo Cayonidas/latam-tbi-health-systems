@@ -1,0 +1,114 @@
+{
+  "cohorts": [
+    {
+      "country": "brasil",
+      "n": 754674,
+      "deaths": 83485,
+      "death_known": 754674,
+      "age_min": 20.0,
+      "age_max": 99.0,
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
+      ],
+      "sha256": "56d46c4f4c784a4c6d73c4b8af3f1ec4cebde7f308abed411872a1ea5367326c"
+    },
+    {
+      "country": "mexico",
+      "n": 187744,
+      "deaths": 20813,
+      "death_known": 187700,
+      "age_min": 20.0,
+      "age_max": 120.0,
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
+      ],
+      "sha256": "7f0e301a86592ac4578e53d2dde594986e0b82870728a3b5fef90258aa3aa28b"
+    },
+    {
+      "country": "chile",
+      "n": 52259,
+      "deaths": 4242,
+      "death_known": 52259,
+      "age_min": 22.0,
+      "age_max": 95.0,
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
+      ],
+      "sha256": "1aca4540a9e5c7b239e17a9cd6857fdb9b4b2216358e23739d75b8accb906e15"
+    },
+    {
+      "country": "equador",
+      "n": 46753,
+      "deaths": 3480,
+      "death_known": 46753,
+      "age_min": 20.0,
+      "age_max": 115.0,
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
+      ],
+      "sha256": "b2932ac416d50b5effa56103d9c91da7e6bc383b84fe46589ebcd04831a4c50d"
+    }
+  ],
+  "duplicates": [
+    {
+      "country": "brasil",
+      "record_id_missing": 754674,
+      "record_id_duplicates_nonmissing": 0,
+      "full_row_duplicates": 7038,
+      "interpretation": "Full-row matches are audit flags, not proof of duplicated admissions; missing IDs are not counted as duplicate identifiers."
+    },
+    {
+      "country": "mexico",
+      "record_id_missing": 0,
+      "record_id_duplicates_nonmissing": 0,
+      "full_row_duplicates": 0,
+      "interpretation": "Full-row matches are audit flags, not proof of duplicated admissions; missing IDs are not counted as duplicate identifiers."
+    },
+    {
+      "country": "chile",
+      "record_id_missing": 0,
+      "record_id_duplicates_nonmissing": 0,
+      "full_row_duplicates": 0,
+      "interpretation": "Full-row matches are audit flags, not proof of duplicated admissions; missing IDs are not counted as duplicate identifiers."
+    },
+    {
+      "country": "equador",
+      "record_id_missing": 0,
+      "record_id_duplicates_nonmissing": 0,
+      "full_row_duplicates": 0,
+      "interpretation": "Full-row matches are audit flags, not proof of duplicated admissions; missing IDs are not counted as duplicate identifiers."
+    }
+  ]
+}

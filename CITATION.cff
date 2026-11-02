@@ -1,8 +1,7 @@
 cff-version: 1.2.0
-message: "If you use this reproducibility bundle, please cite the associated manuscript and the versioned software release."
-title: "LATAM TBI health-systems analysis: reproducibility bundle"
-version: "1.0.0"
-date-released: "2026-08-18"
+message: "If you use this reproducibility bundle, cite this code using its exact commit or published release; the manuscript is not yet published."
+title: "Hospital volume, mortality and concentration of traumatic brain injury care in Brazil and Mexico: a longitudinal administrative cohort study — analysis code"
+version: "2.0.0"
 license: MIT
 authors:
   - family-names: "Maciel"

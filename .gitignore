@@ -1,7 +1,7 @@
 # Raw and person-level data: never commit
 00_raw/
 01_intermediate/
-analysis_*/
+/analysis_*/
 *.dbc
 *.dbf
 *.parquet
@@ -30,3 +30,12 @@ Thumbs.db
 *.zip
 *.tar
 *.tar.gz
+
+# Frozen input cohorts and private submission materials
+reanalysis_2026/**/base_final/
+**/02_INTERNAL_DO_NOT_SUBMIT/
+BMC_FINAL_SUBMISSION_PACKAGE/
+*.feather
+*.pkl
+*.pickle
+*.log

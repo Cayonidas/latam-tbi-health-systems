@@ -1,0 +1,19 @@
+def classify_tbi_subtype(dx: Any) -> str:
+    code = "" if pd.isna(dx) else re.sub(r"\W", "", str(dx).upper())
+    mapping = {
+        "S060": "CONCUSSION",
+        "S061": "TRAUMATIC_CEREBRAL_EDEMA",
+        "S062": "DIFFUSE_BRAIN_INJURY",
+        "S063": "FOCAL_BRAIN_INJURY",
+        "S064": "EPIDURAL_HEMORRHAGE",
+        "S065": "SUBDURAL_HEMORRHAGE",
+        "S066": "TRAUMATIC_SUBARACHNOID_HEMORRHAGE",
+        "S067": "INTRACRANIAL_INJURY_WITH_PROLONGED_COMA",
+        "S068": "OTHER_INTRACRANIAL_INJURY",
+        "S069": "UNSPECIFIED_INTRACRANIAL_INJURY",
+    }
+    return mapping.get(code[:4], "OTHER_OR_UNSPECIFIED")
+
+Source: tce_master_v2_8_4_source_locked_final.py
+Source text SHA256: 3ff55b8c227cdf4c4e2df0fd18daa2b264d8127340f927f1e9d0f88a36b79da1
+Inherited administrative mapping; no clinical validation is implied.

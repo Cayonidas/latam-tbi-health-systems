@@ -1,0 +1,3 @@
+country,columns_compared,excess_after_first,records_in_repeated_groups,distinct_repeated_profiles,max_multiplicity,excess_pct,repeated_records_pct,analytic_excess,analytic_repeated_records,deaths_in_repeated_groups,hospitals_with_repeats,largest_hospital_repeat_records,top5_repeat_records
+brasil,59,7038,13549,6511,7,0.9325881108929154,1.7953447448832212,5959,11472,200,525,1923,4987
+mexico,59,0,0,0,0,0.0,0.0,0,0,0,0,0,0

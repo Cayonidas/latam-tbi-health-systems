@@ -1,0 +1,58 @@
+[
+  {
+    "check": "Individual fixed effect coefficients equal explicit dummy OLS in unbalanced panel",
+    "passed": true
+  },
+  {
+    "check": "SIH reads current secondary diagnoses and ignores zero placeholder",
+    "passed": true
+  },
+  {
+    "check": "Intensive and intermediate care remain separate and missing stays missing",
+    "passed": true
+  },
+  {
+    "check": "Field recovery preserves all source rows and unique lineage",
+    "passed": true
+  },
+  {
+    "check": "Chile recovery accepts external cause codes only",
+    "passed": true
+  },
+  {
+    "check": "Published country primary reproduced brasil",
+    "passed": true
+  },
+  {
+    "check": "Corrected spline has finite nondegenerate intervals brasil",
+    "passed": true
+  },
+  {
+    "check": "Published country primary reproduced mexico",
+    "passed": true
+  },
+  {
+    "check": "Corrected spline has finite nondegenerate intervals mexico",
+    "passed": true
+  },
+  {
+    "check": "Cohort totals match submitted manuscript",
+    "passed": true
+  },
+  {
+    "check": "Frozen analysis input unchanged brasil",
+    "passed": true
+  },
+  {
+    "check": "Frozen analysis input unchanged mexico",
+    "passed": true
+  },
+  {
+    "check": "Frozen analysis input unchanged chile",
+    "passed": true
+  },
+  {
+    "check": "Frozen analysis input unchanged equador",
+    "passed": true
+  }
+]

@@ -1,0 +1,3 @@
+﻿country,admissions,deaths,known_outcome,female,sex_counts,age_median,age_q1,age_q3,age70plus,specified_lesions,S069,hospitals
+mexico,187744,20813,187700,43213,"{""Male"":144507,""Female"":43213,""Other\/unknown"":19}",46.0,30.0,65.0,37537,56826,111725,1178
+brasil,754674,83485,754674,167217,"{""Male"":587457,""Female"":167217}",47.0,32.0,64.0,143394,296311,53670,3209

@@ -1,0 +1,5 @@
+﻿country,missing_record_id,nonmissing_duplicate_record_id,identical_rows_beyond_first,age_over110,los_over365,icu_days_over_los,unknown_death,icu_field_note
+brasil,754674,0,7038,0,0,18627,0,Brazil ICU plus intermediate-care days in original code; requires source recovery
+mexico,0,0,0,32,14,0,44,
+chile,0,0,0,0,67,0,0,
+equador,0,0,0,5,16,0,0,

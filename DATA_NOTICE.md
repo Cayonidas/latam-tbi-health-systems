@@ -1,17 +1,21 @@
-# Data and redistribution notice
+# Data availability and redistribution
 
-This repository does **not** contain patient-level national discharge datasets.
+The current study uses the frozen processed Brazilian SIH/SUS and Mexican
+Secretaría de Salud cohorts. Original national source systems are publicly
+accessible; source accessibility does not establish permission to redistribute
+the derived cohorts. No admission-level data are included here.
 
-The associated analysis used publicly accessible or publicly obtainable national health-data sources from Brazil, Mexico, Chile, and Ecuador. Source portals, study years, access dates, and analytic roles are listed in `source_manifest.csv`.
+The corresponding author retains the processed cohorts. Access requests are
+subject to verification of source terms and institutional requirements; no
+unconditional data-sharing promise or public cohort deposit is made.
+Code, aggregate results, mappings, input hashes and computational checks are in
+`reanalysis_2026/`. Aggregates alone cannot refit the models.
 
-The original raw datasets remain subject to the terms, technical access procedures, and reuse conditions of their respective national data providers. Nothing in the MIT licence for the repository code should be interpreted as granting rights over those external datasets.
+The historical four-country source documentation is retained in
+`docs/version_notes/source_manifest_v1_original.csv`. Current source roles and
+limitations are in `source_manifest.csv`. Source-to-cohort national extraction
+was not independently reconstructed from the available materials.
 
-The repository contains only:
-
-- analysis and harmonisation code;
-- source/audit documentation;
-- statistical-analysis plans and freeze documentation;
-- non-identifiable aggregate result tables and QC outputs; and
-- a hospital-level supplementary output using pseudonymised analytic hospital identifiers.
-
-No raw quasi-identifiers or patient-level records are intentionally redistributed here.
+The older hospital-level risk-standardisation spreadsheet and earlier aggregate
+tables are historical outputs, not current validated hospital-performance
+estimates. No source licence is replaced by the MIT licence for this repository.

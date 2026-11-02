@@ -1,0 +1,50 @@
+[
+  {
+    "country": "mexico",
+    "variant": "S061-S067",
+    "iterations": 6,
+    "log_likelihood": -16138.05073670201,
+    "hospital_score_max_abs": 1.2569112417537553e-13,
+    "min_predicted": 0.0015318797837763835,
+    "max_predicted": 0.8334100579330366,
+    "columns": 19,
+    "hospitals": 437,
+    "n": 47642
+  },
+  {
+    "country": "mexico",
+    "variant": "Balanced 8 years",
+    "iterations": 6,
+    "log_likelihood": -45112.34351139092,
+    "hospital_score_max_abs": 9.170442183403793e-14,
+    "min_predicted": 0.0006107013383116378,
+    "max_predicted": 0.8123851504781852,
+    "columns": 23,
+    "hospitals": 421,
+    "n": 138198
+  },
+  {
+    "country": "brasil",
+    "variant": "S061-S067",
+    "iterations": 6,
+    "log_likelihood": -103863.85347352437,
+    "hospital_score_max_abs": 2.1346813205980197e-13,
+    "min_predicted": 0.004448369782442054,
+    "max_predicted": 0.7569106660778148,
+    "columns": 19,
+    "hospitals": 815,
+    "n": 257275
+  },
+  {
+    "country": "brasil",
+    "variant": "Balanced 8 years",
+    "iterations": 6,
+    "log_likelihood": -201934.9990620137,
+    "hospital_score_max_abs": 2.465472270785085e-12,
+    "min_predicted": 0.0003681763597695164,
+    "max_predicted": 0.7705114935579416,
+    "columns": 23,
+    "hospitals": 880,
+    "n": 613404
+  }
+]

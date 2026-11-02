@@ -1,0 +1,39 @@
+ETAPA FINAL DE FORTALECIMENTO CIENTIFICO
+Plano salvo antes da execucao das novas analises desta etapa, em 28/10/2026.
+Todas as analises sao pos-hoc; os resultados das etapas anteriores ja sao conhecidos.
+
+Objetivo: fortalecer a contribuicao sobre interpretacao do volume hospitalar,
+sem escolher amostras, modelos ou conclusoes pelo sinal ou significancia.
+Manter a pergunta principal Brasil/Mexico e a amostra principal anterior.
+
+1. Contraste pareado entre coeficientes convencional e com efeitos fixos,
+   na mesma amostra e escala. Covariancia conjunta por hospital, correcao
+   CR1 comum usando o maior numero de parametros dos dois modelos, IC t.
+   A diferenca entre associacoes nao e um efeito causal nem uma fracao de
+   confundimento explicada. Validar contra modelos com indicadores explicitos.
+2. Influencia por hospital: aproximacao por escores e exclusao exata dos cinco
+   hospitais de maior influencia absoluta no contraste, mais o de maior N.
+   Recalcular ambos os modelos mantendo a base de spline definida na amostra
+   completa. Publicar todas as exclusoes, independentemente do resultado.
+3. Especificidade diagnostica por ano e hospital, incluindo proporcao S06.9,
+   mudancas anuais e relacao descritiva com volume. Nao usar variaveis de
+   codificacao contemporaneas como suposto ajuste causal de gravidade.
+4. Completar verificacao da forma funcional com logistica de efeitos fixos
+   nas amostras S06.1-S06.7 e hospitais observados nos oito anos, em ambos
+   os paises. Informar exclusao de hospitais sem variacao de desfecho,
+   convergencia e analise linear na mesma amostra. Nao substituir a primaria.
+5. Carga assistencial observada em 2023: fracao de internacoes, obitos,
+   dias registrados, internacoes de pessoas 70+, casos S06.1-S06.7 e
+   procedimentos agudos brasileiros nos 10% de hospitais com maior volume.
+   Hospital de maior volume e definido pelo numero de internacoes de 2023.
+   Descrever dias com truncamento a 90 dias como sensibilidade, sem chamar
+   soma de permanencias de ocupacao real, custo ou necessidade nao atendida.
+6. Revisao dirigida de novidade em fontes primarias e revisao editorial.
+   Resultados previos divergentes permanecem. Campos Chile/Equador sem
+   harmonizacao nao serao acrescentados ao argumento hospitalar principal.
+
+Entregas: manuscrito final, suplemento integrado, nota de decisoes e limites,
+figuras e tabelas, codigo, plano, verificacoes e manifesto dos insumos.
+Dados brutos ausentes e gravidade clinica ausente permanecem limitacoes.
+Nao afirmar melhor artigo possivel em sentido absoluto, relevancia clinica
+demonstrada, validacao clinica ou garantia de aceite. Nenhum envio/publicacao.

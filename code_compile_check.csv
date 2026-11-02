@@ -6,3 +6,15 @@ code/03_primary_analysis/tce_master_v2_8_4_source_locked_final.py,PASS
 code/04_methodological_enhancements/tce_v2_8_5_1_methodological_enhancement_fixed.py,PASS
 code/05_final_robustness/tce_v2_8_6_1_final_robustness_paths_fixed.py,PASS
 code/06_publication_freeze/tce_v2_8_7_publication_freeze.py,PASS
+reanalysis_2026/artigo_final_20261028/figuras.py,PASS
+reanalysis_2026/artigo_final_20261028/fortalecer.py,PASS
+reanalysis_2026/artigo_final_20261028/verificar_carga.py,PASS
+reanalysis_2026/artigo_revisado_20261028/analise_expandida.py,PASS
+reanalysis_2026/artigo_revisado_20261028/logistica_efeitos_fixos.py,PASS
+reanalysis_2026/artigo_revisado_20261028/oportunidades_adicionais.py,PASS
+reanalysis_2026/artigo_revisado_20261028/validar_expandida.py,PASS
+reanalysis_2026/auditoria_20261028/reanalisar.py,PASS
+reanalysis_2026/cohort_diagnostics/audit_processed_cohorts.py,PASS
+reanalysis_2026/run_analysis.py,PASS
+reanalysis_2026/verify_archive.py,PASS
+verify_repository.py,PASS

@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Preserve exact hashes in the frozen scientific supplement.
+reanalysis_2026/** -text
