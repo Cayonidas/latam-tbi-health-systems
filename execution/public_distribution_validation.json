@@ -1,0 +1,7 @@
+{
+  "exit_code": 0,
+  "independent_directory": true,
+  "historical_country_files_present": false,
+  "source_inputs": "Two reconstructed cohorts and one actual RD reader fixture, copied privately after ZIP verification",
+  "scope": "Distributed stage 09 numerical validation and independent tests; stages 00-08 were executed in the recorded main reconstruction, not re-downloaded for this isolation check"
+}

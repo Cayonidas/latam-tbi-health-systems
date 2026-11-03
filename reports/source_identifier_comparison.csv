@@ -1,0 +1,3 @@
+country,shared_hospitals,old_only_hospitals,new_only_hospitals,old_record_id_missing,new_record_id_missing,old_record_id_repetitions,new_record_id_repetitions,row_linkage
+brasil,3209,0,2,754674,0,0,0,Unavailable: old Brazilian AIH absent; Mexican source keys from different series not assumed equivalent
+mexico,700,478,0,0,0,0,0,Unavailable: old Brazilian AIH absent; Mexican source keys from different series not assumed equivalent

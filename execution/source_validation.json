@@ -1,0 +1,11 @@
+{
+  "verified_at": "2026-11-03T22:09:05.690047+00:00",
+  "counts": {
+    "brasil": 2916,
+    "mexico": 28
+  },
+  "complete_expected_acquisition": true,
+  "dgis_annual_files": 9,
+  "primary_hashes_reused_from_completed_validation": false,
+  "total_bytes": 10544622394
+}

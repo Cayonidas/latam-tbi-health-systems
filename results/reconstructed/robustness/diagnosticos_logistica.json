@@ -1,0 +1,77 @@
+[
+  {
+    "country": "mexico",
+    "variant": "S061-S067",
+    "separating_cells": [
+      {
+        "column": 1,
+        "n": 2,
+        "deaths": 0
+      }
+    ],
+    "columns": 20,
+    "n": 20591,
+    "hospitals": 208,
+    "reason": "Quasi-complete separation in a binary covariate cell; finite full maximum likelihood estimate does not exist",
+    "sex_outcome_cells": {
+      "size": {
+        "Female": 3628,
+        "Male": 16961,
+        "Other/unknown": 2
+      },
+      "sum": {
+        "Female": 506.0,
+        "Male": 2405.0,
+        "Other/unknown": 0.0
+      }
+    }
+  },
+  {
+    "country": "mexico",
+    "variant": "Balanced 8 years",
+    "iterations": 6,
+    "log_likelihood": -26198.60885743096,
+    "hospital_score_max_abs": 1.66644475996236e-13,
+    "min_predicted": 0.0005671499537165054,
+    "max_predicted": 0.6081486154093928,
+    "columns": 23,
+    "hospitals": 207,
+    "n": 76066
+  },
+  {
+    "country": "mexico",
+    "variant": "S061-S067 recorded male/female; separation diagnostic",
+    "iterations": 6,
+    "log_likelihood": -7702.7114647411,
+    "hospital_score_max_abs": 2.3092638912203256e-14,
+    "min_predicted": 0.0013202474454335215,
+    "max_predicted": 0.9798270717447239,
+    "columns": 19,
+    "hospitals": 208,
+    "n": 20589
+  },
+  {
+    "country": "brasil",
+    "variant": "S061-S067",
+    "iterations": 6,
+    "log_likelihood": -104009.19982888062,
+    "hospital_score_max_abs": 3.39644978808451e-13,
+    "min_predicted": 0.004480639859702338,
+    "max_predicted": 0.9602747150446009,
+    "columns": 19,
+    "hospitals": 815,
+    "n": 257479
+  },
+  {
+    "country": "brasil",
+    "variant": "Balanced 8 years",
+    "iterations": 6,
+    "log_likelihood": -202228.6269426518,
+    "hospital_score_max_abs": 1.9625134850542736e-12,
+    "min_predicted": 0.0003662680720452822,
+    "max_predicted": 0.9169396772102671,
+    "columns": 23,
+    "hospitals": 881,
+    "n": 614016
+  }
+]

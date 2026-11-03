@@ -1,0 +1,76 @@
+{
+  "brasil": {
+    "fields": [
+      "hospital_id",
+      "year",
+      "age",
+      "sex",
+      "dx_main",
+      "death_in_hospital",
+      "los_days"
+    ],
+    "matched_profile_occurrences": 754668,
+    "old_only_occurrences": 6,
+    "new_only_occurrences": 645,
+    "distinct_shared_profiles": 694860,
+    "old_repeated_profile_excess": 59808,
+    "new_repeated_profile_excess": 59809,
+    "interpretation": "Multiset concordance of recorded characteristics, not proof of identical patients or episodes"
+  },
+  "brasil_with_procedure": {
+    "fields": [
+      "hospital_id",
+      "year",
+      "age",
+      "sex",
+      "dx_main",
+      "death_in_hospital",
+      "los_days",
+      "procedure_code_norm"
+    ],
+    "matched_profile_occurrences": 754668,
+    "old_only_occurrences": 6,
+    "new_only_occurrences": 645,
+    "distinct_shared_profiles": 706941,
+    "old_repeated_profile_excess": 47727,
+    "new_repeated_profile_excess": 47728,
+    "interpretation": "Multiset concordance of recorded characteristics, not proof of identical patients or episodes"
+  },
+  "brasil_same_legacy_age_rule": {
+    "fields": [
+      "hospital_id",
+      "year",
+      "age",
+      "sex",
+      "dx_main",
+      "death_in_hospital",
+      "los_days",
+      "procedure_code_norm"
+    ],
+    "matched_profile_occurrences": 754668,
+    "old_only_occurrences": 6,
+    "new_only_occurrences": 6,
+    "distinct_shared_profiles": 706941,
+    "old_repeated_profile_excess": 47727,
+    "new_repeated_profile_excess": 47727,
+    "interpretation": "Multiset concordance of recorded characteristics, not proof of identical patients or episodes"
+  },
+  "mexico": {
+    "fields": [
+      "hospital_id",
+      "year",
+      "age",
+      "sex",
+      "dx_main",
+      "death_in_hospital",
+      "los_days"
+    ],
+    "matched_profile_occurrences": 107642,
+    "old_only_occurrences": 80102,
+    "new_only_occurrences": 44,
+    "distinct_shared_profiles": 100219,
+    "old_repeated_profile_excess": 9900,
+    "new_repeated_profile_excess": 7423,
+    "interpretation": "Multiset concordance of recorded characteristics, not proof of identical patients or episodes"
+  }
+}

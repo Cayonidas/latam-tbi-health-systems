@@ -1,0 +1,32 @@
+[
+  {
+    "country": "brasil",
+    "analysis": "Principal hospital and year FE",
+    "iterations": 10,
+    "rank": 16,
+    "covariates": [
+      "C(sex)[T.Male]",
+      "C(trauma_subtype)[T.DIFFUSE_BRAIN_INJURY]",
+      "C(trauma_subtype)[T.EPIDURAL_HEMORRHAGE]",
+      "C(trauma_subtype)[T.FOCAL_BRAIN_INJURY]",
+      "C(trauma_subtype)[T.INTRACRANIAL_INJURY_WITH_PROLONGED_COMA]",
+      "C(trauma_subtype)[T.OTHER_INTRACRANIAL_INJURY]",
+      "C(trauma_subtype)[T.OTHER_OR_UNSPECIFIED]",
+      "C(trauma_subtype)[T.SUBDURAL_HEMORRHAGE]",
+      "C(trauma_subtype)[T.TRAUMATIC_CEREBRAL_EDEMA]",
+      "C(trauma_subtype)[T.TRAUMATIC_SUBARACHNOID_HEMORRHAGE]",
+      "C(trauma_subtype)[T.UNSPECIFIED_INTRACRANIAL_INJURY]",
+      "log_lag_volume",
+      "bs(age, df=4, degree=3, include_intercept=False)[0]",
+      "bs(age, df=4, degree=3, include_intercept=False)[1]",
+      "bs(age, df=4, degree=3, include_intercept=False)[2]",
+      "bs(age, df=4, degree=3, include_intercept=False)[3]"
+    ],
+    "fixed_effect_connected_components": 1,
+    "df_parameters": 2101,
+    "fitted_below_zero": 56177,
+    "fitted_above_one": 0,
+    "fitted_min": -0.18828989530864143,
+    "fitted_max": 0.8722771269842147
+  }
+]

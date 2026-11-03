@@ -1,0 +1,10 @@
+year,annual_all_records,consolidated_all_records,annual_S06,consolidated_S06,annual_adult_S06,consolidated_adult_S06,all_s06_shared,all_s06_annual_only,all_s06_consolidated_only,all_s06_model_fields_shared,all_s06_model_fields_annual_only,all_s06_model_fields_consolidated_only,adult_s06_shared,adult_s06_annual_only,adult_s06_consolidated_only,adult_s06_model_fields_shared,adult_s06_model_fields_annual_only,adult_s06_model_fields_consolidated_only,annual_duplicate_keys,consolidated_duplicate_keys,shared_unambiguous_candidate_source_keys,key_matched_differences_age_raw,key_matched_differences_unit,key_matched_differences_sex,key_matched_differences_reason,key_matched_differences_stay,key_matched_differences_diagnosis
+2015,2970812,2970812,18955,18955,11290,11290,18762,193,193,18955,0,0,11136,154,154,11290,0,0,0,0,18955,0,0,0,193,0,0
+2016,2953109,2954506,19535,19539,11772,11772,19304,231,235,19535,0,4,11611,161,161,11772,0,0,2,0,0,0,0,0,0,0,0
+2017,2729341,2729341,19320,19320,11666,11666,19320,0,0,19320,0,0,11666,0,0,11666,0,0,0,0,19320,0,0,0,0,0,0
+2018,2623379,2623379,19163,19163,11935,11935,19163,0,0,19163,0,0,11935,0,0,11935,0,0,0,0,19163,0,0,0,0,0,0
+2019,2629434,2629434,19553,19553,12548,12548,19553,0,0,19553,0,0,12548,0,0,12548,0,0,0,0,19553,0,0,0,0,0,0
+2020,1937344,1937344,14732,14732,9281,9281,14725,7,7,14732,0,0,9277,4,4,9281,0,0,0,0,14732,0,0,7,0,0,0
+2021,2088780,2088779,17422,17422,11078,11078,17422,0,0,17422,0,0,11078,0,0,11078,0,0,0,0,17422,0,0,0,0,0,0
+2022,2479897,2479897,21069,21069,13880,13880,21069,0,0,21069,0,0,13880,0,0,13880,0,0,0,0,21069,0,0,0,0,0,0
+2023,2591278,2591278,21552,21552,14236,14236,21542,10,10,21552,0,0,14231,5,5,14236,0,0,0,0,21552,0,0,10,0,0,0

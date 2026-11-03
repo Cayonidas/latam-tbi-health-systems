@@ -1,0 +1,20 @@
+RUN 2026-11-03T21:17:11Z
+mexico Principal hospital and year FE 0.8181 92853 437
+mexico Specified lesions S061-S067 1.6704 21345 311
+mexico Hospitals observed in all 8 exposure years -0.2845 77651 231
+mexico Current and prior volume at least 10 0.1888 84151 224
+mexico Pre-pandemic 2016-2019 0.2074 46510 345
+mexico Exclude 2020-2021 -0.0376 72829 421
+mexico Hospital and region-year FE 0.2785 92853 437
+mexico Age no more than 110 0.8152 92828 437
+mexico Mexico 2019-2023 1.5072 58059 390
+brasil Principal hospital and year FE -0.18 664508 2079
+brasil Specified lesions S061-S067 -0.0096 263411 1359
+brasil Exclude chronic subdural procedure -0.1741 626506 2073
+brasil Age no more than 110 -0.1807 664481 2079
+brasil Hospitals observed in all 8 exposure years -0.2682 625955 1038
+brasil Current and prior volume at least 10 -0.4105 625293 921
+brasil Pre-pandemic 2016-2019 0.1452 324585 1667
+brasil Exclude 2020-2021 -0.2528 504675 1996
+brasil Hospital and region-year FE -0.1525 664508 2079
+COMPLETE

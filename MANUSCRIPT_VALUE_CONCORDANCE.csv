@@ -1,0 +1,471 @@
+document,table,row,column,source_file,source_selection,source_values,expected,observed,concordant
+Manuscript,1,1,1,results/reconstructed/diagnostics/analytic_characteristics.csv,"('brasil', 'starting')","{""n"": 755313.0}","755,313","755,313",True
+Manuscript,1,2,1,results/reconstructed/diagnostics/analytic_characteristics.csv,"('brasil', 'starting')","{""deaths"": 83628.0}","83,628","83,628",True
+Manuscript,1,3,1,results/reconstructed/diagnostics/analytic_characteristics.csv,"('brasil', 'starting')","{""known_outcome"": 755313.0}","755,313","755,313",True
+Manuscript,1,4,1,results/reconstructed/diagnostics/analytic_characteristics.csv,"('brasil', 'starting')","{""hospitals"": 3211.0}","3,211","3,211",True
+Manuscript,1,5,1,results/reconstructed/diagnostics/analytic_characteristics.csv,"('brasil', 'starting')","{""hospital_years"": 17504.0}","17,504","17,504",True
+Manuscript,1,6,1,results/reconstructed/diagnostics/analytic_characteristics.csv,"('brasil', 'starting')","{""age_median"": 47.0, ""age_q1"": 32.0, ""age_q3"": 64.0}",47 (32 to 64),47 (32 to 64),True
+Manuscript,1,7,1,results/reconstructed/diagnostics/analytic_characteristics.csv,"('brasil', 'starting')","{""female"": 167593.0, ""denominator"": 755313.0}","167,593 (22.2)","167,593 (22.2)",True
+Manuscript,1,8,1,results/reconstructed/diagnostics/analytic_characteristics.csv,"('brasil', 'starting')","{""age70"": 144033.0, ""denominator"": 755313.0}","144,033 (19.1)","144,033 (19.1)",True
+Manuscript,1,9,1,results/reconstructed/diagnostics/analytic_characteristics.csv,"('brasil', 'starting')","{""specified"": 296541.0, ""denominator"": 755313.0}","296,541 (39.3)","296,541 (39.3)",True
+Manuscript,1,10,1,results/reconstructed/diagnostics/analytic_characteristics.csv,"('brasil', 'starting')","{""S069"": 53702.0, ""denominator"": 755313.0}","53,702 (7.1)","53,702 (7.1)",True
+Manuscript,1,1,2,results/reconstructed/diagnostics/analytic_characteristics.csv,"('brasil', 'analytic')","{""n"": 664508.0}","664,508","664,508",True
+Manuscript,1,2,2,results/reconstructed/diagnostics/analytic_characteristics.csv,"('brasil', 'analytic')","{""deaths"": 74279.0}","74,279","74,279",True
+Manuscript,1,3,2,results/reconstructed/diagnostics/analytic_characteristics.csv,"('brasil', 'analytic')","{""known_outcome"": 664508.0}","664,508","664,508",True
+Manuscript,1,4,2,results/reconstructed/diagnostics/analytic_characteristics.csv,"('brasil', 'analytic')","{""hospitals"": 2079.0}","2,079","2,079",True
+Manuscript,1,5,2,results/reconstructed/diagnostics/analytic_characteristics.csv,"('brasil', 'analytic')","{""hospital_years"": 12521.0}","12,521","12,521",True
+Manuscript,1,6,2,results/reconstructed/diagnostics/analytic_characteristics.csv,"('brasil', 'analytic')","{""age_median"": 47.0, ""age_q1"": 33.0, ""age_q3"": 65.0}",47 (33 to 65),47 (33 to 65),True
+Manuscript,1,7,2,results/reconstructed/diagnostics/analytic_characteristics.csv,"('brasil', 'analytic')","{""female"": 147306.0, ""denominator"": 664508.0}","147,306 (22.2)","147,306 (22.2)",True
+Manuscript,1,8,2,results/reconstructed/diagnostics/analytic_characteristics.csv,"('brasil', 'analytic')","{""age70"": 128841.0, ""denominator"": 664508.0}","128,841 (19.4)","128,841 (19.4)",True
+Manuscript,1,9,2,results/reconstructed/diagnostics/analytic_characteristics.csv,"('brasil', 'analytic')","{""specified"": 263853.0, ""denominator"": 664508.0}","263,853 (39.7)","263,853 (39.7)",True
+Manuscript,1,10,2,results/reconstructed/diagnostics/analytic_characteristics.csv,"('brasil', 'analytic')","{""S069"": 47955.0, ""denominator"": 664508.0}","47,955 (7.2)","47,955 (7.2)",True
+Manuscript,1,1,3,results/reconstructed/diagnostics/analytic_characteristics.csv,"('mexico', 'starting')","{""n"": 107686.0}","107,686","107,686",True
+Manuscript,1,2,3,results/reconstructed/diagnostics/analytic_characteristics.csv,"('mexico', 'starting')","{""deaths"": 12942.0}","12,942","12,942",True
+Manuscript,1,3,3,results/reconstructed/diagnostics/analytic_characteristics.csv,"('mexico', 'starting')","{""known_outcome"": 107606.0}","107,606","107,606",True
+Manuscript,1,4,3,results/reconstructed/diagnostics/analytic_characteristics.csv,"('mexico', 'starting')","{""hospitals"": 700.0}",700,700,True
+Manuscript,1,5,3,results/reconstructed/diagnostics/analytic_characteristics.csv,"('mexico', 'starting')","{""hospital_years"": 3707.0}","3,707","3,707",True
+Manuscript,1,6,3,results/reconstructed/diagnostics/analytic_characteristics.csv,"('mexico', 'starting')","{""age_median"": 40.0, ""age_q1"": 28.0, ""age_q3"": 57.0}",40 (28 to 57),40 (28 to 57),True
+Manuscript,1,7,3,results/reconstructed/diagnostics/analytic_characteristics.csv,"('mexico', 'starting')","{""female"": 21955.0, ""denominator"": 107686.0}","21,955 (20.4)","21,955 (20.4)",True
+Manuscript,1,8,3,results/reconstructed/diagnostics/analytic_characteristics.csv,"('mexico', 'starting')","{""age70"": 13354.0, ""denominator"": 107686.0}","13,354 (12.4)","13,354 (12.4)",True
+Manuscript,1,9,3,results/reconstructed/diagnostics/analytic_characteristics.csv,"('mexico', 'starting')","{""specified"": 25092.0, ""denominator"": 107686.0}","25,092 (23.3)","25,092 (23.3)",True
+Manuscript,1,10,3,results/reconstructed/diagnostics/analytic_characteristics.csv,"('mexico', 'starting')","{""S069"": 71142.0, ""denominator"": 107686.0}","71,142 (66.1)","71,142 (66.1)",True
+Manuscript,1,1,4,results/reconstructed/diagnostics/analytic_characteristics.csv,"('mexico', 'analytic')","{""n"": 92853.0}","92,853","92,853",True
+Manuscript,1,2,4,results/reconstructed/diagnostics/analytic_characteristics.csv,"('mexico', 'analytic')","{""deaths"": 11352.0}","11,352","11,352",True
+Manuscript,1,3,4,results/reconstructed/diagnostics/analytic_characteristics.csv,"('mexico', 'analytic')","{""known_outcome"": 92853.0}","92,853","92,853",True
+Manuscript,1,4,4,results/reconstructed/diagnostics/analytic_characteristics.csv,"('mexico', 'analytic')","{""hospitals"": 437.0}",437,437,True
+Manuscript,1,5,4,results/reconstructed/diagnostics/analytic_characteristics.csv,"('mexico', 'analytic')","{""hospital_years"": 2674.0}","2,674","2,674",True
+Manuscript,1,6,4,results/reconstructed/diagnostics/analytic_characteristics.csv,"('mexico', 'analytic')","{""age_median"": 40.0, ""age_q1"": 28.0, ""age_q3"": 57.0}",40 (28 to 57),40 (28 to 57),True
+Manuscript,1,7,4,results/reconstructed/diagnostics/analytic_characteristics.csv,"('mexico', 'analytic')","{""female"": 18662.0, ""denominator"": 92853.0}","18,662 (20.1)","18,662 (20.1)",True
+Manuscript,1,8,4,results/reconstructed/diagnostics/analytic_characteristics.csv,"('mexico', 'analytic')","{""age70"": 11313.0, ""denominator"": 92853.0}","11,313 (12.2)","11,313 (12.2)",True
+Manuscript,1,9,4,results/reconstructed/diagnostics/analytic_characteristics.csv,"('mexico', 'analytic')","{""specified"": 21423.0, ""denominator"": 92853.0}","21,423 (23.1)","21,423 (23.1)",True
+Manuscript,1,10,4,results/reconstructed/diagnostics/analytic_characteristics.csv,"('mexico', 'analytic')","{""S069"": 61575.0, ""denominator"": 92853.0}","61,575 (66.3)","61,575 (66.3)",True
+Manuscript,2,1,1,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,brasil;Conventional LPM same sample,"{""estimate_pp"": 0.8115631651957667, ""low_pp"": 0.5709862862295424, ""high_pp"": 1.0521400441619908}",0.812 (0.571 to 1.052),0.812 (0.571 to 1.052),True
+Manuscript,2,1,2,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,brasil;Principal hospital and year FE,"{""estimate_pp"": -0.17999269926949152, ""low_pp"": -0.4170997169540417, ""high_pp"": 0.05711431841505866}",−0.180 (−0.417 to 0.057),−0.180 (−0.417 to 0.057),True
+Manuscript,2,1,3,results/reconstructed/robustness/contraste_pareado.csv,brasil,"{""difference_pp"": 0.99155586446535, ""difference_low"": 0.6967876995705561, ""difference_high"": 1.286324029360144}",0.992 (0.697 to 1.286),0.992 (0.697 to 1.286),True
+Manuscript,2,2,1,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,mexico;Conventional LPM same sample,"{""estimate_pp"": 2.2140069188153526, ""low_pp"": 1.4990521204160525, ""high_pp"": 2.9289617172146523}",2.214 (1.499 to 2.929),2.214 (1.499 to 2.929),True
+Manuscript,2,2,2,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,mexico;Principal hospital and year FE,"{""estimate_pp"": 0.8181383816375173, ""low_pp"": -0.39112868497256037, ""high_pp"": 2.027405448247595}",0.818 (−0.391 to 2.027),0.818 (−0.391 to 2.027),True
+Manuscript,2,2,3,results/reconstructed/robustness/contraste_pareado.csv,mexico,"{""difference_pp"": 1.395868537177912, ""difference_low"": -0.003967670089351794, ""difference_high"": 2.795704744445176}",1.396 (−0.004 to 2.796),1.396 (−0.004 to 2.796),True
+Additional_file_1,1,1,2,COHORT_FLOW_FROM_RAW.csv,brasil;All records in 2015-2023 competency files,"{""n"": 107392891}","107,392,891","107,392,891",True
+Additional_file_1,1,1,3,COHORT_FLOW_FROM_RAW.csv,brasil;All records in 2015-2023 competency files,"{""removed_or_grouped_since_previous"": NaN}",—,—,True
+Additional_file_1,1,2,2,COHORT_FLOW_FROM_RAW.csv,brasil;Active DBF records,"{""n"": 107392891}","107,392,891","107,392,891",True
+Additional_file_1,1,2,3,COHORT_FLOW_FROM_RAW.csv,brasil;Active DBF records,"{""removed_or_grouped_since_previous"": 0.0}",0,0,True
+Additional_file_1,1,3,2,COHORT_FLOW_FROM_RAW.csv,brasil;Principal S06 records before AIH aggregation,"{""n"": 943449}","943,449","943,449",True
+Additional_file_1,1,3,3,COHORT_FLOW_FROM_RAW.csv,brasil;Principal S06 records before AIH aggregation,"{""removed_or_grouped_since_previous"": 106449442.0}","106,449,442","106,449,442",True
+Additional_file_1,1,4,2,COHORT_FLOW_FROM_RAW.csv,brasil;Distinct administrative AIH authorisations,"{""n"": 943383}","943,383","943,383",True
+Additional_file_1,1,4,3,COHORT_FLOW_FROM_RAW.csv,brasil;Distinct administrative AIH authorisations,"{""removed_or_grouped_since_previous"": 66.0}",66,66,True
+Additional_file_1,1,5,2,COHORT_FLOW_FROM_RAW.csv,brasil;After excluding documented age below 20,"{""n"": 755313}","755,313","755,313",True
+Additional_file_1,1,5,3,COHORT_FLOW_FROM_RAW.csv,brasil;After excluding documented age below 20,"{""removed_or_grouped_since_previous"": 188070.0}","188,070","188,070",True
+Additional_file_1,1,6,2,COHORT_FLOW_FROM_RAW.csv,brasil;Known age at least 20,"{""n"": 755313}","755,313","755,313",True
+Additional_file_1,1,6,3,COHORT_FLOW_FROM_RAW.csv,brasil;Known age at least 20,"{""removed_or_grouped_since_previous"": 0.0}",0,0,True
+Additional_file_1,1,7,2,COHORT_FLOW_FROM_RAW.csv,brasil;Processing year 2015-2023,"{""n"": 755313}","755,313","755,313",True
+Additional_file_1,1,7,3,COHORT_FLOW_FROM_RAW.csv,brasil;Processing year 2015-2023,"{""removed_or_grouped_since_previous"": 0.0}",0,0,True
+Additional_file_1,1,8,2,COHORT_FLOW_FROM_RAW.csv,brasil;Hospital identifier available,"{""n"": 755313}","755,313","755,313",True
+Additional_file_1,1,8,3,COHORT_FLOW_FROM_RAW.csv,brasil;Hospital identifier available,"{""removed_or_grouped_since_previous"": 0.0}",0,0,True
+Additional_file_1,1,9,2,COHORT_FLOW_FROM_RAW.csv,brasil;Contiguous prior-year exposure,"{""n"": 666057}","666,057","666,057",True
+Additional_file_1,1,9,3,COHORT_FLOW_FROM_RAW.csv,brasil;Contiguous prior-year exposure,"{""removed_or_grouped_since_previous"": 89256.0}","89,256","89,256",True
+Additional_file_1,1,10,2,COHORT_FLOW_FROM_RAW.csv,brasil;Complete model variables,"{""n"": 666057}","666,057","666,057",True
+Additional_file_1,1,10,3,COHORT_FLOW_FROM_RAW.csv,brasil;Complete model variables,"{""removed_or_grouped_since_previous"": 0.0}",0,0,True
+Additional_file_1,1,11,2,COHORT_FLOW_FROM_RAW.csv,brasil;At least two eligible hospital years,"{""n"": 664508}","664,508","664,508",True
+Additional_file_1,1,11,3,COHORT_FLOW_FROM_RAW.csv,brasil;At least two eligible hospital years,"{""removed_or_grouped_since_previous"": 1549.0}","1,549","1,549",True
+Additional_file_1,1,12,2,COHORT_FLOW_FROM_RAW.csv,mexico;All records in consolidated source 2008-2024,"{""n"": 44844719}","44,844,719","44,844,719",True
+Additional_file_1,1,12,3,COHORT_FLOW_FROM_RAW.csv,mexico;All records in consolidated source 2008-2024,"{""removed_or_grouped_since_previous"": NaN}",—,—,True
+Additional_file_1,1,13,2,COHORT_FLOW_FROM_RAW.csv,mexico;Discharge/source years 2015-2023,"{""n"": 23004770}","23,004,770","23,004,770",True
+Additional_file_1,1,13,3,COHORT_FLOW_FROM_RAW.csv,mexico;Discharge/source years 2015-2023,"{""removed_or_grouped_since_previous"": 21839949.0}","21,839,949","21,839,949",True
+Additional_file_1,1,14,2,COHORT_FLOW_FROM_RAW.csv,mexico;Principal S06 in 2015-2023,"{""n"": 171305}","171,305","171,305",True
+Additional_file_1,1,14,3,COHORT_FLOW_FROM_RAW.csv,mexico;Principal S06 in 2015-2023,"{""removed_or_grouped_since_previous"": 22833465.0}","22,833,465","22,833,465",True
+Additional_file_1,1,15,2,COHORT_FLOW_FROM_RAW.csv,mexico;After excluding documented age below 20,"{""n"": 107792}","107,792","107,792",True
+Additional_file_1,1,15,3,COHORT_FLOW_FROM_RAW.csv,mexico;After excluding documented age below 20,"{""removed_or_grouped_since_previous"": 63513.0}","63,513","63,513",True
+Additional_file_1,1,16,2,COHORT_FLOW_FROM_RAW.csv,mexico;Known age at least 20,"{""n"": 107686}","107,686","107,686",True
+Additional_file_1,1,16,3,COHORT_FLOW_FROM_RAW.csv,mexico;Known age at least 20,"{""removed_or_grouped_since_previous"": 106.0}",106,106,True
+Additional_file_1,1,17,2,COHORT_FLOW_FROM_RAW.csv,mexico;Hospital identifier available,"{""n"": 107686}","107,686","107,686",True
+Additional_file_1,1,17,3,COHORT_FLOW_FROM_RAW.csv,mexico;Hospital identifier available,"{""removed_or_grouped_since_previous"": 0.0}",0,0,True
+Additional_file_1,1,18,2,COHORT_FLOW_FROM_RAW.csv,mexico;Contiguous prior-year exposure,"{""n"": 93855}","93,855","93,855",True
+Additional_file_1,1,18,3,COHORT_FLOW_FROM_RAW.csv,mexico;Contiguous prior-year exposure,"{""removed_or_grouped_since_previous"": 13831.0}","13,831","13,831",True
+Additional_file_1,1,19,2,COHORT_FLOW_FROM_RAW.csv,mexico;Complete model variables,"{""n"": 93790}","93,790","93,790",True
+Additional_file_1,1,19,3,COHORT_FLOW_FROM_RAW.csv,mexico;Complete model variables,"{""removed_or_grouped_since_previous"": 65.0}",65,65,True
+Additional_file_1,1,20,2,COHORT_FLOW_FROM_RAW.csv,mexico;At least two eligible hospital years,"{""n"": 92853}","92,853","92,853",True
+Additional_file_1,1,20,3,COHORT_FLOW_FROM_RAW.csv,mexico;At least two eligible hospital years,"{""removed_or_grouped_since_previous"": 937.0}",937,937,True
+Additional_file_1,3,1,1,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,brasil;Principal hospital and year FE,"{""estimate_pp"": -0.17999269926949152}",−0.180,−0.180,True
+Additional_file_1,3,1,2,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,brasil;Principal hospital and year FE,"{""low_pp"": -0.4170997169540417, ""high_pp"": 0.05711431841505866}",−0.417 to 0.057,−0.417 to 0.057,True
+Additional_file_1,3,1,3,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,brasil;Principal hospital and year FE,"{""n"": 664508}","664,508","664,508",True
+Additional_file_1,3,1,4,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,brasil;Principal hospital and year FE,"{""hospitals"": 2079}","2,079","2,079",True
+Additional_file_1,3,2,1,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,brasil;Conventional LPM same sample,"{""estimate_pp"": 0.8115631651957667}",0.812,0.812,True
+Additional_file_1,3,2,2,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,brasil;Conventional LPM same sample,"{""low_pp"": 0.5709862862295424, ""high_pp"": 1.0521400441619908}",0.571 to 1.052,0.571 to 1.052,True
+Additional_file_1,3,2,3,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,brasil;Conventional LPM same sample,"{""n"": 664508}","664,508","664,508",True
+Additional_file_1,3,2,4,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,brasil;Conventional LPM same sample,"{""hospitals"": 2079}","2,079","2,079",True
+Additional_file_1,3,3,1,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,brasil;Specified lesions S061-S067,"{""estimate_pp"": -0.009599998331008948}",−0.010,−0.010,True
+Additional_file_1,3,3,2,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,brasil;Specified lesions S061-S067,"{""low_pp"": -0.437676162745867, ""high_pp"": 0.4184761660838491}",−0.438 to 0.418,−0.438 to 0.418,True
+Additional_file_1,3,3,3,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,brasil;Specified lesions S061-S067,"{""n"": 263411}","263,411","263,411",True
+Additional_file_1,3,3,4,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,brasil;Specified lesions S061-S067,"{""hospitals"": 1359}","1,359","1,359",True
+Additional_file_1,3,4,1,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,brasil;Exclude chronic subdural procedure,"{""estimate_pp"": -0.1740887042395311}",−0.174,−0.174,True
+Additional_file_1,3,4,2,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,brasil;Exclude chronic subdural procedure,"{""low_pp"": -0.41595196638547377, ""high_pp"": 0.06777455790641157}",−0.416 to 0.068,−0.416 to 0.068,True
+Additional_file_1,3,4,3,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,brasil;Exclude chronic subdural procedure,"{""n"": 626506}","626,506","626,506",True
+Additional_file_1,3,4,4,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,brasil;Exclude chronic subdural procedure,"{""hospitals"": 2073}","2,073","2,073",True
+Additional_file_1,3,5,1,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,brasil;Age no more than 110,"{""estimate_pp"": -0.18073430946633232}",−0.181,−0.181,True
+Additional_file_1,3,5,2,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,brasil;Age no more than 110,"{""low_pp"": -0.41786193134113486, ""high_pp"": 0.05639331240847024}",−0.418 to 0.056,−0.418 to 0.056,True
+Additional_file_1,3,5,3,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,brasil;Age no more than 110,"{""n"": 664481}","664,481","664,481",True
+Additional_file_1,3,5,4,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,brasil;Age no more than 110,"{""hospitals"": 2079}","2,079","2,079",True
+Additional_file_1,3,6,1,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,brasil;Hospitals observed in all 8 exposure years,"{""estimate_pp"": -0.26823647706031895}",−0.268,−0.268,True
+Additional_file_1,3,6,2,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,brasil;Hospitals observed in all 8 exposure years,"{""low_pp"": -0.5529789113343276, ""high_pp"": 0.016505957213689762}",−0.553 to 0.017,−0.553 to 0.017,True
+Additional_file_1,3,6,3,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,brasil;Hospitals observed in all 8 exposure years,"{""n"": 625955}","625,955","625,955",True
+Additional_file_1,3,6,4,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,brasil;Hospitals observed in all 8 exposure years,"{""hospitals"": 1038}","1,038","1,038",True
+Additional_file_1,3,7,1,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,brasil;Current and prior volume at least 10,"{""estimate_pp"": -0.41049223633854726}",−0.410,−0.410,True
+Additional_file_1,3,7,2,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,brasil;Current and prior volume at least 10,"{""low_pp"": -0.769779013333326, ""high_pp"": -0.05120545934376861}",−0.770 to −0.051,−0.770 to −0.051,True
+Additional_file_1,3,7,3,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,brasil;Current and prior volume at least 10,"{""n"": 625293}","625,293","625,293",True
+Additional_file_1,3,7,4,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,brasil;Current and prior volume at least 10,"{""hospitals"": 921}",921,921,True
+Additional_file_1,3,8,1,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,brasil;Pre-pandemic 2016-2019,"{""estimate_pp"": 0.14516332980756624}",0.145,0.145,True
+Additional_file_1,3,8,2,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,brasil;Pre-pandemic 2016-2019,"{""low_pp"": -0.2492719387058892, ""high_pp"": 0.5395985983210216}",−0.249 to 0.540,−0.249 to 0.540,True
+Additional_file_1,3,8,3,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,brasil;Pre-pandemic 2016-2019,"{""n"": 324585}","324,585","324,585",True
+Additional_file_1,3,8,4,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,brasil;Pre-pandemic 2016-2019,"{""hospitals"": 1667}","1,667","1,667",True
+Additional_file_1,3,9,1,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,brasil;Exclude 2020-2021,"{""estimate_pp"": -0.2527671374525122}",−0.253,−0.253,True
+Additional_file_1,3,9,2,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,brasil;Exclude 2020-2021,"{""low_pp"": -0.5276843884008272, ""high_pp"": 0.02215011349580272}",−0.528 to 0.022,−0.528 to 0.022,True
+Additional_file_1,3,9,3,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,brasil;Exclude 2020-2021,"{""n"": 504675}","504,675","504,675",True
+Additional_file_1,3,9,4,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,brasil;Exclude 2020-2021,"{""hospitals"": 1996}","1,996","1,996",True
+Additional_file_1,3,10,1,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,brasil;Hospital and region-year FE,"{""estimate_pp"": -0.1525196598345663}",−0.153,−0.153,True
+Additional_file_1,3,10,2,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,brasil;Hospital and region-year FE,"{""low_pp"": -0.3711871080539056, ""high_pp"": 0.06614778838477296}",−0.371 to 0.066,−0.371 to 0.066,True
+Additional_file_1,3,10,3,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,brasil;Hospital and region-year FE,"{""n"": 664508}","664,508","664,508",True
+Additional_file_1,3,10,4,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,brasil;Hospital and region-year FE,"{""hospitals"": 2079}","2,079","2,079",True
+Additional_file_1,4,1,1,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,mexico;Principal hospital and year FE,"{""estimate_pp"": 0.8181383816375173}",0.818,0.818,True
+Additional_file_1,4,1,2,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,mexico;Principal hospital and year FE,"{""low_pp"": -0.39112868497256037, ""high_pp"": 2.027405448247595}",−0.391 to 2.027,−0.391 to 2.027,True
+Additional_file_1,4,1,3,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,mexico;Principal hospital and year FE,"{""n"": 92853}","92,853","92,853",True
+Additional_file_1,4,1,4,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,mexico;Principal hospital and year FE,"{""hospitals"": 437}",437,437,True
+Additional_file_1,4,2,1,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,mexico;Conventional LPM same sample,"{""estimate_pp"": 2.2140069188153526}",2.214,2.214,True
+Additional_file_1,4,2,2,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,mexico;Conventional LPM same sample,"{""low_pp"": 1.4990521204160525, ""high_pp"": 2.9289617172146523}",1.499 to 2.929,1.499 to 2.929,True
+Additional_file_1,4,2,3,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,mexico;Conventional LPM same sample,"{""n"": 92853}","92,853","92,853",True
+Additional_file_1,4,2,4,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,mexico;Conventional LPM same sample,"{""hospitals"": 437}",437,437,True
+Additional_file_1,4,3,1,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,mexico;Specified lesions S061-S067,"{""estimate_pp"": 1.670385940261935}",1.670,1.670,True
+Additional_file_1,4,3,2,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,mexico;Specified lesions S061-S067,"{""low_pp"": 0.4540826584066601, ""high_pp"": 2.88668922211721}",0.454 to 2.887,0.454 to 2.887,True
+Additional_file_1,4,3,3,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,mexico;Specified lesions S061-S067,"{""n"": 21345}","21,345","21,345",True
+Additional_file_1,4,3,4,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,mexico;Specified lesions S061-S067,"{""hospitals"": 311}",311,311,True
+Additional_file_1,4,4,1,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,mexico;Hospitals observed in all 8 exposure years,"{""estimate_pp"": -0.28448480152013467}",−0.284,−0.284,True
+Additional_file_1,4,4,2,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,mexico;Hospitals observed in all 8 exposure years,"{""low_pp"": -0.908488377540556, ""high_pp"": 0.33951877450028656}",−0.908 to 0.340,−0.908 to 0.340,True
+Additional_file_1,4,4,3,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,mexico;Hospitals observed in all 8 exposure years,"{""n"": 77651}","77,651","77,651",True
+Additional_file_1,4,4,4,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,mexico;Hospitals observed in all 8 exposure years,"{""hospitals"": 231}",231,231,True
+Additional_file_1,4,5,1,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,mexico;Current and prior volume at least 10,"{""estimate_pp"": 0.1888235488280493}",0.189,0.189,True
+Additional_file_1,4,5,2,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,mexico;Current and prior volume at least 10,"{""low_pp"": -0.5776020892088054, ""high_pp"": 0.955249186864904}",−0.578 to 0.955,−0.578 to 0.955,True
+Additional_file_1,4,5,3,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,mexico;Current and prior volume at least 10,"{""n"": 84151}","84,151","84,151",True
+Additional_file_1,4,5,4,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,mexico;Current and prior volume at least 10,"{""hospitals"": 224}",224,224,True
+Additional_file_1,4,6,1,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,mexico;Pre-pandemic 2016-2019,"{""estimate_pp"": 0.2074375280993039}",0.207,0.207,True
+Additional_file_1,4,6,2,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,mexico;Pre-pandemic 2016-2019,"{""low_pp"": -0.5983930532658184, ""high_pp"": 1.0132681094644262}",−0.598 to 1.013,−0.598 to 1.013,True
+Additional_file_1,4,6,3,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,mexico;Pre-pandemic 2016-2019,"{""n"": 46510}","46,510","46,510",True
+Additional_file_1,4,6,4,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,mexico;Pre-pandemic 2016-2019,"{""hospitals"": 345}",345,345,True
+Additional_file_1,4,7,1,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,mexico;Exclude 2020-2021,"{""estimate_pp"": -0.03761631078891304}",−0.038,−0.038,True
+Additional_file_1,4,7,2,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,mexico;Exclude 2020-2021,"{""low_pp"": -0.6759080321761595, ""high_pp"": 0.6006754105983334}",−0.676 to 0.601,−0.676 to 0.601,True
+Additional_file_1,4,7,3,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,mexico;Exclude 2020-2021,"{""n"": 72829}","72,829","72,829",True
+Additional_file_1,4,7,4,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,mexico;Exclude 2020-2021,"{""hospitals"": 421}",421,421,True
+Additional_file_1,4,8,1,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,mexico;Hospital and region-year FE,"{""estimate_pp"": 0.27845431419292954}",0.278,0.278,True
+Additional_file_1,4,8,2,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,mexico;Hospital and region-year FE,"{""low_pp"": -0.2718067494918406, ""high_pp"": 0.8287153778776997}",−0.272 to 0.829,−0.272 to 0.829,True
+Additional_file_1,4,8,3,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,mexico;Hospital and region-year FE,"{""n"": 92853}","92,853","92,853",True
+Additional_file_1,4,8,4,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,mexico;Hospital and region-year FE,"{""hospitals"": 437}",437,437,True
+Additional_file_1,4,9,1,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,mexico;Age no more than 110,"{""estimate_pp"": 0.8152094788702355}",0.815,0.815,True
+Additional_file_1,4,9,2,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,mexico;Age no more than 110,"{""low_pp"": -0.395976937304375, ""high_pp"": 2.026395895044846}",−0.396 to 2.026,−0.396 to 2.026,True
+Additional_file_1,4,9,3,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,mexico;Age no more than 110,"{""n"": 92828}","92,828","92,828",True
+Additional_file_1,4,9,4,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,mexico;Age no more than 110,"{""hospitals"": 437}",437,437,True
+Additional_file_1,4,10,1,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,mexico;Mexico 2019-2023,"{""estimate_pp"": 1.5071842970727671}",1.507,1.507,True
+Additional_file_1,4,10,2,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,mexico;Mexico 2019-2023,"{""low_pp"": 0.16904500988335694, ""high_pp"": 2.8453235842621774}",0.169 to 2.845,0.169 to 2.845,True
+Additional_file_1,4,10,3,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,mexico;Mexico 2019-2023,"{""n"": 58059}","58,059","58,059",True
+Additional_file_1,4,10,4,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,mexico;Mexico 2019-2023,"{""hospitals"": 390}",390,390,True
+Additional_file_1,5,1,1,results/reconstructed/diagnostics/design_information.csv,brasil,"{""below_zero"": 56246.0}","56,246","56,246",True
+Additional_file_1,5,1,2,results/reconstructed/diagnostics/design_information.csv,brasil,"{""above_one"": 0.0}",0,0,True
+Additional_file_1,5,1,3,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,brasil,"{""wild_one_step_low_pp"": -0.4296822776037604, ""wild_one_step_high_pp"": 0.05604741663592152}",−0.430 to 0.056,−0.430 to 0.056,True
+Additional_file_1,5,2,1,results/reconstructed/diagnostics/design_information.csv,mexico,"{""below_zero"": 6672.0}","6,672","6,672",True
+Additional_file_1,5,2,2,results/reconstructed/diagnostics/design_information.csv,mexico,"{""above_one"": 2.0}",2,2,True
+Additional_file_1,5,2,3,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,mexico,"{""wild_one_step_low_pp"": -0.1177563422976618, ""wild_one_step_high_pp"": 1.7305922153894016}",−0.118 to 1.731,−0.118 to 1.731,True
+Additional_file_1,6,2,1,results/reconstructed/linear/logistica_FE.csv,mexico,"{""n"": 89683}","89,683","89,683",True
+Additional_file_1,6,2,2,results/reconstructed/linear/logistica_FE.csv,mexico,"{""hospitals"": 308}",308,308,True
+Additional_file_1,6,2,3,results/reconstructed/linear/logistica_FE.csv,mexico,"{""logistic_OR"": 1.0914268829783753, ""OR_low"": 0.9655500072439572, ""OR_high"": 1.2337140820785253}",1.091 (0.966 to 1.234),1.091 (0.966 to 1.234),True
+Additional_file_1,6,2,4,results/reconstructed/linear/logistica_FE.csv,mexico,"{""LPM_same_sample_pp"": 0.8580222402591182, ""LPM_low"": -0.3829845021967963, ""LPM_high"": 2.099028982715033}",0.858 (−0.383 to 2.099),0.858 (−0.383 to 2.099),True
+Additional_file_1,6,1,1,results/reconstructed/linear/logistica_FE.csv,brasil,"{""n"": 640745}","640,745","640,745",True
+Additional_file_1,6,1,2,results/reconstructed/linear/logistica_FE.csv,brasil,"{""hospitals"": 1233}","1,233","1,233",True
+Additional_file_1,6,1,3,results/reconstructed/linear/logistica_FE.csv,brasil,"{""logistic_OR"": 0.96744609843456, ""OR_low"": 0.9343384587341806, ""OR_high"": 1.0017268845427358}",0.967 (0.934 to 1.002),0.967 (0.934 to 1.002),True
+Additional_file_1,6,1,4,results/reconstructed/linear/logistica_FE.csv,brasil,"{""LPM_same_sample_pp"": -0.2161918672232209, ""LPM_low"": -0.47752270587764994, ""LPM_high"": 0.045138971431208125}",−0.216 (−0.478 to 0.045),−0.216 (−0.478 to 0.045),True
+Additional_file_1,7,1,2,results/reconstructed/contextual/mean_centered_logistic.csv,brasil;mean_log_volume,"{""OR"": 1.1210672913655804, ""low"": 1.0901521406546055, ""high"": 1.1528591513979793}",1.121 (1.090 to 1.153),1.121 (1.090 to 1.153),True
+Additional_file_1,7,1,3,results/reconstructed/contextual/mean_centered_logistic.csv,brasil;mean_log_volume,"{""n"": 664508}","664,508","664,508",True
+Additional_file_1,7,2,2,results/reconstructed/contextual/mean_centered_logistic.csv,brasil;within_log_volume,"{""OR"": 0.945063221813625, ""low"": 0.9113739969241891, ""high"": 0.9799977794396557}",0.945 (0.911 to 0.980),0.945 (0.911 to 0.980),True
+Additional_file_1,7,2,3,results/reconstructed/contextual/mean_centered_logistic.csv,brasil;within_log_volume,"{""n"": 664508}","664,508","664,508",True
+Additional_file_1,7,3,2,results/reconstructed/contextual/mean_centered_logistic.csv,mexico;mean_log_volume,"{""OR"": 1.3613453849756854, ""low"": 1.2935675657269445, ""high"": 1.4326744936226987}",1.361 (1.294 to 1.433),1.361 (1.294 to 1.433),True
+Additional_file_1,7,3,3,results/reconstructed/contextual/mean_centered_logistic.csv,mexico;mean_log_volume,"{""n"": 92853}","92,853","92,853",True
+Additional_file_1,7,4,2,results/reconstructed/contextual/mean_centered_logistic.csv,mexico;within_log_volume,"{""OR"": 1.1065259152317337, ""low"": 0.9908506486177935, ""high"": 1.2357055049491326}",1.107 (0.991 to 1.236),1.107 (0.991 to 1.236),True
+Additional_file_1,7,4,3,results/reconstructed/contextual/mean_centered_logistic.csv,mexico;within_log_volume,"{""n"": 92853}","92,853","92,853",True
+Additional_file_1,8,2,1,results/reconstructed/linear/suporte_exposicao.csv,mexico,"{""hospitals"": 437}",437,437,True
+Additional_file_1,8,2,2,results/reconstructed/linear/suporte_exposicao.csv,mexico,"{""hospitals_all8"": 231}",231,231,True
+Additional_file_1,8,2,3,results/reconstructed/linear/suporte_exposicao.csv,mexico,"{""median_years"": 8.0}",8,8,True
+Additional_file_1,8,2,4,results/reconstructed/linear/suporte_exposicao.csv,mexico,"{""median_within_log_sd"": 0.4153898466919863}",0.415,0.415,True
+Additional_file_1,8,2,5,results/reconstructed/linear/suporte_exposicao.csv,mexico,"{""fraction_ever_double_Vplus1"": 0.7368421052631579}",73.7%,73.7%,True
+Additional_file_1,8,1,1,results/reconstructed/linear/suporte_exposicao.csv,brasil,"{""hospitals"": 2079}","2,079","2,079",True
+Additional_file_1,8,1,2,results/reconstructed/linear/suporte_exposicao.csv,brasil,"{""hospitals_all8"": 1038}","1,038","1,038",True
+Additional_file_1,8,1,3,results/reconstructed/linear/suporte_exposicao.csv,brasil,"{""median_years"": 7.0}",7,7,True
+Additional_file_1,8,1,4,results/reconstructed/linear/suporte_exposicao.csv,brasil,"{""median_within_log_sd"": 0.4126235722961475}",0.413,0.413,True
+Additional_file_1,8,1,5,results/reconstructed/linear/suporte_exposicao.csv,brasil,"{""fraction_ever_double_Vplus1"": 0.710918710918711}",71.1%,71.1%,True
+Additional_file_1,10,2,1,results/reconstructed/robustness/contraste_pareado.csv,mexico,"{""conventional_pp"": 2.214006918815431}",2.214,2.214,True
+Additional_file_1,10,2,2,results/reconstructed/robustness/contraste_pareado.csv,mexico,"{""FE_pp"": 0.8181383816375191}",0.818,0.818,True
+Additional_file_1,10,2,3,results/reconstructed/robustness/contraste_pareado.csv,mexico,"{""difference_pp"": 1.395868537177912, ""difference_low"": -0.003967670089351794, ""difference_high"": 2.795704744445176}",1.396 (−0.004 to 2.796),1.396 (−0.004 to 2.796),True
+Additional_file_1,10,1,1,results/reconstructed/robustness/contraste_pareado.csv,brasil,"{""conventional_pp"": 0.8115631651958538}",0.812,0.812,True
+Additional_file_1,10,1,2,results/reconstructed/robustness/contraste_pareado.csv,brasil,"{""FE_pp"": -0.17999269926949624}",−0.180,−0.180,True
+Additional_file_1,10,1,3,results/reconstructed/robustness/contraste_pareado.csv,brasil,"{""difference_pp"": 0.99155586446535, ""difference_low"": 0.6967876995705561, ""difference_high"": 1.286324029360144}",0.992 (0.697 to 1.286),0.992 (0.697 to 1.286),True
+Additional_file_1,11,1,2,results/reconstructed/robustness/exclusoes_hospitais.csv,mexico;df936bd5dd93,"{""removed_admissions"": 932}",932,932,True
+Additional_file_1,11,1,3,results/reconstructed/robustness/exclusoes_hospitais.csv,mexico;df936bd5dd93,"{""FE_pp"": 0.05352412490829861}",0.054,0.054,True
+Additional_file_1,11,1,4,results/reconstructed/robustness/exclusoes_hospitais.csv,mexico;df936bd5dd93,"{""difference_pp"": 2.132651372244294, ""difference_low"": 1.1669403648343406, ""difference_high"": 3.0983623796542474}",2.133 (1.167 to 3.098),2.133 (1.167 to 3.098),True
+Additional_file_1,11,2,2,results/reconstructed/robustness/exclusoes_hospitais.csv,mexico;2689cbcb9a60,"{""removed_admissions"": 3810}","3,810","3,810",True
+Additional_file_1,11,2,3,results/reconstructed/robustness/exclusoes_hospitais.csv,mexico;2689cbcb9a60,"{""FE_pp"": 0.7949187784726125}",0.795,0.795,True
+Additional_file_1,11,2,4,results/reconstructed/robustness/exclusoes_hospitais.csv,mexico;2689cbcb9a60,"{""difference_pp"": 1.6379399881812644, ""difference_low"": 0.2732093775149334, ""difference_high"": 3.0026705988475952}",1.638 (0.273 to 3.003),1.638 (0.273 to 3.003),True
+Additional_file_1,11,3,2,results/reconstructed/robustness/exclusoes_hospitais.csv,mexico;b94b1185225a,"{""removed_admissions"": 3351}","3,351","3,351",True
+Additional_file_1,11,3,3,results/reconstructed/robustness/exclusoes_hospitais.csv,mexico;b94b1185225a,"{""FE_pp"": 0.8388069823202409}",0.839,0.839,True
+Additional_file_1,11,3,4,results/reconstructed/robustness/exclusoes_hospitais.csv,mexico;b94b1185225a,"{""difference_pp"": 1.1327436361169694, ""difference_low"": -0.23711530108857348, ""difference_high"": 2.502602573322512}",1.133 (−0.237 to 2.503),1.133 (−0.237 to 2.503),True
+Additional_file_1,11,4,2,results/reconstructed/robustness/exclusoes_hospitais.csv,mexico;9892b94c8651,"{""removed_admissions"": 2912}","2,912","2,912",True
+Additional_file_1,11,4,3,results/reconstructed/robustness/exclusoes_hospitais.csv,mexico;9892b94c8651,"{""FE_pp"": 0.8497019978940683}",0.850,0.850,True
+Additional_file_1,11,4,4,results/reconstructed/robustness/exclusoes_hospitais.csv,mexico;9892b94c8651,"{""difference_pp"": 1.1895877042671539, ""difference_low"": -0.15697265248842257, ""difference_high"": 2.53614806102273}",1.190 (−0.157 to 2.536),1.190 (−0.157 to 2.536),True
+Additional_file_1,11,5,2,results/reconstructed/robustness/exclusoes_hospitais.csv,mexico;f3b6ebb53d0e,"{""removed_admissions"": 2703}","2,703","2,703",True
+Additional_file_1,11,5,3,results/reconstructed/robustness/exclusoes_hospitais.csv,mexico;f3b6ebb53d0e,"{""FE_pp"": 0.8813866031002237}",0.881,0.881,True
+Additional_file_1,11,5,4,results/reconstructed/robustness/exclusoes_hospitais.csv,mexico;f3b6ebb53d0e,"{""difference_pp"": 1.2180263014714399, ""difference_low"": -0.16873853836423044, ""difference_high"": 2.60479114130711}",1.218 (−0.169 to 2.605),1.218 (−0.169 to 2.605),True
+Additional_file_1,11,6,2,results/reconstructed/robustness/exclusoes_hospitais.csv,brasil;707a1ebcb708,"{""removed_admissions"": 9820}","9,820","9,820",True
+Additional_file_1,11,6,3,results/reconstructed/robustness/exclusoes_hospitais.csv,brasil;707a1ebcb708,"{""FE_pp"": -0.15694770445114095}",−0.157,−0.157,True
+Additional_file_1,11,6,4,results/reconstructed/robustness/exclusoes_hospitais.csv,brasil;707a1ebcb708,"{""difference_pp"": 1.0492749833110981, ""difference_low"": 0.7638027921371121, ""difference_high"": 1.3347471744850843}",1.049 (0.764 to 1.335),1.049 (0.764 to 1.335),True
+Additional_file_1,11,7,2,results/reconstructed/robustness/exclusoes_hospitais.csv,brasil;10ef224b3a99,"{""removed_admissions"": 11391}","11,391","11,391",True
+Additional_file_1,11,7,3,results/reconstructed/robustness/exclusoes_hospitais.csv,brasil;10ef224b3a99,"{""FE_pp"": -0.19102046128383454}",−0.191,−0.191,True
+Additional_file_1,11,7,4,results/reconstructed/robustness/exclusoes_hospitais.csv,brasil;10ef224b3a99,"{""difference_pp"": 1.0466387429442399, ""difference_low"": 0.7590905944284962, ""difference_high"": 1.3341868914599833}",1.047 (0.759 to 1.334),1.047 (0.759 to 1.334),True
+Additional_file_1,11,8,2,results/reconstructed/robustness/exclusoes_hospitais.csv,brasil;c6622864c5c1,"{""removed_admissions"": 4105}","4,105","4,105",True
+Additional_file_1,11,8,3,results/reconstructed/robustness/exclusoes_hospitais.csv,brasil;c6622864c5c1,"{""FE_pp"": -0.2169978159273221}",−0.217,−0.217,True
+Additional_file_1,11,8,4,results/reconstructed/robustness/exclusoes_hospitais.csv,brasil;c6622864c5c1,"{""difference_pp"": 1.029069321687, ""difference_low"": 0.7387315646796984, ""difference_high"": 1.3194070786943015}",1.029 (0.739 to 1.319),1.029 (0.739 to 1.319),True
+Additional_file_1,11,9,2,results/reconstructed/robustness/exclusoes_hospitais.csv,brasil;ed7710a42459,"{""removed_admissions"": 6421}","6,421","6,421",True
+Additional_file_1,11,9,3,results/reconstructed/robustness/exclusoes_hospitais.csv,brasil;ed7710a42459,"{""FE_pp"": -0.17286230865247026}",−0.173,−0.173,True
+Additional_file_1,11,9,4,results/reconstructed/robustness/exclusoes_hospitais.csv,brasil;ed7710a42459,"{""difference_pp"": 1.0284949051687837, ""difference_low"": 0.7343964924749401, ""difference_high"": 1.3225933178626272}",1.028 (0.734 to 1.323),1.028 (0.734 to 1.323),True
+Additional_file_1,11,10,2,results/reconstructed/robustness/exclusoes_hospitais.csv,brasil;853c55c01970,"{""removed_admissions"": 998}",998,998,True
+Additional_file_1,11,10,3,results/reconstructed/robustness/exclusoes_hospitais.csv,brasil;853c55c01970,"{""FE_pp"": -0.1430635337933092}",−0.143,−0.143,True
+Additional_file_1,11,10,4,results/reconstructed/robustness/exclusoes_hospitais.csv,brasil;853c55c01970,"{""difference_pp"": 0.9604577076018312, ""difference_low"": 0.6724257282180272, ""difference_high"": 1.2484896869856352}",0.960 (0.672 to 1.248),0.960 (0.672 to 1.248),True
+Additional_file_1,11,11,2,results/reconstructed/robustness/exclusoes_hospitais.csv,brasil;2c2f5847c05f,"{""removed_admissions"": 21319}","21,319","21,319",True
+Additional_file_1,11,11,3,results/reconstructed/robustness/exclusoes_hospitais.csv,brasil;2c2f5847c05f,"{""FE_pp"": -0.20106763830679503}",−0.201,−0.201,True
+Additional_file_1,11,11,4,results/reconstructed/robustness/exclusoes_hospitais.csv,brasil;2c2f5847c05f,"{""difference_pp"": 0.9841831102906744, ""difference_low"": 0.662686556381033, ""difference_high"": 1.3056796642003157}",0.984 (0.663 to 1.306),0.984 (0.663 to 1.306),True
+Additional_file_1,12,1,1,results/reconstructed/robustness/codificacao_anual.csv,brasil;2015,"{""S069_pct"": 6.1676952232858735}",6.2,6.2,True
+Additional_file_1,12,1,2,results/reconstructed/robustness/codificacao_anual.csv,mexico;2015,"{""S069_pct"": 63.92382639503986}",63.9,63.9,True
+Additional_file_1,12,1,3,results/reconstructed/robustness/codificacao_anual.csv,brasil;2015,"{""specified_pct"": 37.34389426114}",37.3,37.3,True
+Additional_file_1,12,1,4,results/reconstructed/robustness/codificacao_anual.csv,mexico;2015,"{""specified_pct"": 25.358724534986717}",25.4,25.4,True
+Additional_file_1,12,2,1,results/reconstructed/robustness/codificacao_anual.csv,brasil;2016,"{""S069_pct"": 6.218003541443319}",6.2,6.2,True
+Additional_file_1,12,2,2,results/reconstructed/robustness/codificacao_anual.csv,mexico;2016,"{""S069_pct"": 63.956846755011895}",64.0,64.0,True
+Additional_file_1,12,2,3,results/reconstructed/robustness/codificacao_anual.csv,brasil;2016,"{""specified_pct"": 39.34977173350037}",39.3,39.3,True
+Additional_file_1,12,2,4,results/reconstructed/robustness/codificacao_anual.csv,mexico;2016,"{""specified_pct"": 25.518178729187902}",25.5,25.5,True
+Additional_file_1,12,3,1,results/reconstructed/robustness/codificacao_anual.csv,brasil;2017,"{""S069_pct"": 6.5275229915080235}",6.5,6.5,True
+Additional_file_1,12,3,2,results/reconstructed/robustness/codificacao_anual.csv,mexico;2017,"{""S069_pct"": 67.71815532316133}",67.7,67.7,True
+Additional_file_1,12,3,3,results/reconstructed/robustness/codificacao_anual.csv,brasil;2017,"{""specified_pct"": 38.297717250009114}",38.3,38.3,True
+Additional_file_1,12,3,4,results/reconstructed/robustness/codificacao_anual.csv,mexico;2017,"{""specified_pct"": 21.97839876564375}",22.0,22.0,True
+Additional_file_1,12,4,1,results/reconstructed/robustness/codificacao_anual.csv,brasil;2018,"{""S069_pct"": 7.2310340587729005}",7.2,7.2,True
+Additional_file_1,12,4,2,results/reconstructed/robustness/codificacao_anual.csv,mexico;2018,"{""S069_pct"": 66.1834939254294}",66.2,66.2,True
+Additional_file_1,12,4,3,results/reconstructed/robustness/codificacao_anual.csv,brasil;2018,"{""specified_pct"": 39.918849133161196}",39.9,39.9,True
+Additional_file_1,12,4,4,results/reconstructed/robustness/codificacao_anual.csv,mexico;2018,"{""specified_pct"": 22.714704650188523}",22.7,22.7,True
+Additional_file_1,12,5,1,results/reconstructed/robustness/codificacao_anual.csv,brasil;2019,"{""S069_pct"": 7.622358919497192}",7.6,7.6,True
+Additional_file_1,12,5,2,results/reconstructed/robustness/codificacao_anual.csv,mexico;2019,"{""S069_pct"": 64.97449792795665}",65.0,65.0,True
+Additional_file_1,12,5,3,results/reconstructed/robustness/codificacao_anual.csv,brasil;2019,"{""specified_pct"": 40.160227576649085}",40.2,40.2,True
+Additional_file_1,12,5,4,results/reconstructed/robustness/codificacao_anual.csv,mexico;2019,"{""specified_pct"": 24.752948677080013}",24.8,24.8,True
+Additional_file_1,12,6,1,results/reconstructed/robustness/codificacao_anual.csv,brasil;2020,"{""S069_pct"": 7.3874749286791}",7.4,7.4,True
+Additional_file_1,12,6,2,results/reconstructed/robustness/codificacao_anual.csv,mexico;2020,"{""S069_pct"": 65.0468699493589}",65.0,65.0,True
+Additional_file_1,12,6,3,results/reconstructed/robustness/codificacao_anual.csv,brasil;2020,"{""specified_pct"": 40.02317150652166}",40.0,40.0,True
+Additional_file_1,12,6,4,results/reconstructed/robustness/codificacao_anual.csv,mexico;2020,"{""specified_pct"": 23.973709729555004}",24.0,24.0,True
+Additional_file_1,12,7,1,results/reconstructed/robustness/codificacao_anual.csv,brasil;2021,"{""S069_pct"": 7.707422508228127}",7.7,7.7,True
+Additional_file_1,12,7,2,results/reconstructed/robustness/codificacao_anual.csv,mexico;2021,"{""S069_pct"": 64.55136306192453}",64.6,64.6,True
+Additional_file_1,12,7,3,results/reconstructed/robustness/codificacao_anual.csv,brasil;2021,"{""specified_pct"": 40.595372599105964}",40.6,40.6,True
+Additional_file_1,12,7,4,results/reconstructed/robustness/codificacao_anual.csv,mexico;2021,"{""specified_pct"": 24.237226936270083}",24.2,24.2,True
+Additional_file_1,12,8,1,results/reconstructed/robustness/codificacao_anual.csv,brasil;2022,"{""S069_pct"": 7.4324324324324325}",7.4,7.4,True
+Additional_file_1,12,8,2,results/reconstructed/robustness/codificacao_anual.csv,mexico;2022,"{""S069_pct"": 67.51440922190201}",67.5,67.5,True
+Additional_file_1,12,8,3,results/reconstructed/robustness/codificacao_anual.csv,brasil;2022,"{""specified_pct"": 38.95157657657657}",39.0,39.0,True
+Additional_file_1,12,8,4,results/reconstructed/robustness/codificacao_anual.csv,mexico;2022,"{""specified_pct"": 22.34149855907781}",22.3,22.3,True
+Additional_file_1,12,9,1,results/reconstructed/robustness/codificacao_anual.csv,brasil;2023,"{""S069_pct"": 7.6223552041034415}",7.6,7.6,True
+Additional_file_1,12,9,2,results/reconstructed/robustness/codificacao_anual.csv,mexico;2023,"{""S069_pct"": 69.43663950547906}",69.4,69.4,True
+Additional_file_1,12,9,3,results/reconstructed/robustness/codificacao_anual.csv,brasil;2023,"{""specified_pct"": 38.829878179098095}",38.8,38.8,True
+Additional_file_1,12,9,4,results/reconstructed/robustness/codificacao_anual.csv,mexico;2023,"{""specified_pct"": 19.900252880022478}",19.9,19.9,True
+Additional_file_1,13,1,2,results/reconstructed/robustness/logistica_complementar.csv,mexico;S061-S067,"{""n"": 20591}","20,591","20,591",True
+Additional_file_1,13,1,3,results/reconstructed/robustness/logistica_complementar.csv,mexico;S061-S067,"{""hospitals"": 208}",208,208,True
+Additional_file_1,13,1,4,results/reconstructed/robustness/logistica_complementar.csv,mexico;S061-S067,"{""OR"": NaN, ""OR_low"": NaN, ""OR_high"": NaN, ""status"": ""not_estimable""}",Not estimable,Not estimable,True
+Additional_file_1,13,1,5,results/reconstructed/robustness/logistica_complementar.csv,mexico;S061-S067,"{""LPM_same_sample_pp"": 1.7130919936034692}",1.713,1.713,True
+Additional_file_1,14,1,2,results/reconstructed/robustness/logistica_complementar.csv,mexico;S061-S067,"{""excluded_n"": 754}",754,754,True
+Additional_file_1,14,1,3,results/reconstructed/robustness/logistica_complementar.csv,mexico;S061-S067,"{""excluded_hospitals"": 103}",103,103,True
+Additional_file_1,13,2,2,results/reconstructed/robustness/logistica_complementar.csv,mexico;Balanced 8 years,"{""n"": 76066}","76,066","76,066",True
+Additional_file_1,13,2,3,results/reconstructed/robustness/logistica_complementar.csv,mexico;Balanced 8 years,"{""hospitals"": 207}",207,207,True
+Additional_file_1,13,2,4,results/reconstructed/robustness/logistica_complementar.csv,mexico;Balanced 8 years,"{""OR"": 0.9684195351396887, ""OR_low"": 0.9022369423092338, ""OR_high"": 1.0394568788547072, ""status"": ""converged""}",0.968 (0.902 to 1.039),0.968 (0.902 to 1.039),True
+Additional_file_1,13,2,5,results/reconstructed/robustness/logistica_complementar.csv,mexico;Balanced 8 years,"{""LPM_same_sample_pp"": -0.29282123984063246}",−0.293,−0.293,True
+Additional_file_1,14,2,2,results/reconstructed/robustness/logistica_complementar.csv,mexico;Balanced 8 years,"{""excluded_n"": 1585}","1,585","1,585",True
+Additional_file_1,14,2,3,results/reconstructed/robustness/logistica_complementar.csv,mexico;Balanced 8 years,"{""excluded_hospitals"": 24}",24,24,True
+Additional_file_1,13,3,2,results/reconstructed/robustness/logistica_complementar.csv,mexico;S061-S067 recorded male/female; separation diagnostic,"{""n"": 20589}","20,589","20,589",True
+Additional_file_1,13,3,3,results/reconstructed/robustness/logistica_complementar.csv,mexico;S061-S067 recorded male/female; separation diagnostic,"{""hospitals"": 208}",208,208,True
+Additional_file_1,13,3,4,results/reconstructed/robustness/logistica_complementar.csv,mexico;S061-S067 recorded male/female; separation diagnostic,"{""OR"": 1.186008403739874, ""OR_low"": 1.0394086554456492, ""OR_high"": 1.3532847993636477, ""status"": ""converged""}",1.186 (1.039 to 1.353),1.186 (1.039 to 1.353),True
+Additional_file_1,13,3,5,results/reconstructed/robustness/logistica_complementar.csv,mexico;S061-S067 recorded male/female; separation diagnostic,"{""LPM_same_sample_pp"": 1.7130042988585186}",1.713,1.713,True
+Additional_file_1,14,3,2,results/reconstructed/robustness/logistica_complementar.csv,mexico;S061-S067 recorded male/female; separation diagnostic,"{""excluded_n"": 754}",754,754,True
+Additional_file_1,14,3,3,results/reconstructed/robustness/logistica_complementar.csv,mexico;S061-S067 recorded male/female; separation diagnostic,"{""excluded_hospitals"": 103}",103,103,True
+Additional_file_1,13,4,2,results/reconstructed/robustness/logistica_complementar.csv,brasil;S061-S067,"{""n"": 257479}","257,479","257,479",True
+Additional_file_1,13,4,3,results/reconstructed/robustness/logistica_complementar.csv,brasil;S061-S067,"{""hospitals"": 815}",815,815,True
+Additional_file_1,13,4,4,results/reconstructed/robustness/logistica_complementar.csv,brasil;S061-S067,"{""OR"": 0.9959494288453314, ""OR_low"": 0.9548347969287007, ""OR_high"": 1.0388344329384658, ""status"": ""converged""}",0.996 (0.955 to 1.039),0.996 (0.955 to 1.039),True
+Additional_file_1,13,4,5,results/reconstructed/robustness/logistica_complementar.csv,brasil;S061-S067,"{""LPM_same_sample_pp"": -0.026479262139704897}",−0.026,−0.026,True
+Additional_file_1,14,4,2,results/reconstructed/robustness/logistica_complementar.csv,brasil;S061-S067,"{""excluded_n"": 5932}","5,932","5,932",True
+Additional_file_1,14,4,3,results/reconstructed/robustness/logistica_complementar.csv,brasil;S061-S067,"{""excluded_hospitals"": 544}",544,544,True
+Additional_file_1,13,5,2,results/reconstructed/robustness/logistica_complementar.csv,brasil;Balanced 8 years,"{""n"": 614016}","614,016","614,016",True
+Additional_file_1,13,5,3,results/reconstructed/robustness/logistica_complementar.csv,brasil;Balanced 8 years,"{""hospitals"": 881}",881,881,True
+Additional_file_1,13,5,4,results/reconstructed/robustness/logistica_complementar.csv,brasil;Balanced 8 years,"{""OR"": 0.9586013449589672, ""OR_low"": 0.9214785520955137, ""OR_high"": 0.9972196710031431, ""status"": ""converged""}",0.959 (0.921 to 0.997),0.959 (0.921 to 0.997),True
+Additional_file_1,13,5,5,results/reconstructed/robustness/logistica_complementar.csv,brasil;Balanced 8 years,"{""LPM_same_sample_pp"": -0.2970687629881737}",−0.297,−0.297,True
+Additional_file_1,14,5,2,results/reconstructed/robustness/logistica_complementar.csv,brasil;Balanced 8 years,"{""excluded_n"": 11939}","11,939","11,939",True
+Additional_file_1,14,5,3,results/reconstructed/robustness/logistica_complementar.csv,brasil;Balanced 8 years,"{""excluded_hospitals"": 157}",157,157,True
+Additional_file_1,15,1,1,results/reconstructed/robustness/carga_concentrada_2023.csv,brasil;Admissions,"{""total"": 93580.0}","93,580","93,580",True
+Additional_file_1,15,1,2,results/reconstructed/robustness/carga_concentrada_2023.csv,brasil;Admissions,"{""top10_total"": 64269.0}","64,269","64,269",True
+Additional_file_1,15,1,3,results/reconstructed/robustness/carga_concentrada_2023.csv,brasil;Admissions,"{""top10_share_pct"": 68.67813635392177}",68.7,68.7,True
+Additional_file_1,15,1,4,results/reconstructed/robustness/carga_concentrada_2023.csv,brasil;Admissions,"{""share_excluding_all_cutoff_ties"": 68.29664458217567, ""share_including_all_cutoff_ties"": 68.93246420175251}",68.3 to 68.9,68.3 to 68.9,True
+Additional_file_1,15,2,1,results/reconstructed/robustness/carga_concentrada_2023.csv,brasil;Recorded deaths,"{""total"": 9779.0}","9,779","9,779",True
+Additional_file_1,15,2,2,results/reconstructed/robustness/carga_concentrada_2023.csv,brasil;Recorded deaths,"{""top10_total"": 7702.0}","7,702","7,702",True
+Additional_file_1,15,2,3,results/reconstructed/robustness/carga_concentrada_2023.csv,brasil;Recorded deaths,"{""top10_share_pct"": 78.76060946927089}",78.8,78.8,True
+Additional_file_1,15,2,4,results/reconstructed/robustness/carga_concentrada_2023.csv,brasil;Recorded deaths,"{""share_excluding_all_cutoff_ties"": 78.33111770119645, ""share_including_all_cutoff_ties"": 78.95490336435218}",78.3 to 79.0,78.3 to 79.0,True
+Additional_file_1,15,3,1,results/reconstructed/robustness/carga_concentrada_2023.csv,brasil;Recorded bed-days,"{""total"": 633625.0}","633,625","633,625",True
+Additional_file_1,15,3,2,results/reconstructed/robustness/carga_concentrada_2023.csv,brasil;Recorded bed-days,"{""top10_total"": 481582.0}","481,582","481,582",True
+Additional_file_1,15,3,3,results/reconstructed/robustness/carga_concentrada_2023.csv,brasil;Recorded bed-days,"{""top10_share_pct"": 76.00426119550207}",76.0,76.0,True
+Additional_file_1,15,3,4,results/reconstructed/robustness/carga_concentrada_2023.csv,brasil;Recorded bed-days,"{""share_excluding_all_cutoff_ties"": 75.63685144999013, ""share_including_all_cutoff_ties"": 76.25693430656935}",75.6 to 76.3,75.6 to 76.3,True
+Additional_file_1,15,4,1,results/reconstructed/robustness/carga_concentrada_2023.csv,brasil;Bed-days capped at 90,"{""total"": 631843.0}","631,843","631,843",True
+Additional_file_1,15,4,2,results/reconstructed/robustness/carga_concentrada_2023.csv,brasil;Bed-days capped at 90,"{""top10_total"": 480501.0}","480,501","480,501",True
+Additional_file_1,15,4,3,results/reconstructed/robustness/carga_concentrada_2023.csv,brasil;Bed-days capped at 90,"{""top10_share_pct"": 76.04753079483352}",76.0,76.0,True
+Additional_file_1,15,4,4,results/reconstructed/robustness/carga_concentrada_2023.csv,brasil;Bed-days capped at 90,"{""share_excluding_all_cutoff_ties"": 75.67908483594817, ""share_including_all_cutoff_ties"": 76.30091652514945}",75.7 to 76.3,75.7 to 76.3,True
+Additional_file_1,15,5,1,results/reconstructed/robustness/carga_concentrada_2023.csv,brasil;Admissions age 70 or older,"{""total"": 20992.0}","20,992","20,992",True
+Additional_file_1,15,5,2,results/reconstructed/robustness/carga_concentrada_2023.csv,brasil;Admissions age 70 or older,"{""top10_total"": 14383.0}","14,383","14,383",True
+Additional_file_1,15,5,3,results/reconstructed/robustness/carga_concentrada_2023.csv,brasil;Admissions age 70 or older,"{""top10_share_pct"": 68.51657774390245}",68.5,68.5,True
+Additional_file_1,15,5,4,results/reconstructed/robustness/carga_concentrada_2023.csv,brasil;Admissions age 70 or older,"{""share_excluding_all_cutoff_ties"": 67.81154725609755, ""share_including_all_cutoff_ties"": 68.8595655487805}",67.8 to 68.9,67.8 to 68.9,True
+Additional_file_1,15,6,1,results/reconstructed/robustness/carga_concentrada_2023.csv,brasil;S061-S067 admissions,"{""total"": 36337.0}","36,337","36,337",True
+Additional_file_1,15,6,2,results/reconstructed/robustness/carga_concentrada_2023.csv,brasil;S061-S067 admissions,"{""top10_total"": 28211.0}","28,211","28,211",True
+Additional_file_1,15,6,3,results/reconstructed/robustness/carga_concentrada_2023.csv,brasil;S061-S067 admissions,"{""top10_share_pct"": 77.63711918980653}",77.6,77.6,True
+Additional_file_1,15,6,4,results/reconstructed/robustness/carga_concentrada_2023.csv,brasil;S061-S067 admissions,"{""share_excluding_all_cutoff_ties"": 76.88581886231664, ""share_including_all_cutoff_ties"": 78.15174615405785}",76.9 to 78.2,76.9 to 78.2,True
+Additional_file_1,15,7,1,results/reconstructed/robustness/carga_concentrada_2023.csv,brasil;Coded acute cranial surgery,"{""total"": 4521.0}","4,521","4,521",True
+Additional_file_1,15,7,2,results/reconstructed/robustness/carga_concentrada_2023.csv,brasil;Coded acute cranial surgery,"{""top10_total"": 3754.0}","3,754","3,754",True
+Additional_file_1,15,7,3,results/reconstructed/robustness/carga_concentrada_2023.csv,brasil;Coded acute cranial surgery,"{""top10_share_pct"": 83.03472683034727}",83.0,83.0,True
+Additional_file_1,15,7,4,results/reconstructed/robustness/carga_concentrada_2023.csv,brasil;Coded acute cranial surgery,"{""share_excluding_all_cutoff_ties"": 82.92413182924132, ""share_including_all_cutoff_ties"": 83.65405883654059}",82.9 to 83.7,82.9 to 83.7,True
+Additional_file_1,16,1,1,results/reconstructed/robustness/carga_concentrada_2023.csv,mexico;Admissions,"{""total"": 14236.0}","14,236","14,236",True
+Additional_file_1,16,1,2,results/reconstructed/robustness/carga_concentrada_2023.csv,mexico;Admissions,"{""top10_total"": 7763.0}","7,763","7,763",True
+Additional_file_1,16,1,3,results/reconstructed/robustness/carga_concentrada_2023.csv,mexico;Admissions,"{""top10_share_pct"": 54.53076706940152}",54.5,54.5,True
+Additional_file_1,16,1,4,results/reconstructed/robustness/carga_concentrada_2023.csv,mexico;Admissions,"{""share_excluding_all_cutoff_ties"": 54.067153694858106, ""share_including_all_cutoff_ties"": 54.53076706940152}",54.1 to 54.5,54.1 to 54.5,True
+Additional_file_1,16,2,1,results/reconstructed/robustness/carga_concentrada_2023.csv,mexico;Recorded deaths,"{""total"": 1714.0}","1,714","1,714",True
+Additional_file_1,16,2,2,results/reconstructed/robustness/carga_concentrada_2023.csv,mexico;Recorded deaths,"{""top10_total"": 1136.0}","1,136","1,136",True
+Additional_file_1,16,2,3,results/reconstructed/robustness/carga_concentrada_2023.csv,mexico;Recorded deaths,"{""top10_share_pct"": 66.2777129521587}",66.3,66.3,True
+Additional_file_1,16,2,4,results/reconstructed/robustness/carga_concentrada_2023.csv,mexico;Recorded deaths,"{""share_excluding_all_cutoff_ties"": 65.51925320886815, ""share_including_all_cutoff_ties"": 66.2777129521587}",65.5 to 66.3,65.5 to 66.3,True
+Additional_file_1,16,3,1,results/reconstructed/robustness/carga_concentrada_2023.csv,mexico;Recorded bed-days,"{""total"": 101315.0}","101,315","101,315",True
+Additional_file_1,16,3,2,results/reconstructed/robustness/carga_concentrada_2023.csv,mexico;Recorded bed-days,"{""top10_total"": 54491.0}","54,491","54,491",True
+Additional_file_1,16,3,3,results/reconstructed/robustness/carga_concentrada_2023.csv,mexico;Recorded bed-days,"{""top10_share_pct"": 53.78374376943197}",53.8,53.8,True
+Additional_file_1,16,3,4,results/reconstructed/robustness/carga_concentrada_2023.csv,mexico;Recorded bed-days,"{""share_excluding_all_cutoff_ties"": 53.32774021615753, ""share_including_all_cutoff_ties"": 53.78374376943197}",53.3 to 53.8,53.3 to 53.8,True
+Additional_file_1,16,4,1,results/reconstructed/robustness/carga_concentrada_2023.csv,mexico;Bed-days capped at 90,"{""total"": 87337.0}","87,337","87,337",True
+Additional_file_1,16,4,2,results/reconstructed/robustness/carga_concentrada_2023.csv,mexico;Bed-days capped at 90,"{""top10_total"": 53613.0}","53,613","53,613",True
+Additional_file_1,16,4,3,results/reconstructed/robustness/carga_concentrada_2023.csv,mexico;Bed-days capped at 90,"{""top10_share_pct"": 61.38635400803783}",61.4,61.4,True
+Additional_file_1,16,4,4,results/reconstructed/robustness/carga_concentrada_2023.csv,mexico;Bed-days capped at 90,"{""share_excluding_all_cutoff_ties"": 60.85736858376175, ""share_including_all_cutoff_ties"": 61.38635400803783}",60.9 to 61.4,60.9 to 61.4,True
+Additional_file_1,16,5,1,results/reconstructed/robustness/carga_concentrada_2023.csv,mexico;Admissions age 70 or older,"{""total"": 1721.0}","1,721","1,721",True
+Additional_file_1,16,5,2,results/reconstructed/robustness/carga_concentrada_2023.csv,mexico;Admissions age 70 or older,"{""top10_total"": 910.0}",910,910,True
+Additional_file_1,16,5,3,results/reconstructed/robustness/carga_concentrada_2023.csv,mexico;Admissions age 70 or older,"{""top10_share_pct"": 52.87623474723998}",52.9,52.9,True
+Additional_file_1,16,5,4,results/reconstructed/robustness/carga_concentrada_2023.csv,mexico;Admissions age 70 or older,"{""share_excluding_all_cutoff_ties"": 52.237071470075534, ""share_including_all_cutoff_ties"": 52.87623474723998}",52.2 to 52.9,52.2 to 52.9,True
+Additional_file_1,16,6,1,results/reconstructed/robustness/carga_concentrada_2023.csv,mexico;S061-S067 admissions,"{""total"": 2833.0}","2,833","2,833",True
+Additional_file_1,16,6,2,results/reconstructed/robustness/carga_concentrada_2023.csv,mexico;S061-S067 admissions,"{""top10_total"": 1768.0}","1,768","1,768",True
+Additional_file_1,16,6,3,results/reconstructed/robustness/carga_concentrada_2023.csv,mexico;S061-S067 admissions,"{""top10_share_pct"": 62.40734204024003}",62.4,62.4,True
+Additional_file_1,16,6,4,results/reconstructed/robustness/carga_concentrada_2023.csv,mexico;S061-S067 admissions,"{""share_excluding_all_cutoff_ties"": 61.418990469467, ""share_including_all_cutoff_ties"": 62.40734204024003}",61.4 to 62.4,61.4 to 62.4,True
+Additional_file_1,18,1,1,results/reconstructed/diagnostics/repeated_profiles.csv,brasil,"{""distinct_repeated_profiles"": ""34030""}","34,030","34,030",True
+Additional_file_1,18,2,1,results/reconstructed/diagnostics/repeated_profiles.csv,brasil,"{""records_in_repeated_groups"": ""81758""}","81,758","81,758",True
+Additional_file_1,18,3,1,results/reconstructed/diagnostics/repeated_profiles.csv,brasil,"{""excess_after_first"": ""47728""}","47,728","47,728",True
+Additional_file_1,18,4,1,results/reconstructed/diagnostics/repeated_profiles.csv,brasil,"{""max_multiplicity"": ""16""}",16,16,True
+Additional_file_1,18,5,1,results/reconstructed/diagnostics/repeated_profiles.csv,brasil,"{""analytic_repeated_records"": ""70451""}","70,451","70,451",True
+Additional_file_1,18,6,1,results/reconstructed/diagnostics/identifier_diagnostics.csv,brasil,"{""original_record_id_missing"": ""0""}",0,0,True
+Additional_file_1,18,7,1,results/reconstructed/diagnostics/identifier_diagnostics.csv,brasil,"{""source_file_missing"": ""0""}",0,0,True
+Additional_file_1,18,8,1,results/reconstructed/diagnostics/identifier_diagnostics.csv,brasil,"{""hospital_ids_with_internal_year_gaps"": ""1094""}","1,094","1,094",True
+Additional_file_1,18,9,1,results/reconstructed/diagnostics/identifier_diagnostics.csv,brasil,"{""hospital_ids_multiple_regions"": ""0""}",0,0,True
+Additional_file_1,19,1,1,results/reconstructed/diagnostics/design_information.csv,brasil,"{""max_information_pct"": 2.3935229105508222}",2.39,2.39,True
+Additional_file_1,19,2,1,results/reconstructed/diagnostics/design_information.csv,brasil,"{""top5_information_pct"": 9.81775365237667}",9.82,9.82,True
+Additional_file_1,19,3,1,results/reconstructed/diagnostics/design_information.csv,brasil,"{""inverse_information_concentration"": 223.46194165525017}",223.5,223.5,True
+Additional_file_1,19,4,1,results/reconstructed/diagnostics/design_information.csv,brasil,"{""hospitals_zero_raw_within_variation"": 99.0}",99,99,True
+Additional_file_1,19,5,1,results/reconstructed/diagnostics/design_information.csv,brasil,"{""below_zero"": 56246.0}","56,246","56,246",True
+Additional_file_1,19,6,1,results/reconstructed/diagnostics/design_information.csv,brasil,"{""above_one"": 0.0}",0,0,True
+Additional_file_1,18,1,2,results/reconstructed/diagnostics/repeated_profiles.csv,mexico,"{""distinct_repeated_profiles"": ""5499""}","5,499","5,499",True
+Additional_file_1,18,2,2,results/reconstructed/diagnostics/repeated_profiles.csv,mexico,"{""records_in_repeated_groups"": ""12922""}","12,922","12,922",True
+Additional_file_1,18,3,2,results/reconstructed/diagnostics/repeated_profiles.csv,mexico,"{""excess_after_first"": ""7423""}","7,423","7,423",True
+Additional_file_1,18,4,2,results/reconstructed/diagnostics/repeated_profiles.csv,mexico,"{""max_multiplicity"": ""66""}",66,66,True
+Additional_file_1,18,5,2,results/reconstructed/diagnostics/repeated_profiles.csv,mexico,"{""analytic_repeated_records"": ""11428""}","11,428","11,428",True
+Additional_file_1,18,6,2,results/reconstructed/diagnostics/identifier_diagnostics.csv,mexico,"{""original_record_id_missing"": ""0""}",0,0,True
+Additional_file_1,18,7,2,results/reconstructed/diagnostics/identifier_diagnostics.csv,mexico,"{""source_file_missing"": ""0""}",0,0,True
+Additional_file_1,18,8,2,results/reconstructed/diagnostics/identifier_diagnostics.csv,mexico,"{""hospital_ids_with_internal_year_gaps"": ""172""}",172,172,True
+Additional_file_1,18,9,2,results/reconstructed/diagnostics/identifier_diagnostics.csv,mexico,"{""hospital_ids_multiple_regions"": ""1""}",1,1,True
+Additional_file_1,19,1,2,results/reconstructed/diagnostics/design_information.csv,mexico,"{""max_information_pct"": 20.442563546431604}",20.44,20.44,True
+Additional_file_1,19,2,2,results/reconstructed/diagnostics/design_information.csv,mexico,"{""top5_information_pct"": 32.757513012910856}",32.76,32.76,True
+Additional_file_1,19,3,2,results/reconstructed/diagnostics/design_information.csv,mexico,"{""inverse_information_concentration"": 19.995583241179624}",20.0,20.0,True
+Additional_file_1,19,4,2,results/reconstructed/diagnostics/design_information.csv,mexico,"{""hospitals_zero_raw_within_variation"": 14.0}",14,14,True
+Additional_file_1,19,5,2,results/reconstructed/diagnostics/design_information.csv,mexico,"{""below_zero"": 6672.0}","6,672","6,672",True
+Additional_file_1,19,6,2,results/reconstructed/diagnostics/design_information.csv,mexico,"{""above_one"": 2.0}",2,2,True
+Additional_file_1,20,1,3,SOURCE_TO_COHORT_COMPARISON.csv,brasil;starting;records,"{""old_value"": 754674.0}","754,674","754,674",True
+Additional_file_1,20,1,4,SOURCE_TO_COHORT_COMPARISON.csv,brasil;starting;records,"{""new_value"": 755313.0}","755,313","755,313",True
+Additional_file_1,20,2,3,SOURCE_TO_COHORT_COMPARISON.csv,brasil;starting;hospitals,"{""old_value"": 3209.0}","3,209","3,209",True
+Additional_file_1,20,2,4,SOURCE_TO_COHORT_COMPARISON.csv,brasil;starting;hospitals,"{""new_value"": 3211.0}","3,211","3,211",True
+Additional_file_1,20,3,3,SOURCE_TO_COHORT_COMPARISON.csv,brasil;starting;deaths,"{""old_value"": 83485.0}","83,485","83,485",True
+Additional_file_1,20,3,4,SOURCE_TO_COHORT_COMPARISON.csv,brasil;starting;deaths,"{""new_value"": 83628.0}","83,628","83,628",True
+Additional_file_1,20,4,3,SOURCE_TO_COHORT_COMPARISON.csv,brasil;starting;known_outcome,"{""old_value"": 754674.0}","754,674","754,674",True
+Additional_file_1,20,4,4,SOURCE_TO_COHORT_COMPARISON.csv,brasil;starting;known_outcome,"{""new_value"": 755313.0}","755,313","755,313",True
+Additional_file_1,20,5,3,SOURCE_TO_COHORT_COMPARISON.csv,brasil;longitudinal;records,"{""old_value"": 663921.0}","663,921","663,921",True
+Additional_file_1,20,5,4,SOURCE_TO_COHORT_COMPARISON.csv,brasil;longitudinal;records,"{""new_value"": 664508.0}","664,508","664,508",True
+Additional_file_1,20,6,3,SOURCE_TO_COHORT_COMPARISON.csv,brasil;longitudinal;hospitals,"{""old_value"": 2078.0}","2,078","2,078",True
+Additional_file_1,20,6,4,SOURCE_TO_COHORT_COMPARISON.csv,brasil;longitudinal;hospitals,"{""new_value"": 2079.0}","2,079","2,079",True
+Additional_file_1,20,7,3,SOURCE_TO_COHORT_COMPARISON.csv,brasil;longitudinal;deaths,"{""old_value"": 74152.0}","74,152","74,152",True
+Additional_file_1,20,7,4,SOURCE_TO_COHORT_COMPARISON.csv,brasil;longitudinal;deaths,"{""new_value"": 74279.0}","74,279","74,279",True
+Additional_file_1,20,8,3,SOURCE_TO_COHORT_COMPARISON.csv,brasil;longitudinal;known_outcome,"{""old_value"": 663921.0}","663,921","663,921",True
+Additional_file_1,20,8,4,SOURCE_TO_COHORT_COMPARISON.csv,brasil;longitudinal;known_outcome,"{""new_value"": 664508.0}","664,508","664,508",True
+Additional_file_1,20,9,3,SOURCE_TO_COHORT_COMPARISON.csv,mexico;starting;records,"{""old_value"": 187744.0}","187,744","187,744",True
+Additional_file_1,20,9,4,SOURCE_TO_COHORT_COMPARISON.csv,mexico;starting;records,"{""new_value"": 107686.0}","107,686","107,686",True
+Additional_file_1,20,10,3,SOURCE_TO_COHORT_COMPARISON.csv,mexico;starting;hospitals,"{""old_value"": 1178.0}","1,178","1,178",True
+Additional_file_1,20,10,4,SOURCE_TO_COHORT_COMPARISON.csv,mexico;starting;hospitals,"{""new_value"": 700.0}",700,700,True
+Additional_file_1,20,11,3,SOURCE_TO_COHORT_COMPARISON.csv,mexico;starting;deaths,"{""old_value"": 20813.0}","20,813","20,813",True
+Additional_file_1,20,11,4,SOURCE_TO_COHORT_COMPARISON.csv,mexico;starting;deaths,"{""new_value"": 12942.0}","12,942","12,942",True
+Additional_file_1,20,12,3,SOURCE_TO_COHORT_COMPARISON.csv,mexico;starting;known_outcome,"{""old_value"": 187700.0}","187,700","187,700",True
+Additional_file_1,20,12,4,SOURCE_TO_COHORT_COMPARISON.csv,mexico;starting;known_outcome,"{""new_value"": 107606.0}","107,606","107,606",True
+Additional_file_1,20,13,3,SOURCE_TO_COHORT_COMPARISON.csv,mexico;longitudinal;records,"{""old_value"": 162904.0}","162,904","162,904",True
+Additional_file_1,20,13,4,SOURCE_TO_COHORT_COMPARISON.csv,mexico;longitudinal;records,"{""new_value"": 92853.0}","92,853","92,853",True
+Additional_file_1,20,14,3,SOURCE_TO_COHORT_COMPARISON.csv,mexico;longitudinal;hospitals,"{""old_value"": 842.0}",842,842,True
+Additional_file_1,20,14,4,SOURCE_TO_COHORT_COMPARISON.csv,mexico;longitudinal;hospitals,"{""new_value"": 437.0}",437,437,True
+Additional_file_1,20,15,3,SOURCE_TO_COHORT_COMPARISON.csv,mexico;longitudinal;deaths,"{""old_value"": 18232.0}","18,232","18,232",True
+Additional_file_1,20,15,4,SOURCE_TO_COHORT_COMPARISON.csv,mexico;longitudinal;deaths,"{""new_value"": 11352.0}","11,352","11,352",True
+Additional_file_1,20,16,3,SOURCE_TO_COHORT_COMPARISON.csv,mexico;longitudinal;known_outcome,"{""old_value"": 162904.0}","162,904","162,904",True
+Additional_file_1,20,16,4,SOURCE_TO_COHORT_COMPARISON.csv,mexico;longitudinal;known_outcome,"{""new_value"": 92853.0}","92,853","92,853",True
+Additional_file_1,21,1,1,reports/DGIS_VS_RIISP_COMPARISON.csv,2015,"{""annual_all_records"": ""2970812""}","2,970,812","2,970,812",True
+Additional_file_1,21,1,2,reports/DGIS_VS_RIISP_COMPARISON.csv,2015,"{""consolidated_all_records"": ""2970812""}","2,970,812","2,970,812",True
+Additional_file_1,21,1,3,reports/DGIS_VS_RIISP_COMPARISON.csv,2015,"{""annual_adult_S06"": ""11290""}","11,290","11,290",True
+Additional_file_1,21,1,4,reports/DGIS_VS_RIISP_COMPARISON.csv,2015,"{""consolidated_adult_S06"": ""11290""}","11,290","11,290",True
+Additional_file_1,21,1,5,reports/DGIS_VS_RIISP_COMPARISON.csv,2015,"{""adult_s06_model_fields_shared"": ""11290""}","11,290","11,290",True
+Additional_file_1,21,2,1,reports/DGIS_VS_RIISP_COMPARISON.csv,2016,"{""annual_all_records"": ""2953109""}","2,953,109","2,953,109",True
+Additional_file_1,21,2,2,reports/DGIS_VS_RIISP_COMPARISON.csv,2016,"{""consolidated_all_records"": ""2954506""}","2,954,506","2,954,506",True
+Additional_file_1,21,2,3,reports/DGIS_VS_RIISP_COMPARISON.csv,2016,"{""annual_adult_S06"": ""11772""}","11,772","11,772",True
+Additional_file_1,21,2,4,reports/DGIS_VS_RIISP_COMPARISON.csv,2016,"{""consolidated_adult_S06"": ""11772""}","11,772","11,772",True
+Additional_file_1,21,2,5,reports/DGIS_VS_RIISP_COMPARISON.csv,2016,"{""adult_s06_model_fields_shared"": ""11772""}","11,772","11,772",True
+Additional_file_1,21,3,1,reports/DGIS_VS_RIISP_COMPARISON.csv,2017,"{""annual_all_records"": ""2729341""}","2,729,341","2,729,341",True
+Additional_file_1,21,3,2,reports/DGIS_VS_RIISP_COMPARISON.csv,2017,"{""consolidated_all_records"": ""2729341""}","2,729,341","2,729,341",True
+Additional_file_1,21,3,3,reports/DGIS_VS_RIISP_COMPARISON.csv,2017,"{""annual_adult_S06"": ""11666""}","11,666","11,666",True
+Additional_file_1,21,3,4,reports/DGIS_VS_RIISP_COMPARISON.csv,2017,"{""consolidated_adult_S06"": ""11666""}","11,666","11,666",True
+Additional_file_1,21,3,5,reports/DGIS_VS_RIISP_COMPARISON.csv,2017,"{""adult_s06_model_fields_shared"": ""11666""}","11,666","11,666",True
+Additional_file_1,21,4,1,reports/DGIS_VS_RIISP_COMPARISON.csv,2018,"{""annual_all_records"": ""2623379""}","2,623,379","2,623,379",True
+Additional_file_1,21,4,2,reports/DGIS_VS_RIISP_COMPARISON.csv,2018,"{""consolidated_all_records"": ""2623379""}","2,623,379","2,623,379",True
+Additional_file_1,21,4,3,reports/DGIS_VS_RIISP_COMPARISON.csv,2018,"{""annual_adult_S06"": ""11935""}","11,935","11,935",True
+Additional_file_1,21,4,4,reports/DGIS_VS_RIISP_COMPARISON.csv,2018,"{""consolidated_adult_S06"": ""11935""}","11,935","11,935",True
+Additional_file_1,21,4,5,reports/DGIS_VS_RIISP_COMPARISON.csv,2018,"{""adult_s06_model_fields_shared"": ""11935""}","11,935","11,935",True
+Additional_file_1,21,5,1,reports/DGIS_VS_RIISP_COMPARISON.csv,2019,"{""annual_all_records"": ""2629434""}","2,629,434","2,629,434",True
+Additional_file_1,21,5,2,reports/DGIS_VS_RIISP_COMPARISON.csv,2019,"{""consolidated_all_records"": ""2629434""}","2,629,434","2,629,434",True
+Additional_file_1,21,5,3,reports/DGIS_VS_RIISP_COMPARISON.csv,2019,"{""annual_adult_S06"": ""12548""}","12,548","12,548",True
+Additional_file_1,21,5,4,reports/DGIS_VS_RIISP_COMPARISON.csv,2019,"{""consolidated_adult_S06"": ""12548""}","12,548","12,548",True
+Additional_file_1,21,5,5,reports/DGIS_VS_RIISP_COMPARISON.csv,2019,"{""adult_s06_model_fields_shared"": ""12548""}","12,548","12,548",True
+Additional_file_1,21,6,1,reports/DGIS_VS_RIISP_COMPARISON.csv,2020,"{""annual_all_records"": ""1937344""}","1,937,344","1,937,344",True
+Additional_file_1,21,6,2,reports/DGIS_VS_RIISP_COMPARISON.csv,2020,"{""consolidated_all_records"": ""1937344""}","1,937,344","1,937,344",True
+Additional_file_1,21,6,3,reports/DGIS_VS_RIISP_COMPARISON.csv,2020,"{""annual_adult_S06"": ""9281""}","9,281","9,281",True
+Additional_file_1,21,6,4,reports/DGIS_VS_RIISP_COMPARISON.csv,2020,"{""consolidated_adult_S06"": ""9281""}","9,281","9,281",True
+Additional_file_1,21,6,5,reports/DGIS_VS_RIISP_COMPARISON.csv,2020,"{""adult_s06_model_fields_shared"": ""9281""}","9,281","9,281",True
+Additional_file_1,21,7,1,reports/DGIS_VS_RIISP_COMPARISON.csv,2021,"{""annual_all_records"": ""2088780""}","2,088,780","2,088,780",True
+Additional_file_1,21,7,2,reports/DGIS_VS_RIISP_COMPARISON.csv,2021,"{""consolidated_all_records"": ""2088779""}","2,088,779","2,088,779",True
+Additional_file_1,21,7,3,reports/DGIS_VS_RIISP_COMPARISON.csv,2021,"{""annual_adult_S06"": ""11078""}","11,078","11,078",True
+Additional_file_1,21,7,4,reports/DGIS_VS_RIISP_COMPARISON.csv,2021,"{""consolidated_adult_S06"": ""11078""}","11,078","11,078",True
+Additional_file_1,21,7,5,reports/DGIS_VS_RIISP_COMPARISON.csv,2021,"{""adult_s06_model_fields_shared"": ""11078""}","11,078","11,078",True
+Additional_file_1,21,8,1,reports/DGIS_VS_RIISP_COMPARISON.csv,2022,"{""annual_all_records"": ""2479897""}","2,479,897","2,479,897",True
+Additional_file_1,21,8,2,reports/DGIS_VS_RIISP_COMPARISON.csv,2022,"{""consolidated_all_records"": ""2479897""}","2,479,897","2,479,897",True
+Additional_file_1,21,8,3,reports/DGIS_VS_RIISP_COMPARISON.csv,2022,"{""annual_adult_S06"": ""13880""}","13,880","13,880",True
+Additional_file_1,21,8,4,reports/DGIS_VS_RIISP_COMPARISON.csv,2022,"{""consolidated_adult_S06"": ""13880""}","13,880","13,880",True
+Additional_file_1,21,8,5,reports/DGIS_VS_RIISP_COMPARISON.csv,2022,"{""adult_s06_model_fields_shared"": ""13880""}","13,880","13,880",True
+Additional_file_1,21,9,1,reports/DGIS_VS_RIISP_COMPARISON.csv,2023,"{""annual_all_records"": ""2591278""}","2,591,278","2,591,278",True
+Additional_file_1,21,9,2,reports/DGIS_VS_RIISP_COMPARISON.csv,2023,"{""consolidated_all_records"": ""2591278""}","2,591,278","2,591,278",True
+Additional_file_1,21,9,3,reports/DGIS_VS_RIISP_COMPARISON.csv,2023,"{""annual_adult_S06"": ""14236""}","14,236","14,236",True
+Additional_file_1,21,9,4,reports/DGIS_VS_RIISP_COMPARISON.csv,2023,"{""consolidated_adult_S06"": ""14236""}","14,236","14,236",True
+Additional_file_1,21,9,5,reports/DGIS_VS_RIISP_COMPARISON.csv,2023,"{""adult_s06_model_fields_shared"": ""14236""}","14,236","14,236",True
+Manuscript,Abstract,11,,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,brasil;Conventional LPM same sample,"[0.8115631651957667, 0.5709862862295424, 1.0521400441619908]",0.81 (0.57 to 1.05),"Results: Per doubling of volume plus one, conventional and fixed-effect associations were 0.81 (0.57 to 1.05) and −0.18 (−0.42 to 0.06) percentage points in Brazil, and 2.21 (1.50 to 2.93) and 0.82 (−0.39 to 2.03) in Mexico (95% CIs). Paired differences were 0.99 (0.70 to 1.29) and 1.40 (−0.004 to 2.80) percentage points, respectively. Mexican estimates remained sensitive to diagnosis definition and hospital participation. The highest-volume decile recorded 68.7% of Brazilian and 54.5% of Mexican admissions, and 76.0% and 53.8% of recorded stay-days. Independent annual and consolidated Mexican sources agreed on all 107,686 adult profiles used for core variable validation.",True
+Manuscript,Results,40,,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,brasil;Conventional LPM same sample,"[0.8115631651957667, 0.5709862862295424, 1.0521400441619908]",0.81 (0.57 to 1.05),"In Brazil, the conventional association was 0.81 (0.57 to 1.05) percentage points per doubling of V + 1, compared with −0.18 (−0.42 to 0.06) after hospital fixed effects. In Mexico, the corresponding associations were 2.21 (1.50 to 2.93) and 0.82 (−0.39 to 2.03) percentage points (Table 2; Figure 1). All intervals are nominal 95% CIs.",True
+Manuscript,Abstract,11,,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,brasil;Principal hospital and year FE,"[-0.17999269926949152, -0.4170997169540417, 0.05711431841505866]",−0.18 (−0.42 to 0.06),"Results: Per doubling of volume plus one, conventional and fixed-effect associations were 0.81 (0.57 to 1.05) and −0.18 (−0.42 to 0.06) percentage points in Brazil, and 2.21 (1.50 to 2.93) and 0.82 (−0.39 to 2.03) in Mexico (95% CIs). Paired differences were 0.99 (0.70 to 1.29) and 1.40 (−0.004 to 2.80) percentage points, respectively. Mexican estimates remained sensitive to diagnosis definition and hospital participation. The highest-volume decile recorded 68.7% of Brazilian and 54.5% of Mexican admissions, and 76.0% and 53.8% of recorded stay-days. Independent annual and consolidated Mexican sources agreed on all 107,686 adult profiles used for core variable validation.",True
+Manuscript,Results,40,,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,brasil;Principal hospital and year FE,"[-0.17999269926949152, -0.4170997169540417, 0.05711431841505866]",−0.18 (−0.42 to 0.06),"In Brazil, the conventional association was 0.81 (0.57 to 1.05) percentage points per doubling of V + 1, compared with −0.18 (−0.42 to 0.06) after hospital fixed effects. In Mexico, the corresponding associations were 2.21 (1.50 to 2.93) and 0.82 (−0.39 to 2.03) percentage points (Table 2; Figure 1). All intervals are nominal 95% CIs.",True
+Manuscript,Abstract,11,,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,mexico;Conventional LPM same sample,"[2.2140069188153526, 1.4990521204160525, 2.9289617172146523]",2.21 (1.50 to 2.93),"Results: Per doubling of volume plus one, conventional and fixed-effect associations were 0.81 (0.57 to 1.05) and −0.18 (−0.42 to 0.06) percentage points in Brazil, and 2.21 (1.50 to 2.93) and 0.82 (−0.39 to 2.03) in Mexico (95% CIs). Paired differences were 0.99 (0.70 to 1.29) and 1.40 (−0.004 to 2.80) percentage points, respectively. Mexican estimates remained sensitive to diagnosis definition and hospital participation. The highest-volume decile recorded 68.7% of Brazilian and 54.5% of Mexican admissions, and 76.0% and 53.8% of recorded stay-days. Independent annual and consolidated Mexican sources agreed on all 107,686 adult profiles used for core variable validation.",True
+Manuscript,Results,40,,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,mexico;Conventional LPM same sample,"[2.2140069188153526, 1.4990521204160525, 2.9289617172146523]",2.21 (1.50 to 2.93),"In Brazil, the conventional association was 0.81 (0.57 to 1.05) percentage points per doubling of V + 1, compared with −0.18 (−0.42 to 0.06) after hospital fixed effects. In Mexico, the corresponding associations were 2.21 (1.50 to 2.93) and 0.82 (−0.39 to 2.03) percentage points (Table 2; Figure 1). All intervals are nominal 95% CIs.",True
+Manuscript,Abstract,11,,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,mexico;Principal hospital and year FE,"[0.8181383816375173, -0.39112868497256037, 2.027405448247595]",0.82 (−0.39 to 2.03),"Results: Per doubling of volume plus one, conventional and fixed-effect associations were 0.81 (0.57 to 1.05) and −0.18 (−0.42 to 0.06) percentage points in Brazil, and 2.21 (1.50 to 2.93) and 0.82 (−0.39 to 2.03) in Mexico (95% CIs). Paired differences were 0.99 (0.70 to 1.29) and 1.40 (−0.004 to 2.80) percentage points, respectively. Mexican estimates remained sensitive to diagnosis definition and hospital participation. The highest-volume decile recorded 68.7% of Brazilian and 54.5% of Mexican admissions, and 76.0% and 53.8% of recorded stay-days. Independent annual and consolidated Mexican sources agreed on all 107,686 adult profiles used for core variable validation.",True
+Manuscript,Results,40,,results/reconstructed/linear/efeitos_fixos_sensibilidades.csv,mexico;Principal hospital and year FE,"[0.8181383816375173, -0.39112868497256037, 2.027405448247595]",0.82 (−0.39 to 2.03),"In Brazil, the conventional association was 0.81 (0.57 to 1.05) percentage points per doubling of V + 1, compared with −0.18 (−0.42 to 0.06) after hospital fixed effects. In Mexico, the corresponding associations were 2.21 (1.50 to 2.93) and 0.82 (−0.39 to 2.03) percentage points (Table 2; Figure 1). All intervals are nominal 95% CIs.",True

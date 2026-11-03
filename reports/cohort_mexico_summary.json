@@ -1,0 +1,10 @@
+{
+  "country": "mexico",
+  "cohort_n": 107686,
+  "cohort_hospitals": 700,
+  "analytic_n": 92853,
+  "analytic_hospitals": 437,
+  "analytic_deaths": 11352,
+  "source_sha256": "00b102d14a82b5d08fedd8660e4d13bc0e440dbb832f2e233151bf39c6e7fdc8",
+  "cohort_sha256": "1437c1453c3cd8317b3954eaf1b6fac95dfc0e0f43cf20003a53c5f75bd8a87f"
+}

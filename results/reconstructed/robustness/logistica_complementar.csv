@@ -1,0 +1,6 @@
+country,variant,n,hospitals,excluded_n,excluded_hospitals,LPM_same_sample_pp,OR,OR_low,OR_high,status,reason
+mexico,S061-S067,20591,208,754,103,1.7130919936034692,,,,not_estimable,Quasi-complete separation in a binary covariate cell; finite full maximum likelihood estimate does not exist
+mexico,Balanced 8 years,76066,207,1585,24,-0.29282123984063246,0.9684195351396887,0.9022369423092338,1.0394568788547072,converged,
+mexico,S061-S067 recorded male/female; separation diagnostic,20589,208,754,103,1.7130042988585186,1.186008403739874,1.0394086554456492,1.3532847993636477,converged,
+brasil,S061-S067,257479,815,5932,544,-0.026479262139704897,0.9959494288453314,0.9548347969287007,1.0388344329384658,converged,
+brasil,Balanced 8 years,614016,881,11939,157,-0.2970687629881737,0.9586013449589672,0.9214785520955137,0.9972196710031431,converged,

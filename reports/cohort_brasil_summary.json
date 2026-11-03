@@ -1,0 +1,10 @@
+{
+  "country": "brasil",
+  "cohort_n": 755313,
+  "cohort_hospitals": 3211,
+  "analytic_n": 664508,
+  "analytic_hospitals": 2079,
+  "analytic_deaths": 74279,
+  "source_sha256": "f3b0f8a206c368288a0b8c6cb5b1ae0c43f4fe89a78ea8e622b18c81f802ee64",
+  "cohort_sha256": "48f20ce828ca4cfe15d06d396c7d9ad9fb67664ed9d206b3b65c1cb6e9349435"
+}

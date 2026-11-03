@@ -1,7 +1,8 @@
 cff-version: 1.2.0
 message: "If you use this reproducibility bundle, cite this code using its exact commit or published release; the manuscript is not yet published."
 title: "Hospital volume, mortality and concentration of traumatic brain injury care in Brazil and Mexico: a longitudinal administrative cohort study — analysis code"
-version: "2.0.0"
+version: "3.0.0"
+date-released: "2026-11-03"
 license: MIT
 authors:
   - family-names: "Maciel"

@@ -1,0 +1,21 @@
+country,stage,n,unit,removed_or_grouped_since_previous,transition
+brasil,All records in 2015-2023 competency files,107392891,RD records,,source population
+brasil,Active DBF records,107392891,RD records,0,selection
+brasil,Principal S06 records before AIH aggregation,943449,RD records,106449442,selection
+brasil,Distinct administrative AIH authorisations,943383,AIH authorisations,66,"AIH grouping, not deletion of episodes"
+brasil,After excluding documented age below 20,755313,AIH authorisations,188070,selection
+brasil,Known age at least 20,755313,AIH authorisations,0,selection
+brasil,Processing year 2015-2023,755313,AIH authorisations,0,selection
+brasil,Hospital identifier available,755313,AIH authorisations,0,selection
+brasil,Contiguous prior-year exposure,666057,AIH authorisations,89256,selection
+brasil,Complete model variables,666057,AIH authorisations,0,selection
+brasil,At least two eligible hospital years,664508,AIH authorisations,1549,selection
+mexico,All records in consolidated source 2008-2024,44844719,discharge records,,source population
+mexico,Discharge/source years 2015-2023,23004770,discharge records,21839949,selection
+mexico,Principal S06 in 2015-2023,171305,discharge records,22833465,selection
+mexico,After excluding documented age below 20,107792,discharge records,63513,selection
+mexico,Known age at least 20,107686,discharge records,106,selection
+mexico,Hospital identifier available,107686,discharge records,0,selection
+mexico,Contiguous prior-year exposure,93855,discharge records,13831,selection
+mexico,Complete model variables,93790,discharge records,65,selection
+mexico,At least two eligible hospital years,92853,discharge records,937,selection

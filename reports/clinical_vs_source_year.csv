@@ -1,0 +1,5 @@
+country,comparison,year_difference,n
+brasil,clinical admission year minus processing year,0.0,689515
+brasil,clinical admission year minus processing year,-1.0,65798
+mexico,clinical discharge year minus source-series year,0.0,107287
+mexico,clinical discharge year minus source-series year,-1.0,399

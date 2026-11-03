@@ -1,41 +1,19 @@
-# Raw and person-level data: never commit
-00_raw/
-01_intermediate/
-/analysis_*/
-*.dbc
-*.dbf
-*.parquet
-*.sav
-*.rds
-*.rdata
-*.dta
-
-# Local environments / secrets
-.env
+# Source data and local checkpoints are not distributed.
+source_cache/
+checkpoints/
+reference/
+runtime_dependencies/
 .venv/
 venv/
-
-# Python artifacts
+.env
 __pycache__/
 *.py[cod]
-.ipynb_checkpoints/
-
-# OS/editor artifacts
+*.parquet
+*.dbc
+*.dbf
+*.sav
+*.dta
+*.rds
+*.zip
 .DS_Store
 Thumbs.db
-.vscode/
-.idea/
-
-# Local archives
-*.zip
-*.tar
-*.tar.gz
-
-# Frozen input cohorts and private submission materials
-reanalysis_2026/**/base_final/
-**/02_INTERNAL_DO_NOT_SUBMIT/
-BMC_FINAL_SUBMISSION_PACKAGE/
-*.feather
-*.pkl
-*.pickle
-*.log

@@ -1,0 +1,588 @@
+country,sample,year,metric,old_value,new_value,difference,interpretation
+brasil,starting,all,records,754674.0,755313.0,639.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,all,hospitals,3209.0,3211.0,2.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,all,deaths,83485.0,83628.0,143.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,all,known_outcome,754674.0,755313.0,639.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,all,age_median,47.0,47.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,all,age_q1,32.0,32.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,all,age_q3,64.0,64.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,all,female,167217.0,167593.0,376.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,all,mortality_known_outcome,0.1106239250325306,0.11071966191499417,9.573688246357348e-05,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,all,hospital_years,17497.0,17504.0,7.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,all,los_sum,5160179.0,5163352.0,3173.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,all,los_max,306.0,306.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,all,lag_mean,427.31927250979015,427.605234987396,0.2859624776058354,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,all,log_lag_mean,5.189704986123068,5.19022077259333,0.0005157864702614035,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2015,records,82276.0,82316.0,40.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2015,hospitals,1878.0,1878.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2015,deaths,8894.0,8907.0,13.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2015,known_outcome,82276.0,82316.0,40.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2015,age_median,44.0,44.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2015,age_q1,31.0,31.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2015,age_q3,61.0,61.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2015,female,17897.0,17923.0,26.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2015,mortality_known_outcome,0.10809956731002966,0.10820496622770785,0.00010539891767818999,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2015,hospital_years,1878.0,1878.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2015,los_sum,561721.0,561947.0,226.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2015,los_max,287.0,287.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2015,lag_mean,,,,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2015,log_lag_mean,,,,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2016,records,82953.0,83017.0,64.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2016,hospitals,1855.0,1855.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2016,deaths,9446.0,9461.0,15.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2016,known_outcome,82953.0,83017.0,64.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2016,age_median,44.0,45.0,1.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2016,age_q1,31.0,31.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2016,age_q3,62.0,62.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2016,female,17570.0,17605.0,35.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2016,mortality_known_outcome,0.11387171048666112,0.11396460965826277,9.289917160165695e-05,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2016,hospital_years,1855.0,1855.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2016,los_sum,579700.0,580007.0,307.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2016,los_max,301.0,301.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2016,lag_mean,491.9509556305705,492.0814870537989,0.13053142322843314,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2016,log_lag_mean,5.273941515466113,5.27416370019871,0.00022218473259716376,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2017,records,82253.0,82313.0,60.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2017,hospitals,1912.0,1912.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2017,deaths,9067.0,9079.0,12.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2017,known_outcome,82253.0,82313.0,60.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2017,age_median,46.0,46.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2017,age_q1,31.0,31.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2017,age_q3,63.0,63.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2017,female,18071.0,18106.0,35.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2017,mortality_known_outcome,0.11023306140809454,0.11029849476996344,6.543336186889959e-05,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2017,hospital_years,1912.0,1912.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2017,los_sum,571786.0,572135.0,349.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2017,los_max,237.0,237.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2017,lag_mean,475.57908899893096,475.85653770121434,0.2774487022833796,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2017,log_lag_mean,5.248973085957343,5.249398541385694,0.0004254554283509293,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2018,records,81267.0,81330.0,63.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2018,hospitals,1855.0,1855.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2018,deaths,9085.0,9097.0,12.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2018,known_outcome,81267.0,81330.0,63.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2018,age_median,46.0,46.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2018,age_q1,32.0,32.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2018,age_q3,64.0,64.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2018,female,17739.0,17780.0,41.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2018,mortality_known_outcome,0.11179199429042538,0.11185294479281938,6.095050239399158e-05,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2018,hospital_years,1855.0,1855.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2018,los_sum,561448.0,561726.0,278.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2018,los_max,306.0,306.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2018,lag_mean,443.37077183463174,443.78770393951453,0.41693210488278964,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2018,log_lag_mean,5.231617489744865,5.232412780634848,0.0007952908899833133,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2019,records,82193.0,82258.0,65.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2019,hospitals,1875.0,1876.0,1.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2019,deaths,8994.0,9006.0,12.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2019,known_outcome,82193.0,82258.0,65.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2019,age_median,47.0,47.5,0.5,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2019,age_q1,33.0,33.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2019,age_q3,65.0,65.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2019,female,18396.0,18438.0,42.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2019,mortality_known_outcome,0.10942537685690995,0.10948479175277785,5.9414895867901385e-05,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2019,hospital_years,1875.0,1876.0,1.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2019,los_sum,563822.0,564070.0,248.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2019,los_max,187.0,187.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2019,lag_mean,424.85129664613953,425.3580280205435,0.5067313744039552,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2019,log_lag_mean,5.223796912878784,5.224433838952476,0.0006369260736915905,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2020,records,80202.0,80271.0,69.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2020,hospitals,1928.0,1928.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2020,deaths,9156.0,9174.0,18.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2020,known_outcome,80202.0,80271.0,69.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2020,age_median,47.0,47.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2020,age_q1,33.0,33.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2020,age_q3,64.0,64.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2020,female,16860.0,16898.0,38.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2020,mortality_known_outcome,0.1141617416024538,0.11428784990843517,0.00012610830598136502,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2020,hospital_years,1928.0,1928.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2020,los_sum,534750.0,535054.0,304.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2020,los_max,204.0,204.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2020,lag_mean,407.8579283210169,408.2559469811511,0.3980186601341984,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2020,log_lag_mean,5.14824544394486,5.149032706276915,0.000787262332055505,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2021,records,81356.0,81428.0,72.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2021,hospitals,1994.0,1997.0,3.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2021,deaths,9498.0,9517.0,19.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2021,known_outcome,81356.0,81428.0,72.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2021,age_median,48.0,48.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2021,age_q1,33.0,33.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2021,age_q3,65.0,65.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2021,female,17572.0,17608.0,36.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2021,mortality_known_outcome,0.1167461527115394,0.11687625878076337,0.00013010606922396473,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2021,hospital_years,1994.0,1997.0,3.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2021,los_sum,550604.0,551035.0,431.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2021,los_max,306.0,306.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2021,lag_mean,387.81394827607676,388.0813904302172,0.2674421541404399,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2021,log_lag_mean,5.168522012004618,5.169235258462799,0.0007132464581811604,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2022,records,88696.0,88800.0,104.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2022,hospitals,2086.0,2087.0,1.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2022,deaths,9585.0,9608.0,23.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2022,known_outcome,88696.0,88800.0,104.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2022,age_median,49.0,49.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2022,age_q1,34.0,34.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2022,age_q3,67.0,67.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2022,female,20745.0,20810.0,65.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2022,mortality_known_outcome,0.10806575268332282,0.1081981981981982,0.00013244551487538725,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2022,hospital_years,2086.0,2087.0,1.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2022,los_sum,603136.0,603753.0,617.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2022,los_max,145.0,145.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2022,lag_mean,400.49922370884514,400.59290763968073,0.09368393083559567,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2022,log_lag_mean,5.100784201926661,5.10080429975877,2.0097832108767477e-05,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2023,records,93478.0,93580.0,102.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2023,hospitals,2114.0,2116.0,2.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2023,deaths,9760.0,9779.0,19.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2023,known_outcome,93478.0,93580.0,102.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2023,age_median,50.0,50.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2023,age_q1,35.0,35.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2023,age_q3,68.0,68.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2023,female,22367.0,22425.0,58.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2023,mortality_known_outcome,0.10440959370119172,0.10449882453515709,8.923083396536469e-05,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2023,hospital_years,2114.0,2116.0,2.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2023,los_sum,633212.0,633625.0,413.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2023,los_max,290.0,290.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2023,lag_mean,391.98773906661484,392.239717091999,0.2519780253841759,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,2023,log_lag_mean,5.134340997379326,5.134970397149338,0.0006293997700126397,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,all,missing_year,0.0,0.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,all,missing_age,0.0,0.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,all,missing_death_in_hospital,0.0,0.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,all,missing_los_days,0.0,0.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,all,missing_hospital_volume_year,0.0,0.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,all,missing_lag_volume,89208.0,89256.0,48.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,all,missing_log_lag_volume,89208.0,89256.0,48.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,all,missing_hospital_id,0.0,0.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,all,missing_sex,0.0,0.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,all,missing_dx_main,0.0,0.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,all,missing_trauma_subtype,0.0,0.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,all,missing_hospital_region,0.0,0.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,all,missing_procedure_code_norm,0.0,0.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,all,missing_procedure_group,0.0,0.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,all,records,663921.0,664508.0,587.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,all,hospitals,2078.0,2079.0,1.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,all,deaths,74152.0,74279.0,127.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,all,known_outcome,663921.0,664508.0,587.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,all,age_median,47.0,47.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,all,age_q1,33.0,33.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,all,age_q3,65.0,65.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,all,female,146961.0,147306.0,345.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,all,mortality_known_outcome,0.11168798697435388,0.11178044508117284,9.245810681896005e-05,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,all,hospital_years,12516.0,12521.0,5.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,all,los_sum,4555229.0,4558043.0,2814.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,all,los_max,306.0,306.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,all,lag_mean,428.26693537333506,428.5551821798985,0.2882468065634498,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,all,log_lag_mean,5.196862200627361,5.197385724260054,0.0005235236326930348,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2016,records,82208.0,82270.0,62.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2016,hospitals,1485.0,1485.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2016,deaths,9427.0,9442.0,15.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2016,known_outcome,82208.0,82270.0,62.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2016,age_median,44.0,45.0,1.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2016,age_q1,31.0,31.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2016,age_q3,62.0,62.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2016,female,17352.0,17387.0,35.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2016,mortality_known_outcome,0.1146725379525107,0.11476844536282971,9.590741031900718e-05,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2016,hospital_years,1485.0,1485.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2016,los_sum,576539.0,576839.0,300.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2016,los_max,301.0,301.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2016,lag_mean,492.816368236668,492.9582715449131,0.1419033082451051,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2016,log_lag_mean,5.28089647209436,5.281191665509758,0.00029519341539785415,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2017,records,81356.0,81416.0,60.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2017,hospitals,1543.0,1543.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2017,deaths,9036.0,9048.0,12.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2017,known_outcome,81356.0,81416.0,60.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2017,age_median,46.0,46.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2017,age_q1,31.0,31.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2017,age_q3,63.0,63.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2017,female,17826.0,17861.0,35.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2017,mortality_known_outcome,0.11106740744382713,0.11113294684091579,6.553939708865697e-05,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2017,hospital_years,1543.0,1543.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2017,los_sum,568024.0,568373.0,349.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2017,los_max,237.0,237.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2017,lag_mean,475.7365160529033,476.0139407487472,0.27742469584387663,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2017,log_lag_mean,5.2504565941415295,5.250881097383647,0.00042450324211706914,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2018,records,80294.0,80356.0,62.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2018,hospitals,1545.0,1545.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2018,deaths,9045.0,9057.0,12.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2018,known_outcome,80294.0,80356.0,62.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2018,age_median,46.0,46.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2018,age_q1,32.0,32.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2018,age_q3,64.0,64.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2018,female,17476.0,17517.0,41.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2018,mortality_known_outcome,0.11264851670112337,0.11271093633331675,6.24196321933751e-05,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2018,hospital_years,1545.0,1545.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2018,los_sum,557751.0,558021.0,270.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2018,los_max,306.0,306.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2018,lag_mean,443.69899369815926,444.1159838717706,0.41699017361133883,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2018,log_lag_mean,5.234545973198224,5.235339598394037,0.0007936251958131635,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2019,records,81458.0,81523.0,65.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2019,hospitals,1527.0,1528.0,1.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2019,deaths,8972.0,8984.0,12.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2019,known_outcome,81458.0,81523.0,65.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2019,age_median,47.0,48.0,1.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2019,age_q1,33.0,33.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2019,age_q3,65.0,65.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2019,female,18198.0,18240.0,42.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2019,mortality_known_outcome,0.11014265020010312,0.11020202887528673,5.937867518360229e-05,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2019,hospital_years,1527.0,1528.0,1.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2019,los_sum,560436.0,560684.0,248.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2019,los_max,187.0,187.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2019,lag_mean,425.1584620295121,425.66532144302835,0.5068594135162243,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2019,log_lag_mean,5.226252857254603,5.226888293922607,0.0006354366680039192,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2020,records,79220.0,79291.0,71.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2020,hospitals,1533.0,1535.0,2.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2020,deaths,9119.0,9137.0,18.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2020,known_outcome,79220.0,79291.0,71.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2020,age_median,47.0,47.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2020,age_q1,33.0,33.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2020,age_q3,64.0,64.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2020,female,16605.0,16643.0,38.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2020,mortality_known_outcome,0.11510982075233527,0.11523375919082872,0.00012393843849345387,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2020,hospital_years,1533.0,1535.0,2.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2020,los_sum,530270.0,530572.0,302.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2020,los_max,204.0,204.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2020,lag_mean,408.2572077758142,408.6501242259525,0.3929164501382729,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2020,log_lag_mean,5.152245600100559,5.152973858382331,0.0007282582817715877,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2021,records,80229.0,80296.0,67.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2021,hospitals,1580.0,1580.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2021,deaths,9456.0,9473.0,17.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2021,known_outcome,80229.0,80296.0,67.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2021,age_median,48.0,48.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2021,age_q1,33.0,33.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2021,age_q3,65.0,65.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2021,female,17282.0,17317.0,35.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2021,mortality_known_outcome,0.11786261825524437,0.11797598884128724,0.00011337058604286854,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2021,hospital_years,1580.0,1580.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2021,los_sum,545733.0,546120.0,387.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2021,los_max,306.0,306.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2021,lag_mean,388.2037542534495,388.471144266215,0.2673900127654747,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2021,log_lag_mean,5.172087752605902,5.17279875214754,0.0007109995416376691,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2022,records,87512.0,87615.0,103.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2022,hospitals,1658.0,1659.0,1.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2022,deaths,9490.0,9512.0,22.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2022,known_outcome,87512.0,87615.0,103.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2022,age_median,49.0,49.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2022,age_q1,34.0,34.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2022,age_q3,67.0,67.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2022,female,20408.0,20472.0,64.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2022,mortality_known_outcome,0.10844227077429382,0.10856588483707127,0.0001236140627774579,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2022,hospital_years,1658.0,1659.0,1.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2022,los_sum,595342.0,595917.0,575.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2022,los_max,145.0,145.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2022,lag_mean,400.8813077063717,400.9791588198368,0.09785111346513986,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2022,log_lag_mean,5.104725152758087,5.104780485842945,5.533308485805577e-05,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2023,records,91644.0,91741.0,97.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2023,hospitals,1645.0,1646.0,1.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2023,deaths,9607.0,9626.0,19.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2023,known_outcome,91644.0,91741.0,97.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2023,age_median,50.0,50.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2023,age_q1,35.0,35.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2023,age_q3,68.0,68.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2023,female,21814.0,21869.0,55.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2023,mortality_known_outcome,0.1048295578543058,0.10492582378652947,9.626593222367141e-05,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2023,hospital_years,1645.0,1646.0,1.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2023,los_sum,621134.0,621517.0,383.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2023,los_max,290.0,290.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2023,lag_mean,395.98619658679235,396.24460165029814,0.2584050635057906,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,2023,log_lag_mean,5.163001323836062,5.163641282326983,0.0006399584909209111,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,all,missing_year,0.0,0.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,all,missing_age,0.0,0.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,all,missing_death_in_hospital,0.0,0.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,all,missing_los_days,0.0,0.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,all,missing_hospital_volume_year,0.0,0.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,all,missing_lag_volume,0.0,0.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,all,missing_log_lag_volume,0.0,0.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,all,missing_hospital_id,0.0,0.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,all,missing_sex,0.0,0.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,all,missing_dx_main,0.0,0.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,all,missing_trauma_subtype,0.0,0.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,all,missing_hospital_region,0.0,0.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,all,missing_procedure_code_norm,0.0,0.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,longitudinal,all,missing_procedure_group,0.0,0.0,0.0,Independent raw-source reconstruction; source-release identity with original extraction unverified
+brasil,starting,all,legacy_rule_records,754674.0,754674.0,0.0,Original code age-unit rule reconstructed independently; corrected centenarians excluded only in this benchmark
+mexico,starting,all,records,187744.0,107686.0,-80058.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,all,hospitals,1178.0,700.0,-478.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,all,deaths,20813.0,12942.0,-7871.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,all,known_outcome,187700.0,107606.0,-80094.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,all,age_median,46.0,40.0,-6.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,all,age_q1,30.0,28.0,-2.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,all,age_q3,65.0,57.0,-8.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,all,female,43213.0,21955.0,-21258.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,all,mortality_known_outcome,0.11088438998401705,0.12027210378603424,0.009387713802017195,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,all,hospital_years,7042.0,3707.0,-3335.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,all,los_sum,1330802.0,746636.0,-584166.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,all,los_max,13086.0,13086.0,0.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,all,lag_mean,154.3058077391629,143.02019071972722,-11.285617019435676,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,all,log_lag_mean,4.282062553857301,4.309171467052088,0.027108913194786588,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2015,records,21011.0,11290.0,-9721.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2015,hospitals,757.0,387.0,-370.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2015,deaths,2345.0,1397.0,-948.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2015,known_outcome,20998.0,11277.0,-9721.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2015,age_median,46.0,41.0,-5.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2015,age_q1,30.0,28.0,-2.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2015,age_q3,66.0,58.0,-8.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2015,female,5119.0,2442.0,-2677.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2015,mortality_known_outcome,0.11167730260024765,0.12388046466258756,0.012203162062339915,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2015,hospital_years,757.0,387.0,-370.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2015,los_sum,150254.0,81376.0,-68878.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2015,los_max,735.0,735.0,0.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2015,lag_mean,,,,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2015,log_lag_mean,,,,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2016,records,22046.0,11772.0,-10274.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2016,hospitals,756.0,382.0,-374.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2016,deaths,2459.0,1436.0,-1023.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2016,known_outcome,22023.0,11749.0,-10274.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2016,age_median,47.0,41.0,-6.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2016,age_q1,30.0,28.0,-2.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2016,age_q3,66.0,58.0,-8.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2016,female,5331.0,2517.0,-2814.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2016,mortality_known_outcome,0.11165599600417746,0.12222316792918546,0.010567171925008001,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2016,hospital_years,756.0,382.0,-374.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2016,los_sum,149096.0,79971.0,-69125.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2016,los_max,486.0,251.0,-235.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2016,lag_mean,151.21032371765142,145.65977394199598,-5.5505497756554405,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2016,log_lag_mean,4.330516612348465,4.370683908268887,0.040167295920422674,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2017,records,21616.0,11666.0,-9950.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2017,hospitals,703.0,379.0,-324.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2017,deaths,2396.0,1355.0,-1041.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2017,known_outcome,21608.0,11658.0,-9950.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2017,age_median,47.0,41.0,-6.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2017,age_q1,30.0,28.0,-2.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2017,age_q3,66.0,58.0,-8.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2017,female,5159.0,2577.0,-2582.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2017,mortality_known_outcome,0.11088485746019992,0.11622919883341912,0.005344341373219194,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2017,hospital_years,703.0,379.0,-324.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2017,los_sum,154682.0,81894.0,-72788.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2017,los_max,396.0,396.0,0.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2017,lag_mean,159.19870148068568,150.43292894280762,-8.765772537878064,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2017,log_lag_mean,4.411205074544753,4.41295897376462,0.0017538992198664616,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2018,records,21466.0,11935.0,-9531.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2018,hospitals,761.0,382.0,-379.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2018,deaths,2124.0,1237.0,-887.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2018,known_outcome,21466.0,11921.0,-9545.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2018,age_median,46.0,41.0,-5.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2018,age_q1,30.0,28.0,-2.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2018,age_q3,66.0,58.0,-8.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2018,female,5093.0,2607.0,-2486.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2018,mortality_known_outcome,0.09894717227243081,0.1037664625450885,0.004819290272657692,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2018,hospital_years,761.0,382.0,-379.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2018,los_sum,152877.0,81059.0,-71818.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2018,los_max,365.0,305.0,-60.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2018,lag_mean,168.06437318339925,155.71841032608697,-12.345962857312287,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2018,log_lag_mean,4.450067365044746,4.448260346386861,-0.0018070186578853509,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2019,records,21832.0,12548.0,-9284.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2019,hospitals,789.0,403.0,-386.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2019,deaths,2210.0,1473.0,-737.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2019,known_outcome,21832.0,12531.0,-9301.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2019,age_median,46.0,40.0,-6.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2019,age_q1,30.0,28.0,-2.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2019,age_q3,66.0,58.0,-8.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2019,female,5083.0,2572.0,-2511.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2019,mortality_known_outcome,0.10122755588127519,0.11754847977016998,0.016320923888894792,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2019,hospital_years,789.0,403.0,-386.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2019,los_sum,156944.0,90536.0,-66408.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2019,los_max,728.0,429.0,-299.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2019,lag_mean,168.01032815360782,160.74102079395084,-7.2693073596569775,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2019,log_lag_mean,4.31889303010533,4.400842245494893,0.0819492153895629,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2020,records,15912.0,9281.0,-6631.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2020,hospitals,780.0,391.0,-389.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2020,deaths,1843.0,1162.0,-681.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2020,known_outcome,15912.0,9276.0,-6636.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2020,age_median,44.0,39.0,-5.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2020,age_q1,29.0,27.0,-2.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2020,age_q3,63.0,55.0,-8.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2020,female,3461.0,1771.0,-1690.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2020,mortality_known_outcome,0.115824534942182,0.12526951272100043,0.00944497777881842,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2020,hospital_years,780.0,391.0,-389.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2020,los_sum,111888.0,64782.0,-47106.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2020,los_max,325.0,325.0,0.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2020,lag_mean,170.30566325557746,158.00174367916304,-12.303919576414415,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2020,log_lag_mean,4.335648642900738,4.371566121601414,0.035917478700675964,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2021,records,18832.0,11078.0,-7754.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2021,hospitals,807.0,404.0,-403.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2021,deaths,2313.0,1426.0,-887.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2021,known_outcome,18832.0,11078.0,-7754.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2021,age_median,44.0,38.0,-6.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2021,age_q1,29.0,27.0,-2.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2021,age_q3,63.0,54.0,-9.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2021,female,3966.0,1957.0,-2009.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2021,mortality_known_outcome,0.12282285471537809,0.12872359631702474,0.00590074160164665,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2021,hospital_years,807.0,404.0,-403.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2021,los_sum,125935.0,70689.0,-55246.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2021,los_max,642.0,642.0,0.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2021,lag_mean,122.1608152173913,105.90011098779134,-16.260704229599966,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2021,log_lag_mean,3.9529891922983995,3.9635732990026913,0.010584106704291774,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2022,records,22667.0,13880.0,-8787.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2022,hospitals,822.0,478.0,-344.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2022,deaths,2629.0,1742.0,-887.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2022,known_outcome,22667.0,13880.0,-8787.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2022,age_median,45.0,40.0,-5.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2022,age_q1,29.0,28.0,-1.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2022,age_q3,64.0,57.0,-7.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2022,female,4973.0,2688.0,-2285.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2022,mortality_known_outcome,0.11598358847664005,0.12550432276657061,0.009520734289930569,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2022,hospital_years,822.0,478.0,-344.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2022,los_sum,165047.0,95014.0,-70033.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2022,los_max,7098.0,7098.0,0.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2022,lag_mean,139.28044029715528,130.32344827586206,-8.956992021293217,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2022,log_lag_mean,4.155078891807778,4.240150340478754,0.08507144867097605,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2023,records,22362.0,14236.0,-8126.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2023,hospitals,867.0,501.0,-366.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2023,deaths,2494.0,1714.0,-780.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2023,known_outcome,22362.0,14236.0,-8126.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2023,age_median,46.0,40.0,-6.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2023,age_q1,30.0,28.0,-2.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2023,age_q3,65.0,57.0,-8.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2023,female,5028.0,2824.0,-2204.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2023,mortality_known_outcome,0.111528485824166,0.12039898847991008,0.008870502655744086,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2023,hospital_years,867.0,501.0,-366.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2023,los_sum,164079.0,101315.0,-62764.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2023,los_max,13086.0,13086.0,0.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2023,lag_mean,156.71699492756935,139.33884060053157,-17.378154327037777,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,2023,log_lag_mean,4.277271147543469,4.266917420730534,-0.01035372681293456,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,all,missing_year,0.0,0.0,0.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,all,missing_age,0.0,0.0,0.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,all,missing_death_in_hospital,44.0,80.0,36.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,all,missing_los_days,0.0,0.0,0.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,all,missing_hospital_volume_year,0.0,0.0,0.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,all,missing_lag_volume,24393.0,13831.0,-10562.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,all,missing_log_lag_volume,24393.0,13831.0,-10562.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,all,missing_hospital_id,0.0,0.0,0.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,all,missing_sex,5.0,0.0,-5.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,all,missing_dx_main,0.0,0.0,0.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,all,missing_trauma_subtype,0.0,0.0,0.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,all,missing_hospital_region,0.0,0.0,0.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,starting,all,missing_procedure_group,0.0,0.0,0.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,all,records,162904.0,92853.0,-70051.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,all,hospitals,842.0,437.0,-405.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,all,deaths,18232.0,11352.0,-6880.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,all,known_outcome,162904.0,92853.0,-70051.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,all,age_median,46.0,40.0,-6.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,all,age_q1,30.0,28.0,-2.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,all,age_q3,65.0,57.0,-8.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,all,female,37091.0,18662.0,-18429.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,all,mortality_known_outcome,0.11191867603005451,0.12225776226939356,0.010339086239339046,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,all,hospital_years,5285.0,2674.0,-2611.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,all,los_sum,1135559.0,626304.0,-509255.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,all,los_max,728.0,518.0,-210.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,all,lag_mean,154.66564970780337,144.23841986796333,-10.427229839840038,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,all,log_lag_mean,4.287447091138255,4.324481328846672,0.03703423770841674,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2016,records,21420.0,11310.0,-10110.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2016,hospitals,639.0,318.0,-321.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2016,deaths,2425.0,1408.0,-1017.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2016,known_outcome,21420.0,11310.0,-10110.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2016,age_median,47.0,41.0,-6.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2016,age_q1,30.0,28.0,-2.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2016,age_q3,66.0,58.0,-8.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2016,female,5184.0,2422.0,-2762.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2016,mortality_known_outcome,0.11321195144724557,0.12449160035366932,0.011279648906423759,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2016,hospital_years,639.0,318.0,-321.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2016,los_sum,144818.0,76268.0,-68550.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2016,los_max,486.0,251.0,-235.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2016,lag_mean,151.95508870214752,146.52740937223695,-5.427679329910575,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2016,log_lag_mean,4.340071597447376,4.379164065936812,0.03909246848943582,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2017,records,21376.0,11519.0,-9857.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2017,hospitals,615.0,322.0,-293.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2017,deaths,2387.0,1351.0,-1036.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2017,known_outcome,21376.0,11519.0,-9857.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2017,age_median,47.0,41.0,-6.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2017,age_q1,30.0,28.0,-2.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2017,age_q3,66.0,58.0,-8.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2017,female,5089.0,2534.0,-2555.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2017,mortality_known_outcome,0.11166729041916168,0.11728448650056429,0.005617196081402612,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2017,hospital_years,615.0,322.0,-293.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2017,los_sum,153559.0,81246.0,-72313.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2017,los_max,396.0,396.0,0.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2017,lag_mean,159.41200411676647,150.67158607518013,-8.740418041586338,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2017,log_lag_mean,4.414956556234315,4.417188871902854,0.0022323156685395418,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2018,records,20976.0,11757.0,-9219.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2018,hospitals,611.0,320.0,-291.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2018,deaths,2093.0,1228.0,-865.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2018,known_outcome,20976.0,11757.0,-9219.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2018,age_median,46.0,41.0,-5.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2018,age_q1,30.0,28.0,-2.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2018,age_q3,66.0,58.0,-8.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2018,female,4934.0,2557.0,-2377.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2018,mortality_known_outcome,0.09978070175438597,0.1044484137109807,0.004667711956594725,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2018,hospital_years,611.0,320.0,-291.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2018,los_sum,150373.0,80063.0,-70310.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2018,los_max,365.0,305.0,-60.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2018,lag_mean,168.15145881006865,155.91834651696863,-12.233112293100021,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2018,log_lag_mean,4.451836128007725,4.450736332764045,-0.0010997952436806457,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2019,records,21288.0,12146.0,-9142.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2019,hospitals,670.0,331.0,-339.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2019,deaths,2165.0,1437.0,-728.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2019,known_outcome,21288.0,12146.0,-9142.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2019,age_median,46.0,40.0,-6.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2019,age_q1,30.0,28.0,-2.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2019,age_q3,66.0,58.0,-8.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2019,female,4931.0,2461.0,-2470.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2019,mortality_known_outcome,0.10170048853814355,0.11831055491519842,0.016610066377054866,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2019,hospital_years,670.0,331.0,-339.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2019,los_sum,153902.0,88047.0,-65855.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2019,los_max,728.0,429.0,-299.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2019,lag_mean,168.11231679819616,160.87041001152642,-7.241906786669745,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2019,log_lag_mean,4.3211071740382545,4.401973382467231,0.08086620842897663,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2020,records,15724.0,9165.0,-6559.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2020,hospitals,682.0,336.0,-346.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2020,deaths,1829.0,1153.0,-676.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2020,known_outcome,15724.0,9165.0,-6559.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2020,age_median,44.0,39.0,-5.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2020,age_q1,29.0,27.0,-2.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2020,age_q3,63.0,55.0,-8.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2020,female,3405.0,1748.0,-1657.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2020,mortality_known_outcome,0.11631900279827016,0.12580469176213857,0.009485688963868408,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2020,hospital_years,682.0,336.0,-346.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2020,los_sum,110866.0,64092.0,-46774.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2020,los_max,325.0,325.0,0.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2020,lag_mean,170.40225133553804,158.15668303327877,-12.245568302259272,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2020,log_lag_mean,4.337604582077825,4.373982473366399,0.03637789128857438,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2021,records,18381.0,10804.0,-7577.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2021,hospitals,671.0,337.0,-334.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2021,deaths,2270.0,1400.0,-870.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2021,known_outcome,18381.0,10804.0,-7577.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2021,age_median,44.0,38.0,-6.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2021,age_q1,29.0,27.0,-2.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2021,age_q3,63.0,54.0,-9.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2021,female,3858.0,1906.0,-1952.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2021,mortality_known_outcome,0.12349708938577879,0.1295816364309515,0.0060845470451727085,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2021,hospital_years,671.0,337.0,-334.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2021,los_sum,122018.0,67662.0,-54356.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2021,los_max,518.0,518.0,0.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2021,lag_mean,122.28556661770307,105.97769344687153,-16.30787317083154,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2021,log_lag_mean,3.956183017437301,3.9659574107982696,0.009774393360968414,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2022,records,21987.0,12966.0,-9021.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2022,hospitals,695.0,352.0,-343.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2022,deaths,2608.0,1708.0,-900.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2022,known_outcome,21987.0,12966.0,-9021.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2022,age_median,45.0,40.0,-5.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2022,age_q1,29.0,28.0,-1.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2022,age_q3,64.0,57.0,-7.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2022,female,4812.0,2461.0,-2351.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2022,mortality_known_outcome,0.11861554554964297,0.1317291377448712,0.013113592195228216,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2022,hospital_years,695.0,352.0,-343.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2022,los_sum,152955.0,84737.0,-68218.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2022,los_max,218.0,214.0,-4.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2022,lag_mean,139.69982262245873,130.92349221039643,-8.776330412062293,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2022,log_lag_mean,4.158158284031657,4.244673057758349,0.08651477372669181,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2023,records,21752.0,13186.0,-8566.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2023,hospitals,702.0,358.0,-344.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2023,deaths,2455.0,1667.0,-788.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2023,known_outcome,21752.0,13186.0,-8566.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2023,age_median,46.0,40.0,-6.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2023,age_q1,30.0,28.0,-2.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2023,age_q3,65.0,57.0,-8.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2023,female,4878.0,2573.0,-2305.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2023,mortality_known_outcome,0.11286318499448326,0.12642196268769906,0.013558777693215798,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2023,hospital_years,702.0,358.0,-344.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2023,los_sum,147068.0,84189.0,-62879.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2023,los_max,375.0,375.0,0.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2023,lag_mean,157.61989702096358,145.68876080691643,-11.931136214047143,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,2023,log_lag_mean,4.2932084933004555,4.350467219542661,0.05725872624220507,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,all,missing_year,0.0,0.0,0.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,all,missing_age,0.0,0.0,0.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,all,missing_death_in_hospital,0.0,0.0,0.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,all,missing_los_days,0.0,0.0,0.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,all,missing_hospital_volume_year,0.0,0.0,0.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,all,missing_lag_volume,0.0,0.0,0.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,all,missing_log_lag_volume,0.0,0.0,0.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,all,missing_hospital_id,0.0,0.0,0.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,all,missing_sex,0.0,0.0,0.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,all,missing_dx_main,0.0,0.0,0.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,all,missing_trauma_subtype,0.0,0.0,0.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,all,missing_hospital_region,0.0,0.0,0.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations
+mexico,longitudinal,all,missing_procedure_group,0.0,0.0,0.0,Original sectorial cohort vs independently downloaded SSA series; distinct source populations

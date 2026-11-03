@@ -1,0 +1,8 @@
+{
+  "paired_difference_matches_explicit_dummies": true,
+  "joint_cluster_covariance_matches_explicit_dummies": true,
+  "dummy_glm_beta_agreement": true,
+  "dummy_glm_cluster_covariance_agreement": true,
+  "mexico_main_estimate_reproduced": true,
+  "brasil_main_estimate_reproduced": true
+}
